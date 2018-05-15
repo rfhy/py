@@ -1,0 +1,161 @@
+Applications Memory Usage (kB):
+Uptime: 62842320 Realtime: 62842320
+
+Total PSS by process:
+    22129 kB: com.android.systemui (pid 1045)
+    21174 kB: system (pid 825)
+    11860 kB: com.android.launcher3 (pid 20415 / activities)
+    10282 kB: surfaceflinger (pid 274)
+     9987 kB: com.roobo.ioe.videoservice (pid 20281)
+     4619 kB: android.process.acore (pid 20443)
+     3327 kB: com.android.phone (pid 1291)
+     2997 kB: mm-qcamera-daemon (pid 351)
+     2606 kB: zygote (pid 332)
+     2565 kB: mediaserver (pid 294)
+     2361 kB: com.quicinc.cne.CNEService (pid 1234)
+     1899 kB: com.qualcomm.qti.gesture (pid 1272)
+     1885 kB: com.qualcomm.qti.rcsbootstraputil (pid 1254)
+     1457 kB: logd (pid 269)
+      444 kB: dumpsys (pid 20466)
+      413 kB: /init (pid 1)
+      393 kB: sdcard (pid 342)
+      294 kB: thermal-engine (pid 316)
+      268 kB: wpa_supplicant (pid 1182)
+      229 kB: mm-pp-daemon (pid 360)
+      219 kB: netd (pid 286)
+      218 kB: ueventd (pid 231)
+      214 kB: adbd (pid 361)
+      209 kB: dpmd (pid 457)
+      188 kB: healthd (pid 270)
+      183 kB: ptt_socket_app (pid 309)
+      169 kB: vold (pid 273)
+      140 kB: xtwifi-inet-agent (pid 462)
+      139 kB: location-mq (pid 460)
+      134 kB: servicemanager (pid 272)
+      123 kB: time_daemon (pid 353)
+       97 kB: xtwifi-client (pid 463)
+       78 kB: vm_bms (pid 499)
+       72 kB: lmkd (pid 271)
+       48 kB: mcu_server (pid 331)
+       45 kB: dpmd (pid 336)
+       31 kB: slim_ap_daemon (pid 464)
+       30 kB: drmserver (pid 293)
+       25 kB: cnss-daemon (pid 337)
+       23 kB: audiod (pid 354)
+       17 kB: sdcard (pid 345)
+       17 kB: keystore (pid 780)
+       16 kB: scanner-svr (pid 301)
+       15 kB: pm-service (pid 280)
+       11 kB: qcom-system-daemon (pid 304)
+       11 kB: imsdatadaemon (pid 510)
+       10 kB: qseecomd (pid 279)
+       10 kB: loc_launcher (pid 338)
+       10 kB: RIDLClient.exe (pid 347)
+       10 kB: imsqmidaemon (pid 498)
+       10 kB: dhcpcd (pid 14537)
+        9 kB: tftp_server (pid 277)
+        9 kB: rmt_storage (pid 284)
+        9 kB: sh (pid 285)
+        9 kB: installd (pid 295)
+        9 kB: wcnss_service (pid 317)
+        9 kB: sh (pid 5328)
+        9 kB: sh (pid 20250)
+        8 kB: perfd (pid 1448)
+        7 kB: debuggerd (pid 287)
+        6 kB: qseecomd (pid 324)
+
+Total PSS by OOM adjustment:
+    24554 kB: Native
+               10282 kB: surfaceflinger (pid 274)
+                2997 kB: mm-qcamera-daemon (pid 351)
+                2606 kB: zygote (pid 332)
+                2565 kB: mediaserver (pid 294)
+                1457 kB: logd (pid 269)
+                 444 kB: dumpsys (pid 20466)
+                 413 kB: /init (pid 1)
+                 393 kB: sdcard (pid 342)
+                 294 kB: thermal-engine (pid 316)
+                 268 kB: wpa_supplicant (pid 1182)
+                 229 kB: mm-pp-daemon (pid 360)
+                 219 kB: netd (pid 286)
+                 218 kB: ueventd (pid 231)
+                 214 kB: adbd (pid 361)
+                 209 kB: dpmd (pid 457)
+                 188 kB: healthd (pid 270)
+                 183 kB: ptt_socket_app (pid 309)
+                 169 kB: vold (pid 273)
+                 140 kB: xtwifi-inet-agent (pid 462)
+                 139 kB: location-mq (pid 460)
+                 134 kB: servicemanager (pid 272)
+                 123 kB: time_daemon (pid 353)
+                  97 kB: xtwifi-client (pid 463)
+                  78 kB: vm_bms (pid 499)
+                  72 kB: lmkd (pid 271)
+                  48 kB: mcu_server (pid 331)
+                  45 kB: dpmd (pid 336)
+                  31 kB: slim_ap_daemon (pid 464)
+                  30 kB: drmserver (pid 293)
+                  25 kB: cnss-daemon (pid 337)
+                  23 kB: audiod (pid 354)
+                  17 kB: sdcard (pid 345)
+                  17 kB: keystore (pid 780)
+                  16 kB: scanner-svr (pid 301)
+                  15 kB: pm-service (pid 280)
+                  11 kB: qcom-system-daemon (pid 304)
+                  11 kB: imsdatadaemon (pid 510)
+                  10 kB: qseecomd (pid 279)
+                  10 kB: loc_launcher (pid 338)
+                  10 kB: RIDLClient.exe (pid 347)
+                  10 kB: imsqmidaemon (pid 498)
+                  10 kB: dhcpcd (pid 14537)
+                   9 kB: tftp_server (pid 277)
+                   9 kB: rmt_storage (pid 284)
+                   9 kB: sh (pid 285)
+                   9 kB: installd (pid 295)
+                   9 kB: wcnss_service (pid 317)
+                   9 kB: sh (pid 5328)
+                   9 kB: sh (pid 20250)
+                   8 kB: perfd (pid 1448)
+                   7 kB: debuggerd (pid 287)
+                   6 kB: qseecomd (pid 324)
+    52775 kB: Persistent
+               22129 kB: com.android.systemui (pid 1045)
+               21174 kB: system (pid 825)
+                3327 kB: com.android.phone (pid 1291)
+                2361 kB: com.quicinc.cne.CNEService (pid 1234)
+                1899 kB: com.qualcomm.qti.gesture (pid 1272)
+                1885 kB: com.qualcomm.qti.rcsbootstraputil (pid 1254)
+    16479 kB: Foreground
+               11860 kB: com.android.launcher3 (pid 20415 / activities)
+                4619 kB: android.process.acore (pid 20443)
+     9987 kB: A Services
+                9987 kB: com.roobo.ioe.videoservice (pid 20281)
+
+Total PSS by category:
+    26217 kB: Dalvik
+    16023 kB: Native
+    14046 kB: .so mmap
+    12294 kB: .art mmap
+     9856 kB: EGL mtrack
+     9018 kB: .oat mmap
+     4020 kB: .dex mmap
+     3300 kB: Stack
+     2476 kB: Gfx dev
+     2132 kB: Dalvik Other
+     1468 kB: .apk mmap
+     1376 kB: Other mmap
+     1150 kB: Unknown
+      286 kB: .ttf mmap
+      109 kB: Other dev
+       20 kB: Ashmem
+        4 kB: Cursor
+        0 kB: .jar mmap
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 445156 kB (status critical)
+ Free RAM: 201936 kB (0 cached pss + 49468 cached kernel + 152468 free)
+ Used RAM: 196127 kB (103795 used pss + 92332 kernel)
+ Lost RAM: 47093 kB
+     ZRAM: 23352 kB physical used for 59116 kB in swap (524284 kB total swap)
+   Tuning: 96 (large 256), oom 94438 kB, restore limit 31479 kB (high-end-gfx)

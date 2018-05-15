@@ -1,0 +1,1822 @@
+20161228 21:17:36 adb connect sucess
+20161228 21:17:36 remove wifi conenct
+20161228 21:17:36 remove wifi sucess
+20161228 21:17:36 ====================== testtimes: 1 ====================
+
+20161228 21:17:36 ********** reset to default status **********
+20161228 21:17:36 remove wifi conenct
+20161228 21:17:36 remove wifi sucess
+20161228 21:17:36 ********** reboot without wifi **********
+20161228 21:17:36 reboot device and sleep 20s
+20161228 21:17:59 adb connect sucess
+20161228 21:19:16 find ota process
+20161228 21:19:16 coreserver start ota
+20161228 21:19:16 pass
+
+20161228 21:19:16 ********** no wifi , kill ota **********
+20161228 21:19:16 com.android.ota pid is: 776
+20161228 21:19:16 kill ota
+20161228 21:21:50 adb connect sucess
+20161228 21:21:50 connect wifi roobo_test1234
+20161228 21:22:11 connect wifi roobo_test1234
+20161228 21:22:32 connect wifi roobo_test1234
+20161228 21:22:53 connect wifi roobo_test1234
+20161228 21:23:14 connect wifi roobo_test1234
+20161228 21:23:34 connect wifi roobo_test1234
+20161228 21:23:55 connect wifi fail
+20161228 21:24:16 adb connect sucess
+20161228 21:24:16 ====================== testtimes: 1 ====================
+
+20161228 21:24:16 ********** reboot with wifi connected **********
+20161228 21:24:16 reboot device and sleep 20s
+20161228 21:24:39 adb connect sucess
+20161228 21:25:58 find ota process
+20161228 21:25:58 coreserver start ota
+20161228 21:25:58 pass
+
+20161228 21:25:58 ********** after connect wifi , kill ota **********
+20161228 21:25:58 com.android.ota pid is: 818
+20161228 21:25:58 kill ota
+20161228 21:27:16 find ota process
+20161228 21:27:16 can't find which process start ota in log
+20161228 21:27:16 fail
+20161228 21:27:16 mv /sdcard/logcat.txt to /sdcard/20161228_212558_logcat.txt
+
+20161228 21:27:16 ====================== testtimes: 2 ====================
+
+20161228 21:27:16 ********** reboot with wifi connected **********
+20161228 21:27:16 reboot device and sleep 20s
+20161228 21:27:39 adb connect sucess
+20161228 21:28:59 find ota process
+20161228 21:28:59 coreserver start ota
+20161228 21:28:59 pass
+
+20161228 21:28:59 ********** after connect wifi , kill ota **********
+20161228 21:28:59 com.android.ota pid is: 997
+20161228 21:28:59 kill ota
+20161228 21:30:17 find ota process
+20161228 21:30:17 can't find which process start ota in log
+20161228 21:30:17 fail
+20161228 21:30:17 mv /sdcard/logcat.txt to /sdcard/20161228_212859_logcat.txt
+
+20161228 21:30:17 ====================== testtimes: 3 ====================
+
+20161228 21:30:17 ********** reboot with wifi connected **********
+20161228 21:30:17 reboot device and sleep 20s
+20161228 21:30:40 adb connect sucess
+20161228 21:31:59 find ota process
+20161228 21:31:59 coreserver start ota
+20161228 21:31:59 pass
+
+20161228 21:31:59 ********** after connect wifi , kill ota **********
+20161228 21:32:00 com.android.ota pid is: 805
+20161228 21:32:00 kill ota
+20161228 21:33:18 find ota process
+20161228 21:33:18 can't find which process start ota in log
+20161228 21:33:18 fail
+20161228 21:33:18 mv /sdcard/logcat.txt to /sdcard/20161228_213200_logcat.txt
+
+20161228 21:33:18 ====================== testtimes: 4 ====================
+
+20161228 21:33:18 ********** reboot with wifi connected **********
+20161228 21:33:18 reboot device and sleep 20s
+20161228 21:33:41 adb connect sucess
+20161228 21:35:00 find ota process
+20161228 21:35:00 coreserver start ota
+20161228 21:35:00 pass
+
+20161228 21:35:00 ********** after connect wifi , kill ota **********
+20161228 21:35:00 com.android.ota pid is: 812
+20161228 21:35:00 kill ota
+20161228 21:36:18 find ota process
+20161228 21:36:18 can't find which process start ota in log
+20161228 21:36:18 fail
+20161228 21:36:18 mv /sdcard/logcat.txt to /sdcard/20161228_213500_logcat.txt
+
+20161228 21:36:18 ====================== testtimes: 5 ====================
+
+20161228 21:36:18 ********** reboot with wifi connected **********
+20161228 21:36:18 reboot device and sleep 20s
+20161228 21:36:42 adb connect sucess
+20161228 21:38:01 find ota process
+20161228 21:38:01 coreserver start ota
+20161228 21:38:01 pass
+
+20161228 21:38:01 ********** after connect wifi , kill ota **********
+20161228 21:38:01 com.android.ota pid is: 999
+20161228 21:38:01 kill ota
+20161228 21:39:20 find ota process
+20161228 21:39:20 can't find which process start ota in log
+20161228 21:39:20 fail
+20161228 21:39:20 mv /sdcard/logcat.txt to /sdcard/20161228_213801_logcat.txt
+
+20161228 21:39:20 ====================== testtimes: 6 ====================
+
+20161228 21:39:20 ********** reboot with wifi connected **********
+20161228 21:39:20 reboot device and sleep 20s
+20161228 21:39:43 adb connect sucess
+20161228 21:41:03 find ota process
+20161228 21:41:03 coreserver start ota
+20161228 21:41:03 pass
+
+20161228 21:41:03 ********** after connect wifi , kill ota **********
+20161228 21:41:03 com.android.ota pid is: 992
+20161228 21:41:03 kill ota
+20161228 21:42:23 find ota process
+20161228 21:42:23 can't find which process start ota in log
+20161228 21:42:23 fail
+20161228 21:42:23 mv /sdcard/logcat.txt to /sdcard/20161228_214103_logcat.txt
+
+20161228 21:42:23 ====================== testtimes: 7 ====================
+
+20161228 21:42:23 ********** reboot with wifi connected **********
+20161228 21:42:23 reboot device and sleep 20s
+20161228 21:42:47 adb connect sucess
+20161228 21:44:06 find ota process
+20161228 21:44:06 coreserver start ota
+20161228 21:44:06 pass
+
+20161228 21:44:06 ********** after connect wifi , kill ota **********
+20161228 21:44:06 com.android.ota pid is: 802
+20161228 21:44:06 kill ota
+20161228 21:45:25 find ota process
+20161228 21:45:25 can't find which process start ota in log
+20161228 21:45:25 fail
+20161228 21:45:25 mv /sdcard/logcat.txt to /sdcard/20161228_214406_logcat.txt
+
+20161228 21:45:25 ====================== testtimes: 8 ====================
+
+20161228 21:45:25 ********** reboot with wifi connected **********
+20161228 21:45:25 reboot device and sleep 20s
+20161228 21:45:48 adb connect sucess
+20161228 21:47:07 find ota process
+20161228 21:47:07 coreserver start ota
+20161228 21:47:07 pass
+
+20161228 21:47:07 ********** after connect wifi , kill ota **********
+20161228 21:47:07 com.android.ota pid is: 824
+20161228 21:47:07 kill ota
+20161228 21:48:25 find ota process
+20161228 21:48:25 can't find which process start ota in log
+20161228 21:48:25 fail
+20161228 21:48:25 mv /sdcard/logcat.txt to /sdcard/20161228_214707_logcat.txt
+
+20161228 21:48:25 ====================== testtimes: 9 ====================
+
+20161228 21:48:25 ********** reboot with wifi connected **********
+20161228 21:48:25 reboot device and sleep 20s
+20161228 21:48:48 adb connect sucess
+20161228 21:50:08 find ota process
+20161228 21:50:08 coreserver start ota
+20161228 21:50:08 pass
+
+20161228 21:50:08 ********** after connect wifi , kill ota **********
+20161228 21:50:08 com.android.ota pid is: 1007
+20161228 21:50:08 kill ota
+20161228 21:51:26 find ota process
+20161228 21:51:26 can't find which process start ota in log
+20161228 21:51:26 fail
+20161228 21:51:26 mv /sdcard/logcat.txt to /sdcard/20161228_215008_logcat.txt
+
+20161228 21:51:26 ====================== testtimes: 10 ====================
+
+20161228 21:51:26 ********** reboot with wifi connected **********
+20161228 21:51:26 reboot device and sleep 20s
+20161228 21:51:49 adb connect sucess
+20161228 21:53:09 find ota process
+20161228 21:53:09 coreserver start ota
+20161228 21:53:09 pass
+
+20161228 21:53:09 ********** after connect wifi , kill ota **********
+20161228 21:53:09 com.android.ota pid is: 1005
+20161228 21:53:09 kill ota
+20161228 21:54:27 find ota process
+20161228 21:54:27 can't find which process start ota in log
+20161228 21:54:27 fail
+20161228 21:54:27 mv /sdcard/logcat.txt to /sdcard/20161228_215309_logcat.txt
+
+20161228 21:54:27 ====================== testtimes: 11 ====================
+
+20161228 21:54:27 ********** reboot with wifi connected **********
+20161228 21:54:27 reboot device and sleep 20s
+20161228 21:54:51 adb connect sucess
+20161228 21:56:10 find ota process
+20161228 21:56:10 coreserver start ota
+20161228 21:56:10 pass
+
+20161228 21:56:10 ********** after connect wifi , kill ota **********
+20161228 21:56:10 com.android.ota pid is: 809
+20161228 21:56:10 kill ota
+20161228 21:57:28 find ota process
+20161228 21:57:28 can't find which process start ota in log
+20161228 21:57:28 fail
+20161228 21:57:28 mv /sdcard/logcat.txt to /sdcard/20161228_215610_logcat.txt
+
+20161228 21:57:28 ====================== testtimes: 12 ====================
+
+20161228 21:57:28 ********** reboot with wifi connected **********
+20161228 21:57:28 reboot device and sleep 20s
+20161228 21:57:53 adb connect sucess
+20161228 21:59:12 find ota process
+20161228 21:59:12 coreserver start ota
+20161228 21:59:12 pass
+
+20161228 21:59:12 ********** after connect wifi , kill ota **********
+20161228 21:59:12 com.android.ota pid is: 799
+20161228 21:59:12 kill ota
+20161228 22:00:30 find ota process
+20161228 22:00:30 can't find which process start ota in log
+20161228 22:00:30 fail
+20161228 22:00:30 mv /sdcard/logcat.txt to /sdcard/20161228_215912_logcat.txt
+
+20161228 22:00:30 ====================== testtimes: 13 ====================
+
+20161228 22:00:30 ********** reboot with wifi connected **********
+20161228 22:00:30 reboot device and sleep 20s
+20161228 22:00:54 adb connect sucess
+20161228 22:02:13 find ota process
+20161228 22:02:13 coreserver start ota
+20161228 22:02:13 pass
+
+20161228 22:02:13 ********** after connect wifi , kill ota **********
+20161228 22:02:13 com.android.ota pid is: 1002
+20161228 22:02:13 kill ota
+20161228 22:03:31 find ota process
+20161228 22:03:31 can't find which process start ota in log
+20161228 22:03:31 fail
+20161228 22:03:31 mv /sdcard/logcat.txt to /sdcard/20161228_220213_logcat.txt
+
+20161228 22:03:31 ====================== testtimes: 14 ====================
+
+20161228 22:03:31 ********** reboot with wifi connected **********
+20161228 22:03:31 reboot device and sleep 20s
+20161228 22:03:55 adb connect sucess
+20161228 22:05:14 find ota process
+20161228 22:05:14 coreserver start ota
+20161228 22:05:14 pass
+
+20161228 22:05:14 ********** after connect wifi , kill ota **********
+20161228 22:05:14 com.android.ota pid is: 810
+20161228 22:05:14 kill ota
+20161228 22:06:32 find ota process
+20161228 22:06:32 can't find which process start ota in log
+20161228 22:06:33 fail
+20161228 22:06:33 mv /sdcard/logcat.txt to /sdcard/20161228_220514_logcat.txt
+
+20161228 22:06:33 ====================== testtimes: 15 ====================
+
+20161228 22:06:33 ********** reboot with wifi connected **********
+20161228 22:06:33 reboot device and sleep 20s
+20161228 22:06:57 adb connect sucess
+20161228 22:08:16 find ota process
+20161228 22:08:16 coreserver start ota
+20161228 22:08:16 pass
+
+20161228 22:08:16 ********** after connect wifi , kill ota **********
+20161228 22:08:16 com.android.ota pid is: 807
+20161228 22:08:16 kill ota
+20161228 22:09:34 find ota process
+20161228 22:09:34 can't find which process start ota in log
+20161228 22:09:34 fail
+20161228 22:09:34 mv /sdcard/logcat.txt to /sdcard/20161228_220816_logcat.txt
+
+20161228 22:09:34 ====================== testtimes: 16 ====================
+
+20161228 22:09:34 ********** reboot with wifi connected **********
+20161228 22:09:34 reboot device and sleep 20s
+20161228 22:09:57 adb connect sucess
+20161228 22:11:40 find ota process
+20161228 22:11:40 coreserver start ota
+20161228 22:11:40 pass
+
+20161228 22:11:40 ********** after connect wifi , kill ota **********
+20161228 22:11:40 com.android.ota pid is: 988
+20161228 22:11:40 kill ota
+20161228 22:12:58 find ota process
+20161228 22:12:58 can't find which process start ota in log
+20161228 22:12:58 fail
+20161228 22:12:58 mv /sdcard/logcat.txt to /sdcard/20161228_221140_logcat.txt
+
+20161228 22:12:58 ====================== testtimes: 17 ====================
+
+20161228 22:12:58 ********** reboot with wifi connected **********
+20161228 22:12:58 reboot device and sleep 20s
+20161228 22:13:21 adb connect sucess
+20161228 22:14:41 find ota process
+20161228 22:14:41 coreserver start ota
+20161228 22:14:41 pass
+
+20161228 22:14:41 ********** after connect wifi , kill ota **********
+20161228 22:14:41 com.android.ota pid is: 952
+20161228 22:14:41 kill ota
+20161228 22:15:59 find ota process
+20161228 22:15:59 can't find which process start ota in log
+20161228 22:15:59 fail
+20161228 22:15:59 mv /sdcard/logcat.txt to /sdcard/20161228_221441_logcat.txt
+
+20161228 22:15:59 ====================== testtimes: 18 ====================
+
+20161228 22:15:59 ********** reboot with wifi connected **********
+20161228 22:15:59 reboot device and sleep 20s
+20161228 22:16:23 adb connect sucess
+20161228 22:17:42 find ota process
+20161228 22:17:42 coreserver start ota
+20161228 22:17:42 pass
+
+20161228 22:17:42 ********** after connect wifi , kill ota **********
+20161228 22:17:42 com.android.ota pid is: 789
+20161228 22:17:42 kill ota
+20161228 22:19:01 find ota process
+20161228 22:19:01 can't find which process start ota in log
+20161228 22:19:01 fail
+20161228 22:19:01 mv /sdcard/logcat.txt to /sdcard/20161228_221742_logcat.txt
+
+20161228 22:19:01 ====================== testtimes: 19 ====================
+
+20161228 22:19:01 ********** reboot with wifi connected **********
+20161228 22:19:01 reboot device and sleep 20s
+20161228 22:19:25 adb connect sucess
+20161228 22:20:44 find ota process
+20161228 22:20:44 coreserver start ota
+20161228 22:20:44 pass
+
+20161228 22:20:44 ********** after connect wifi , kill ota **********
+20161228 22:20:44 com.android.ota pid is: 803
+20161228 22:20:44 kill ota
+20161228 22:22:02 find ota process
+20161228 22:22:02 can't find which process start ota in log
+20161228 22:22:02 fail
+20161228 22:22:02 mv /sdcard/logcat.txt to /sdcard/20161228_222044_logcat.txt
+
+20161228 22:22:03 ====================== testtimes: 20 ====================
+
+20161228 22:22:03 ********** reboot with wifi connected **********
+20161228 22:22:03 reboot device and sleep 20s
+20161228 22:22:26 adb connect sucess
+20161228 22:23:45 find ota process
+20161228 22:23:45 coreserver start ota
+20161228 22:23:45 pass
+
+20161228 22:23:45 ********** after connect wifi , kill ota **********
+20161228 22:23:45 com.android.ota pid is: 811
+20161228 22:23:45 kill ota
+20161228 22:25:05 find ota process
+20161228 22:25:05 can't find which process start ota in log
+20161228 22:25:05 fail
+20161228 22:25:05 mv /sdcard/logcat.txt to /sdcard/20161228_222345_logcat.txt
+
+20161228 22:25:05 ====================== testtimes: 21 ====================
+
+20161228 22:25:05 ********** reboot with wifi connected **********
+20161228 22:25:05 reboot device and sleep 20s
+20161228 22:25:28 adb connect sucess
+20161228 22:26:47 find ota process
+20161228 22:26:47 coreserver start ota
+20161228 22:26:47 pass
+
+20161228 22:26:47 ********** after connect wifi , kill ota **********
+20161228 22:26:47 com.android.ota pid is: 810
+20161228 22:26:47 kill ota
+20161228 22:28:05 find ota process
+20161228 22:28:05 can't find which process start ota in log
+20161228 22:28:05 fail
+20161228 22:28:05 mv /sdcard/logcat.txt to /sdcard/20161228_222647_logcat.txt
+
+20161228 22:28:05 ====================== testtimes: 22 ====================
+
+20161228 22:28:05 ********** reboot with wifi connected **********
+20161228 22:28:05 reboot device and sleep 20s
+20161228 22:28:29 adb connect sucess
+20161228 22:29:48 find ota process
+20161228 22:29:48 coreserver start ota
+20161228 22:29:48 pass
+
+20161228 22:29:48 ********** after connect wifi , kill ota **********
+20161228 22:29:48 com.android.ota pid is: 998
+20161228 22:29:48 kill ota
+20161228 22:31:06 find ota process
+20161228 22:31:06 can't find which process start ota in log
+20161228 22:31:06 fail
+20161228 22:31:06 mv /sdcard/logcat.txt to /sdcard/20161228_222948_logcat.txt
+
+20161228 22:31:06 ====================== testtimes: 23 ====================
+
+20161228 22:31:06 ********** reboot with wifi connected **********
+20161228 22:31:06 reboot device and sleep 20s
+20161228 22:31:31 adb connect sucess
+20161228 22:32:50 find ota process
+20161228 22:32:50 coreserver start ota
+20161228 22:32:50 pass
+
+20161228 22:32:50 ********** after connect wifi , kill ota **********
+20161228 22:32:50 com.android.ota pid is: 815
+20161228 22:32:50 kill ota
+20161228 22:34:08 find ota process
+20161228 22:34:08 can't find which process start ota in log
+20161228 22:34:08 fail
+20161228 22:34:08 mv /sdcard/logcat.txt to /sdcard/20161228_223250_logcat.txt
+
+20161228 22:34:08 ====================== testtimes: 24 ====================
+
+20161228 22:34:08 ********** reboot with wifi connected **********
+20161228 22:34:08 reboot device and sleep 20s
+20161228 22:34:32 adb connect sucess
+20161228 22:35:51 find ota process
+20161228 22:35:51 coreserver start ota
+20161228 22:35:51 pass
+
+20161228 22:35:51 ********** after connect wifi , kill ota **********
+20161228 22:35:51 com.android.ota pid is: 1017
+20161228 22:35:51 kill ota
+20161228 22:37:08 find ota process
+20161228 22:37:08 can't find which process start ota in log
+20161228 22:37:08 fail
+20161228 22:37:08 mv /sdcard/logcat.txt to /sdcard/20161228_223551_logcat.txt
+
+20161228 22:37:08 ====================== testtimes: 25 ====================
+
+20161228 22:37:08 ********** reboot with wifi connected **********
+20161228 22:37:08 reboot device and sleep 20s
+20161228 22:37:31 adb connect sucess
+20161228 22:38:50 find ota process
+20161228 22:38:50 coreserver start ota
+20161228 22:38:50 pass
+
+20161228 22:38:50 ********** after connect wifi , kill ota **********
+20161228 22:38:50 com.android.ota pid is: 779
+20161228 22:38:50 kill ota
+20161228 22:40:09 find ota process
+20161228 22:40:09 can't find which process start ota in log
+20161228 22:40:09 fail
+20161228 22:40:09 mv /sdcard/logcat.txt to /sdcard/20161228_223851_logcat.txt
+
+20161228 22:40:09 ====================== testtimes: 26 ====================
+
+20161228 22:40:09 ********** reboot with wifi connected **********
+20161228 22:40:09 reboot device and sleep 20s
+20161228 22:40:32 adb connect sucess
+20161228 22:41:51 find ota process
+20161228 22:41:51 coreserver start ota
+20161228 22:41:51 pass
+
+20161228 22:41:51 ********** after connect wifi , kill ota **********
+20161228 22:41:51 com.android.ota pid is: 785
+20161228 22:41:51 kill ota
+20161228 22:43:09 find ota process
+20161228 22:43:09 can't find which process start ota in log
+20161228 22:43:09 fail
+20161228 22:43:09 mv /sdcard/logcat.txt to /sdcard/20161228_224151_logcat.txt
+
+20161228 22:43:09 ====================== testtimes: 27 ====================
+
+20161228 22:43:09 ********** reboot with wifi connected **********
+20161228 22:43:09 reboot device and sleep 20s
+20161228 22:43:33 adb connect sucess
+20161228 22:44:52 find ota process
+20161228 22:44:52 coreserver start ota
+20161228 22:44:52 pass
+
+20161228 22:44:52 ********** after connect wifi , kill ota **********
+20161228 22:44:52 com.android.ota pid is: 820
+20161228 22:44:52 kill ota
+20161228 22:46:11 find ota process
+20161228 22:46:11 can't find which process start ota in log
+20161228 22:46:11 fail
+20161228 22:46:11 mv /sdcard/logcat.txt to /sdcard/20161228_224452_logcat.txt
+
+20161228 22:46:11 ====================== testtimes: 28 ====================
+
+20161228 22:46:11 ********** reboot with wifi connected **********
+20161228 22:46:11 reboot device and sleep 20s
+20161228 22:46:34 adb connect sucess
+20161228 22:47:53 find ota process
+20161228 22:47:53 can't find which process start ota in log
+20161228 22:47:53 fail
+20161228 22:47:53 mv /sdcard/logcat.txt to /sdcard/20161228_224634_logcat.txt
+
+20161228 22:47:53 ********** after connect wifi , kill ota **********
+20161228 22:47:53 com.android.ota pid is: 806
+20161228 22:47:53 kill ota
+20161228 22:49:12 find ota process
+20161228 22:49:12 can't find which process start ota in log
+20161228 22:49:12 fail
+20161228 22:49:12 mv /sdcard/logcat.txt to /sdcard/20161228_224754_logcat.txt
+
+20161228 22:49:12 ====================== testtimes: 29 ====================
+
+20161228 22:49:12 ********** reboot with wifi connected **********
+20161228 22:49:12 reboot device and sleep 20s
+20161228 22:49:36 adb connect sucess
+20161228 22:50:55 find ota process
+20161228 22:50:55 coreserver start ota
+20161228 22:50:55 pass
+
+20161228 22:50:55 ********** after connect wifi , kill ota **********
+20161228 22:50:55 com.android.ota pid is: 770
+20161228 22:50:55 kill ota
+20161228 22:52:15 find ota process
+20161228 22:52:15 can't find which process start ota in log
+20161228 22:52:15 fail
+20161228 22:52:15 mv /sdcard/logcat.txt to /sdcard/20161228_225055_logcat.txt
+
+20161228 22:52:15 ====================== testtimes: 30 ====================
+
+20161228 22:52:15 ********** reboot with wifi connected **********
+20161228 22:52:15 reboot device and sleep 20s
+20161228 22:52:40 adb connect sucess
+20161228 22:53:59 find ota process
+20161228 22:53:59 coreserver start ota
+20161228 22:53:59 pass
+
+20161228 22:53:59 ********** after connect wifi , kill ota **********
+20161228 22:53:59 com.android.ota pid is: 833
+20161228 22:53:59 kill ota
+20161228 22:55:17 find ota process
+20161228 22:55:17 can't find which process start ota in log
+20161228 22:55:17 fail
+20161228 22:55:17 mv /sdcard/logcat.txt to /sdcard/20161228_225359_logcat.txt
+
+20161228 22:55:17 ====================== testtimes: 31 ====================
+
+20161228 22:55:17 ********** reboot with wifi connected **********
+20161228 22:55:17 reboot device and sleep 20s
+20161228 22:55:41 adb connect sucess
+20161228 22:57:00 find ota process
+20161228 22:57:00 coreserver start ota
+20161228 22:57:00 pass
+
+20161228 22:57:00 ********** after connect wifi , kill ota **********
+20161228 22:57:00 com.android.ota pid is: 915
+20161228 22:57:00 kill ota
+20161228 22:58:18 find ota process
+20161228 22:58:18 can't find which process start ota in log
+20161228 22:58:18 fail
+20161228 22:58:18 mv /sdcard/logcat.txt to /sdcard/20161228_225700_logcat.txt
+
+20161228 22:58:18 ====================== testtimes: 32 ====================
+
+20161228 22:58:18 ********** reboot with wifi connected **********
+20161228 22:58:18 reboot device and sleep 20s
+20161228 22:58:42 adb connect sucess
+20161228 23:00:01 find ota process
+20161228 23:00:01 coreserver start ota
+20161228 23:00:01 pass
+
+20161228 23:00:01 ********** after connect wifi , kill ota **********
+20161228 23:00:01 com.android.ota pid is: 994
+20161228 23:00:01 kill ota
+20161228 23:01:19 find ota process
+20161228 23:01:19 can't find which process start ota in log
+20161228 23:01:19 fail
+20161228 23:01:19 mv /sdcard/logcat.txt to /sdcard/20161228_230001_logcat.txt
+
+20161228 23:01:19 ====================== testtimes: 33 ====================
+
+20161228 23:01:19 ********** reboot with wifi connected **********
+20161228 23:01:19 reboot device and sleep 20s
+20161228 23:01:42 adb connect sucess
+20161228 23:03:01 find ota process
+20161228 23:03:01 coreserver start ota
+20161228 23:03:01 pass
+
+20161228 23:03:01 ********** after connect wifi , kill ota **********
+20161228 23:03:02 com.android.ota pid is: 822
+20161228 23:03:02 kill ota
+20161228 23:04:20 find ota process
+20161228 23:04:20 can't find which process start ota in log
+20161228 23:04:20 fail
+20161228 23:04:20 mv /sdcard/logcat.txt to /sdcard/20161228_230302_logcat.txt
+
+20161228 23:04:20 ====================== testtimes: 34 ====================
+
+20161228 23:04:20 ********** reboot with wifi connected **********
+20161228 23:04:20 reboot device and sleep 20s
+20161228 23:04:43 adb connect sucess
+20161228 23:06:02 find ota process
+20161228 23:06:02 coreserver start ota
+20161228 23:06:02 pass
+
+20161228 23:06:02 ********** after connect wifi , kill ota **********
+20161228 23:06:03 com.android.ota pid is: 950
+20161228 23:06:03 kill ota
+20161228 23:07:21 find ota process
+20161228 23:07:21 can't find which process start ota in log
+20161228 23:07:21 fail
+20161228 23:07:21 mv /sdcard/logcat.txt to /sdcard/20161228_230603_logcat.txt
+
+20161228 23:07:21 ====================== testtimes: 35 ====================
+
+20161228 23:07:21 ********** reboot with wifi connected **********
+20161228 23:07:21 reboot device and sleep 20s
+20161228 23:07:44 adb connect sucess
+20161228 23:09:03 find ota process
+20161228 23:09:03 coreserver start ota
+20161228 23:09:03 pass
+
+20161228 23:09:03 ********** after connect wifi , kill ota **********
+20161228 23:09:03 com.android.ota pid is: 992
+20161228 23:09:03 kill ota
+20161228 23:10:22 find ota process
+20161228 23:10:22 can't find which process start ota in log
+20161228 23:10:22 fail
+20161228 23:10:22 mv /sdcard/logcat.txt to /sdcard/20161228_230903_logcat.txt
+
+20161228 23:10:22 ====================== testtimes: 36 ====================
+
+20161228 23:10:22 ********** reboot with wifi connected **********
+20161228 23:10:22 reboot device and sleep 20s
+20161228 23:10:46 adb connect sucess
+20161228 23:12:05 find ota process
+20161228 23:12:05 coreserver start ota
+20161228 23:12:05 pass
+
+20161228 23:12:05 ********** after connect wifi , kill ota **********
+20161228 23:12:05 com.android.ota pid is: 790
+20161228 23:12:05 kill ota
+20161228 23:13:23 find ota process
+20161228 23:13:23 can't find which process start ota in log
+20161228 23:13:23 fail
+20161228 23:13:23 mv /sdcard/logcat.txt to /sdcard/20161228_231205_logcat.txt
+
+20161228 23:13:23 ====================== testtimes: 37 ====================
+
+20161228 23:13:23 ********** reboot with wifi connected **********
+20161228 23:13:23 reboot device and sleep 20s
+20161228 23:13:46 adb connect sucess
+20161228 23:15:05 find ota process
+20161228 23:15:05 coreserver start ota
+20161228 23:15:05 pass
+
+20161228 23:15:05 ********** after connect wifi , kill ota **********
+20161228 23:15:06 com.android.ota pid is: 932
+20161228 23:15:06 kill ota
+20161228 23:16:23 find ota process
+20161228 23:16:23 can't find which process start ota in log
+20161228 23:16:24 fail
+20161228 23:16:24 mv /sdcard/logcat.txt to /sdcard/20161228_231506_logcat.txt
+
+20161228 23:16:24 ====================== testtimes: 38 ====================
+
+20161228 23:16:24 ********** reboot with wifi connected **********
+20161228 23:16:24 reboot device and sleep 20s
+20161228 23:16:47 adb connect sucess
+20161228 23:18:06 find ota process
+20161228 23:18:06 coreserver start ota
+20161228 23:18:06 pass
+
+20161228 23:18:06 ********** after connect wifi , kill ota **********
+20161228 23:18:06 com.android.ota pid is: 998
+20161228 23:18:06 kill ota
+20161228 23:19:25 find ota process
+20161228 23:19:25 can't find which process start ota in log
+20161228 23:19:25 fail
+20161228 23:19:25 mv /sdcard/logcat.txt to /sdcard/20161228_231806_logcat.txt
+
+20161228 23:19:25 ====================== testtimes: 39 ====================
+
+20161228 23:19:25 ********** reboot with wifi connected **********
+20161228 23:19:25 reboot device and sleep 20s
+20161228 23:19:49 adb connect sucess
+20161228 23:21:08 find ota process
+20161228 23:21:08 coreserver start ota
+20161228 23:21:08 pass
+
+20161228 23:21:08 ********** after connect wifi , kill ota **********
+20161228 23:21:08 com.android.ota pid is: 801
+20161228 23:21:08 kill ota
+20161228 23:22:27 find ota process
+20161228 23:22:27 can't find which process start ota in log
+20161228 23:22:27 fail
+20161228 23:22:27 mv /sdcard/logcat.txt to /sdcard/20161228_232108_logcat.txt
+
+20161228 23:22:27 ====================== testtimes: 40 ====================
+
+20161228 23:22:27 ********** reboot with wifi connected **********
+20161228 23:22:27 reboot device and sleep 20s
+20161229 09:28:20 adb connect sucess
+20161229 09:35:33 adb connect sucess
+20161229 09:35:33 ====================== testtimes: 1 ====================
+
+20161229 09:35:33 ********** reboot with wifi connected **********
+20161229 09:35:33 reboot device and sleep 20s
+20161229 09:35:56 adb connect sucess
+20161229 09:37:16 find ota process
+20161229 09:37:16 coreserver start ota
+20161229 09:37:16 pass
+
+20161229 09:37:16 ====================== testtimes: 2 ====================
+
+20161229 09:37:16 ********** reboot with wifi connected **********
+20161229 09:37:16 reboot device and sleep 20s
+20161229 09:37:39 adb connect sucess
+20161229 09:38:57 find ota process
+20161229 09:38:57 coreserver start ota
+20161229 09:38:57 pass
+
+20161229 09:38:57 ====================== testtimes: 3 ====================
+
+20161229 09:38:57 ********** reboot with wifi connected **********
+20161229 09:38:57 reboot device and sleep 20s
+20161229 09:39:21 adb connect sucess
+20161229 09:41:14 adb connect sucess
+20161229 09:41:14 ====================== testtimes: 1 ====================
+
+20161229 09:41:14 ********** reboot with wifi connected **********
+20161229 09:41:14 reboot device and sleep 20s
+20161229 09:41:37 adb connect sucess
+20161229 09:42:57 find ota process
+20161229 09:42:57 coreserver start ota
+20161229 09:42:57 pass
+
+20161229 09:42:57 ====================== testtimes: 2 ====================
+
+20161229 09:42:57 ********** reboot with wifi connected **********
+20161229 09:42:57 reboot device and sleep 20s
+20161229 09:43:20 adb connect sucess
+20161229 09:44:39 find ota process
+20161229 09:44:39 coreserver start ota
+20161229 09:44:39 pass
+
+20161229 09:44:39 ====================== testtimes: 3 ====================
+
+20161229 09:44:39 ********** reboot with wifi connected **********
+20161229 09:44:39 reboot device and sleep 20s
+20161229 09:45:02 adb connect sucess
+20161229 09:46:22 find ota process
+20161229 09:46:22 coreserver start ota
+20161229 09:46:22 pass
+
+20161229 09:46:22 ====================== testtimes: 4 ====================
+
+20161229 09:46:22 ********** reboot with wifi connected **********
+20161229 09:46:22 reboot device and sleep 20s
+20161229 09:46:46 adb connect sucess
+20161229 09:48:05 find ota process
+20161229 09:48:05 coreserver start ota
+20161229 09:48:05 pass
+
+20161229 09:48:05 ====================== testtimes: 5 ====================
+
+20161229 09:48:05 ********** reboot with wifi connected **********
+20161229 09:48:05 reboot device and sleep 20s
+20161229 09:48:28 adb connect sucess
+20161229 09:49:47 find ota process
+20161229 09:49:47 coreserver start ota
+20161229 09:49:47 pass
+
+20161229 09:49:47 ====================== testtimes: 6 ====================
+
+20161229 09:49:47 ********** reboot with wifi connected **********
+20161229 09:49:47 reboot device and sleep 20s
+20161229 09:50:10 adb connect sucess
+20161229 09:51:29 find ota process
+20161229 09:51:29 coreserver start ota
+20161229 09:51:29 pass
+
+20161229 09:51:29 ====================== testtimes: 7 ====================
+
+20161229 09:51:29 ********** reboot with wifi connected **********
+20161229 09:51:29 reboot device and sleep 20s
+20161229 09:51:52 adb connect sucess
+20161229 09:53:12 find ota process
+20161229 09:53:12 coreserver start ota
+20161229 09:53:12 pass
+
+20161229 09:53:12 ====================== testtimes: 8 ====================
+
+20161229 09:53:12 ********** reboot with wifi connected **********
+20161229 09:53:12 reboot device and sleep 20s
+20161229 09:53:36 adb connect sucess
+20161229 09:54:55 find ota process
+20161229 09:54:55 coreserver start ota
+20161229 09:54:55 pass
+
+20161229 09:54:55 ====================== testtimes: 9 ====================
+
+20161229 09:54:55 ********** reboot with wifi connected **********
+20161229 09:54:55 reboot device and sleep 20s
+20161229 09:55:19 adb connect sucess
+20161229 09:56:38 find ota process
+20161229 09:56:38 coreserver start ota
+20161229 09:56:38 pass
+
+20161229 09:56:38 ====================== testtimes: 10 ====================
+
+20161229 09:56:38 ********** reboot with wifi connected **********
+20161229 09:56:38 reboot device and sleep 20s
+20161229 09:57:01 adb connect sucess
+20161229 09:58:20 find ota process
+20161229 09:58:20 coreserver start ota
+20161229 09:58:20 pass
+
+20161229 09:58:20 ====================== testtimes: 11 ====================
+
+20161229 09:58:20 ********** reboot with wifi connected **********
+20161229 09:58:20 reboot device and sleep 20s
+20161229 09:58:44 adb connect sucess
+20161229 10:00:02 find ota process
+20161229 10:00:02 coreserver start ota
+20161229 10:00:02 pass
+
+20161229 10:00:02 ====================== testtimes: 12 ====================
+
+20161229 10:00:02 ********** reboot with wifi connected **********
+20161229 10:00:02 reboot device and sleep 20s
+20161229 10:03:05 adb connect sucess
+20161229 10:03:05 ====================== testtimes: 1 ====================
+
+20161229 10:03:05 ********** reboot with wifi connected **********
+20161229 10:03:05 reboot device and sleep 20s
+20161229 10:03:28 adb connect sucess
+20161229 10:04:56 find ota process
+20161229 10:04:56 coreserver start ota
+20161229 10:04:56 pass
+
+20161229 10:04:56 ====================== testtimes: 2 ====================
+
+20161229 10:04:56 ********** reboot with wifi connected **********
+20161229 10:04:56 reboot device and sleep 20s
+20161229 10:05:19 adb connect sucess
+20161229 10:06:44 find ota process
+20161229 10:06:44 coreserver start ota
+20161229 10:06:44 pass
+
+20161229 10:06:44 ====================== testtimes: 3 ====================
+
+20161229 10:06:44 ********** reboot with wifi connected **********
+20161229 10:06:44 reboot device and sleep 20s
+20161229 10:07:08 adb connect sucess
+20161229 10:08:34 find ota process
+20161229 10:08:34 coreserver start ota
+20161229 10:08:34 pass
+
+20161229 10:08:34 ====================== testtimes: 4 ====================
+
+20161229 10:08:34 ********** reboot with wifi connected **********
+20161229 10:08:34 reboot device and sleep 20s
+20161229 10:08:58 adb connect sucess
+20161229 10:10:23 find ota process
+20161229 10:10:23 coreserver start ota
+20161229 10:10:23 pass
+
+20161229 10:10:23 ====================== testtimes: 5 ====================
+
+20161229 10:10:23 ********** reboot with wifi connected **********
+20161229 10:10:23 reboot device and sleep 20s
+20161229 10:10:51 adb connect sucess
+20161229 10:12:18 find ota process
+20161229 10:12:18 coreserver start ota
+20161229 10:12:18 pass
+
+20161229 10:12:18 ====================== testtimes: 6 ====================
+
+20161229 10:12:18 ********** reboot with wifi connected **********
+20161229 10:12:18 reboot device and sleep 20s
+20161229 10:12:41 adb connect sucess
+20161229 10:14:07 find ota process
+20161229 10:14:07 coreserver start ota
+20161229 10:14:07 pass
+
+20161229 10:14:07 ====================== testtimes: 7 ====================
+
+20161229 10:14:07 ********** reboot with wifi connected **********
+20161229 10:14:07 reboot device and sleep 20s
+20161229 10:14:33 adb connect sucess
+20161229 10:15:59 find ota process
+20161229 10:15:59 coreserver start ota
+20161229 10:15:59 pass
+
+20161229 10:15:59 ====================== testtimes: 8 ====================
+
+20161229 10:15:59 ********** reboot with wifi connected **********
+20161229 10:15:59 reboot device and sleep 20s
+20161229 10:16:22 adb connect sucess
+20161229 10:17:49 find ota process
+20161229 10:17:49 coreserver start ota
+20161229 10:17:49 pass
+
+20161229 10:17:49 ====================== testtimes: 9 ====================
+
+20161229 10:17:49 ********** reboot with wifi connected **********
+20161229 10:17:49 reboot device and sleep 20s
+20161229 10:18:12 adb connect sucess
+20161229 10:19:38 find ota process
+20161229 10:19:38 coreserver start ota
+20161229 10:19:38 pass
+
+20161229 10:19:38 ====================== testtimes: 10 ====================
+
+20161229 10:19:38 ********** reboot with wifi connected **********
+20161229 10:19:38 reboot device and sleep 20s
+20161229 10:20:06 adb connect sucess
+20161229 10:21:31 find ota process
+20161229 10:21:31 coreserver start ota
+20161229 10:21:31 pass
+
+20161229 10:21:31 ====================== testtimes: 11 ====================
+
+20161229 10:21:31 ********** reboot with wifi connected **********
+20161229 10:21:31 reboot device and sleep 20s
+20161229 10:21:54 adb connect sucess
+20161229 10:23:20 find ota process
+20161229 10:23:20 coreserver start ota
+20161229 10:23:20 pass
+
+20161229 10:23:20 ====================== testtimes: 12 ====================
+
+20161229 10:23:20 ********** reboot with wifi connected **********
+20161229 10:23:20 reboot device and sleep 20s
+20161229 10:23:44 adb connect sucess
+20161229 10:25:10 find ota process
+20161229 10:25:10 coreserver start ota
+20161229 10:25:10 pass
+
+20161229 10:25:10 ====================== testtimes: 13 ====================
+
+20161229 10:25:10 ********** reboot with wifi connected **********
+20161229 10:25:10 reboot device and sleep 20s
+20161229 10:25:33 adb connect sucess
+20161229 10:27:05 find ota process
+20161229 10:27:05 coreserver start ota
+20161229 10:27:05 pass
+
+20161229 10:27:05 ====================== testtimes: 14 ====================
+
+20161229 10:27:05 ********** reboot with wifi connected **********
+20161229 10:27:05 reboot device and sleep 20s
+20161229 10:27:29 adb connect sucess
+20161229 10:28:58 find ota process
+20161229 10:28:58 coreserver start ota
+20161229 10:28:58 pass
+
+20161229 10:28:58 ====================== testtimes: 15 ====================
+
+20161229 10:28:58 ********** reboot with wifi connected **********
+20161229 10:28:58 reboot device and sleep 20s
+20161229 10:29:22 adb connect sucess
+20161229 10:30:51 find ota process
+20161229 10:30:51 coreserver start ota
+20161229 10:30:51 pass
+
+20161229 10:30:51 ====================== testtimes: 16 ====================
+
+20161229 10:30:51 ********** reboot with wifi connected **********
+20161229 10:30:51 reboot device and sleep 20s
+20161229 10:31:15 adb connect sucess
+20161229 10:32:46 find ota process
+20161229 10:32:46 coreserver start ota
+20161229 10:32:46 pass
+
+20161229 10:32:46 ====================== testtimes: 17 ====================
+
+20161229 10:32:46 ********** reboot with wifi connected **********
+20161229 10:32:46 reboot device and sleep 20s
+20161229 10:33:14 adb connect sucess
+20161229 10:34:44 find ota process
+20161229 10:34:44 coreserver start ota
+20161229 10:34:44 pass
+
+20161229 10:34:44 ====================== testtimes: 18 ====================
+
+20161229 10:34:44 ********** reboot with wifi connected **********
+20161229 10:34:44 reboot device and sleep 20s
+20161229 10:35:07 adb connect sucess
+20161229 10:36:39 find ota process
+20161229 10:36:39 coreserver start ota
+20161229 10:36:39 pass
+
+20161229 10:36:39 ====================== testtimes: 19 ====================
+
+20161229 10:36:39 ********** reboot with wifi connected **********
+20161229 10:36:39 reboot device and sleep 20s
+20161229 10:37:06 adb connect sucess
+20161229 10:38:32 find ota process
+20161229 10:38:32 coreserver start ota
+20161229 10:38:32 pass
+
+20161229 10:38:32 ====================== testtimes: 20 ====================
+
+20161229 10:38:32 ********** reboot with wifi connected **********
+20161229 10:38:32 reboot device and sleep 20s
+20161229 10:38:56 adb connect sucess
+20161229 10:40:25 find ota process
+20161229 10:40:25 coreserver start ota
+20161229 10:40:25 pass
+
+20161229 10:40:25 ====================== testtimes: 21 ====================
+
+20161229 10:40:25 ********** reboot with wifi connected **********
+20161229 10:40:25 reboot device and sleep 20s
+20161229 10:40:48 adb connect sucess
+20161229 10:42:18 find ota process
+20161229 10:42:18 coreserver start ota
+20161229 10:42:18 pass
+
+20161229 10:42:18 ====================== testtimes: 22 ====================
+
+20161229 10:42:18 ********** reboot with wifi connected **********
+20161229 10:42:18 reboot device and sleep 20s
+20161229 10:42:41 adb connect sucess
+20161229 10:44:10 find ota process
+20161229 10:44:10 coreserver start ota
+20161229 10:44:10 pass
+
+20161229 10:44:10 ====================== testtimes: 23 ====================
+
+20161229 10:44:10 ********** reboot with wifi connected **********
+20161229 10:44:10 reboot device and sleep 20s
+20161229 10:44:34 adb connect sucess
+20161229 10:46:06 find ota process
+20161229 10:46:06 coreserver start ota
+20161229 10:46:06 pass
+
+20161229 10:46:06 ====================== testtimes: 24 ====================
+
+20161229 10:46:06 ********** reboot with wifi connected **********
+20161229 10:46:06 reboot device and sleep 20s
+20161229 10:46:29 adb connect sucess
+20161229 10:48:00 find ota process
+20161229 10:48:00 coreserver start ota
+20161229 10:48:00 pass
+
+20161229 10:48:00 ====================== testtimes: 25 ====================
+
+20161229 10:48:00 ********** reboot with wifi connected **********
+20161229 10:48:00 reboot device and sleep 20s
+20161229 10:48:23 adb connect sucess
+20161229 10:49:53 find ota process
+20161229 10:49:53 coreserver start ota
+20161229 10:49:53 pass
+
+20161229 10:49:53 ====================== testtimes: 26 ====================
+
+20161229 10:49:53 ********** reboot with wifi connected **********
+20161229 10:49:53 reboot device and sleep 20s
+20161229 10:50:17 adb connect sucess
+20161229 10:51:47 find ota process
+20161229 10:51:47 coreserver start ota
+20161229 10:51:47 pass
+
+20161229 10:51:47 ====================== testtimes: 27 ====================
+
+20161229 10:51:47 ********** reboot with wifi connected **********
+20161229 10:51:47 reboot device and sleep 20s
+20161229 10:52:10 adb connect sucess
+20161229 10:53:41 find ota process
+20161229 10:53:41 coreserver start ota
+20161229 10:53:41 pass
+
+20161229 10:53:41 ====================== testtimes: 28 ====================
+
+20161229 10:53:41 ********** reboot with wifi connected **********
+20161229 10:53:41 reboot device and sleep 20s
+20161229 10:54:09 adb connect sucess
+20161229 10:55:38 find ota process
+20161229 10:55:38 coreserver start ota
+20161229 10:55:38 pass
+
+20161229 10:55:38 ====================== testtimes: 29 ====================
+
+20161229 10:55:38 ********** reboot with wifi connected **********
+20161229 10:55:38 reboot device and sleep 20s
+20161229 10:56:02 adb connect sucess
+20161229 10:57:32 find ota process
+20161229 10:57:32 coreserver start ota
+20161229 10:57:32 pass
+
+20161229 10:57:32 ====================== testtimes: 30 ====================
+
+20161229 10:57:32 ********** reboot with wifi connected **********
+20161229 10:57:32 reboot device and sleep 20s
+20161229 10:57:55 adb connect sucess
+20161229 10:59:25 find ota process
+20161229 10:59:25 coreserver start ota
+20161229 10:59:25 pass
+
+20161229 10:59:25 ====================== testtimes: 31 ====================
+
+20161229 10:59:25 ********** reboot with wifi connected **********
+20161229 10:59:25 reboot device and sleep 20s
+20161229 10:59:49 adb connect sucess
+20161229 11:01:19 find ota process
+20161229 11:01:19 coreserver start ota
+20161229 11:01:19 pass
+
+20161229 11:01:19 ====================== testtimes: 32 ====================
+
+20161229 11:01:19 ********** reboot with wifi connected **********
+20161229 11:01:19 reboot device and sleep 20s
+20161229 11:01:44 adb connect sucess
+20161229 11:03:14 find ota process
+20161229 11:03:14 coreserver start ota
+20161229 11:03:14 pass
+
+20161229 11:03:14 ====================== testtimes: 33 ====================
+
+20161229 11:03:14 ********** reboot with wifi connected **********
+20161229 11:03:14 reboot device and sleep 20s
+20161229 11:03:37 adb connect sucess
+20161229 11:08:12 adb connect sucess
+20161229 11:08:12 ====================== testtimes: 1 ====================
+
+20161229 11:08:12 ********** reboot with wifi connected **********
+20161229 11:08:12 reboot device and sleep 20s
+20161229 11:08:35 adb connect sucess
+20161229 11:10:01 find ota process
+20161229 11:10:01 coreserver start ota
+20161229 11:10:01 pass
+
+20161229 11:10:01 ====================== testtimes: 2 ====================
+
+20161229 11:10:01 ********** reboot with wifi connected **********
+20161229 11:10:01 reboot device and sleep 20s
+20161229 11:10:24 adb connect sucess
+20161229 11:11:54 find ota process
+20161229 11:11:54 coreserver start ota
+20161229 11:11:54 pass
+
+20161229 11:11:54 ====================== testtimes: 3 ====================
+
+20161229 11:11:54 ********** reboot with wifi connected **********
+20161229 11:11:54 reboot device and sleep 20s
+20161229 11:12:18 adb connect sucess
+20161229 11:13:47 find ota process
+20161229 11:13:47 coreserver start ota
+20161229 11:13:47 pass
+
+20161229 11:13:47 ====================== testtimes: 4 ====================
+
+20161229 11:13:47 ********** reboot with wifi connected **********
+20161229 11:13:47 reboot device and sleep 20s
+20161229 11:14:12 adb connect sucess
+20161229 11:15:41 find ota process
+20161229 11:15:41 coreserver start ota
+20161229 11:15:41 pass
+
+20161229 11:15:41 ====================== testtimes: 5 ====================
+
+20161229 11:15:41 ********** reboot with wifi connected **********
+20161229 11:15:41 reboot device and sleep 20s
+20161229 11:16:04 adb connect sucess
+20161229 11:17:33 find ota process
+20161229 11:17:33 coreserver start ota
+20161229 11:17:33 pass
+
+20161229 11:17:33 ====================== testtimes: 6 ====================
+
+20161229 11:17:33 ********** reboot with wifi connected **********
+20161229 11:17:33 reboot device and sleep 20s
+20161229 11:17:56 adb connect sucess
+20161229 11:19:26 find ota process
+20161229 11:19:26 coreserver start ota
+20161229 11:19:26 pass
+
+20161229 11:19:26 ====================== testtimes: 7 ====================
+
+20161229 11:19:26 ********** reboot with wifi connected **********
+20161229 11:19:26 reboot device and sleep 20s
+20161229 11:19:49 adb connect sucess
+20161229 11:21:20 find ota process
+20161229 11:21:20 coreserver start ota
+20161229 11:21:20 pass
+
+20161229 11:21:20 ====================== testtimes: 8 ====================
+
+20161229 11:21:20 ********** reboot with wifi connected **********
+20161229 11:21:20 reboot device and sleep 20s
+20161229 11:21:43 adb connect sucess
+20161229 11:21:59 adb connect sucess
+20161229 11:21:59 ====================== testtimes: 1 ====================
+
+20161229 11:21:59 ********** reboot with wifi connected **********
+20161229 11:21:59 reboot device and sleep 20s
+20161229 11:22:22 adb connect sucess
+20161229 11:23:13 find ota process
+20161229 11:23:13 coreserver start ota
+20161229 11:23:13 pass
+
+20161229 11:23:13 ====================== testtimes: 9 ====================
+
+20161229 11:23:13 ********** reboot with wifi connected **********
+20161229 11:23:13 reboot device and sleep 20s
+20161229 11:23:37 adb connect sucess
+20161229 11:23:42 find ota process
+20161229 11:23:42 coreserver start ota
+20161229 11:23:42 pass
+
+20161229 11:23:42 ====================== testtimes: 2 ====================
+
+20161229 11:23:42 ********** reboot with wifi connected **********
+20161229 11:23:42 reboot device and sleep 20s
+20161229 11:24:05 adb connect sucess
+20161229 11:25:07 find ota process
+20161229 11:25:07 coreserver start ota
+20161229 11:25:07 pass
+
+20161229 11:25:07 ====================== testtimes: 10 ====================
+
+20161229 11:25:07 ********** reboot with wifi connected **********
+20161229 11:25:07 reboot device and sleep 20s
+20161229 11:25:25 find ota process
+20161229 11:25:25 coreserver start ota
+20161229 11:25:25 pass
+
+20161229 11:25:25 ====================== testtimes: 3 ====================
+
+20161229 11:25:25 ********** reboot with wifi connected **********
+20161229 11:25:25 reboot device and sleep 20s
+20161229 11:25:30 adb connect sucess
+20161229 11:25:48 adb connect sucess
+20161229 11:26:59 find ota process
+20161229 11:26:59 coreserver start ota
+20161229 11:26:59 pass
+
+20161229 11:26:59 ====================== testtimes: 11 ====================
+
+20161229 11:26:59 ********** reboot with wifi connected **********
+20161229 11:26:59 reboot device and sleep 20s
+20161229 11:27:08 find ota process
+20161229 11:27:08 coreserver start ota
+20161229 11:27:08 pass
+
+20161229 11:27:08 ====================== testtimes: 4 ====================
+
+20161229 11:27:08 ********** reboot with wifi connected **********
+20161229 11:27:08 reboot device and sleep 20s
+20161229 11:27:22 adb connect sucess
+20161229 11:27:31 adb connect sucess
+20161229 11:28:51 find ota process
+20161229 11:28:51 coreserver start ota
+20161229 11:28:51 pass
+
+20161229 11:28:51 ====================== testtimes: 5 ====================
+
+20161229 11:28:51 ********** reboot with wifi connected **********
+20161229 11:28:51 reboot device and sleep 20s
+20161229 11:28:51 find ota process
+20161229 11:28:51 coreserver start ota
+20161229 11:28:51 pass
+
+20161229 11:28:51 ====================== testtimes: 12 ====================
+
+20161229 11:28:51 ********** reboot with wifi connected **********
+20161229 11:28:51 reboot device and sleep 20s
+20161229 11:29:14 adb connect sucess
+20161229 11:29:14 adb connect sucess
+20161229 11:30:33 find ota process
+20161229 11:30:33 coreserver start ota
+20161229 11:30:33 pass
+
+20161229 11:30:33 ====================== testtimes: 6 ====================
+
+20161229 11:30:33 ********** reboot with wifi connected **********
+20161229 11:30:33 reboot device and sleep 20s
+20161229 11:30:43 find ota process
+20161229 11:30:43 coreserver start ota
+20161229 11:30:43 pass
+
+20161229 11:30:43 ====================== testtimes: 13 ====================
+
+20161229 11:30:43 ********** reboot with wifi connected **********
+20161229 11:30:43 reboot device and sleep 20s
+20161229 11:30:57 adb connect sucess
+20161229 11:31:07 adb connect sucess
+20161229 11:32:18 find ota process
+20161229 11:32:18 coreserver start ota
+20161229 11:32:18 pass
+
+20161229 11:32:18 ====================== testtimes: 7 ====================
+
+20161229 11:32:18 ********** reboot with wifi connected **********
+20161229 11:32:18 reboot device and sleep 20s
+20161229 11:32:35 find ota process
+20161229 11:32:35 coreserver start ota
+20161229 11:32:35 pass
+
+20161229 11:32:35 ====================== testtimes: 14 ====================
+
+20161229 11:32:35 ********** reboot with wifi connected **********
+20161229 11:32:35 reboot device and sleep 20s
+20161229 11:32:41 adb connect sucess
+20161229 11:33:03 adb connect sucess
+20161229 11:34:02 find ota process
+20161229 11:34:02 coreserver start ota
+20161229 11:34:02 pass
+
+20161229 11:34:02 ====================== testtimes: 8 ====================
+
+20161229 11:34:02 ********** reboot with wifi connected **********
+20161229 11:34:02 reboot device and sleep 20s
+20161229 11:34:25 adb connect sucess
+20161229 11:34:32 find ota process
+20161229 11:34:32 coreserver start ota
+20161229 11:34:32 pass
+
+20161229 11:34:32 ====================== testtimes: 15 ====================
+
+20161229 11:34:32 ********** reboot with wifi connected **********
+20161229 11:34:32 reboot device and sleep 20s
+20161229 11:34:55 adb connect sucess
+20161229 11:35:45 find ota process
+20161229 11:35:45 coreserver start ota
+20161229 11:35:45 pass
+
+20161229 11:35:45 ====================== testtimes: 9 ====================
+
+20161229 11:35:45 ********** reboot with wifi connected **********
+20161229 11:35:45 reboot device and sleep 20s
+20161229 11:36:08 adb connect sucess
+20161229 11:36:25 find ota process
+20161229 11:36:25 coreserver start ota
+20161229 11:36:25 pass
+
+20161229 11:36:25 ====================== testtimes: 16 ====================
+
+20161229 11:36:25 ********** reboot with wifi connected **********
+20161229 11:36:25 reboot device and sleep 20s
+20161229 11:36:48 adb connect sucess
+20161229 11:37:29 find ota process
+20161229 11:37:29 coreserver start ota
+20161229 11:37:29 pass
+
+20161229 11:37:29 ====================== testtimes: 10 ====================
+
+20161229 11:37:29 ********** reboot with wifi connected **********
+20161229 11:37:29 reboot device and sleep 20s
+20161229 11:37:52 adb connect sucess
+20161229 11:38:18 find ota process
+20161229 11:38:18 coreserver start ota
+20161229 11:38:18 pass
+
+20161229 11:38:18 ====================== testtimes: 17 ====================
+
+20161229 11:38:18 ********** reboot with wifi connected **********
+20161229 11:38:18 reboot device and sleep 20s
+20161229 11:38:42 adb connect sucess
+20161229 11:39:12 find ota process
+20161229 11:39:12 coreserver start ota
+20161229 11:39:12 pass
+
+20161229 11:39:12 ====================== testtimes: 11 ====================
+
+20161229 11:39:12 ********** reboot with wifi connected **********
+20161229 11:39:12 reboot device and sleep 20s
+20161229 11:39:36 adb connect sucess
+20161229 11:40:11 find ota process
+20161229 11:40:11 coreserver start ota
+20161229 11:40:11 pass
+
+20161229 11:40:11 ====================== testtimes: 18 ====================
+
+20161229 11:40:11 ********** reboot with wifi connected **********
+20161229 11:40:11 reboot device and sleep 20s
+20161229 11:40:35 adb connect sucess
+20161229 11:40:56 find ota process
+20161229 11:40:56 coreserver start ota
+20161229 11:40:56 pass
+
+20161229 11:40:56 ====================== testtimes: 12 ====================
+
+20161229 11:40:56 ********** reboot with wifi connected **********
+20161229 11:40:56 reboot device and sleep 20s
+20161229 11:41:19 adb connect sucess
+20161229 11:42:04 find ota process
+20161229 11:42:04 coreserver start ota
+20161229 11:42:04 pass
+
+20161229 11:42:04 ====================== testtimes: 19 ====================
+
+20161229 11:42:04 ********** reboot with wifi connected **********
+20161229 11:42:04 reboot device and sleep 20s
+20161229 11:42:27 adb connect sucess
+20161229 11:42:40 find ota process
+20161229 11:42:40 coreserver start ota
+20161229 11:42:40 pass
+
+20161229 11:42:40 ====================== testtimes: 13 ====================
+
+20161229 11:42:40 ********** reboot with wifi connected **********
+20161229 11:42:40 reboot device and sleep 20s
+20161229 11:43:03 adb connect sucess
+20161229 11:43:58 find ota process
+20161229 11:43:58 coreserver start ota
+20161229 11:43:58 pass
+
+20161229 11:43:58 ====================== testtimes: 20 ====================
+
+20161229 11:43:58 ********** reboot with wifi connected **********
+20161229 11:43:58 reboot device and sleep 20s
+20161229 11:44:21 adb connect sucess
+20161229 11:44:23 find ota process
+20161229 11:44:23 coreserver start ota
+20161229 11:44:23 pass
+
+20161229 11:44:23 ====================== testtimes: 14 ====================
+
+20161229 11:44:23 ********** reboot with wifi connected **********
+20161229 11:44:23 reboot device and sleep 20s
+20161229 11:44:47 adb connect sucess
+20161229 11:45:52 find ota process
+20161229 11:45:52 coreserver start ota
+20161229 11:45:52 pass
+
+20161229 11:45:52 ====================== testtimes: 21 ====================
+
+20161229 11:45:52 ********** reboot with wifi connected **********
+20161229 11:45:52 reboot device and sleep 20s
+20161229 11:46:06 find ota process
+20161229 11:46:06 coreserver start ota
+20161229 11:46:06 pass
+
+20161229 11:46:06 ====================== testtimes: 15 ====================
+
+20161229 11:46:06 ********** reboot with wifi connected **********
+20161229 11:46:06 reboot device and sleep 20s
+20161229 11:46:15 adb connect sucess
+20161229 11:46:30 adb connect sucess
+20161229 11:47:44 find ota process
+20161229 11:47:44 coreserver start ota
+20161229 11:47:44 pass
+
+20161229 11:47:44 ====================== testtimes: 22 ====================
+
+20161229 11:47:44 ********** reboot with wifi connected **********
+20161229 11:47:44 reboot device and sleep 20s
+20161229 11:47:50 find ota process
+20161229 11:47:50 coreserver start ota
+20161229 11:47:50 pass
+
+20161229 11:47:50 ====================== testtimes: 16 ====================
+
+20161229 11:47:50 ********** reboot with wifi connected **********
+20161229 11:47:50 reboot device and sleep 20s
+20161229 11:48:08 adb connect sucess
+20161229 11:48:14 adb connect sucess
+20161229 11:49:37 find ota process
+20161229 11:49:37 coreserver start ota
+20161229 11:49:37 pass
+
+20161229 11:49:37 ====================== testtimes: 23 ====================
+
+20161229 11:49:37 ********** reboot with wifi connected **********
+20161229 11:49:37 reboot device and sleep 20s
+20161229 11:50:00 adb connect sucess
+20161229 11:51:31 find ota process
+20161229 11:51:31 coreserver start ota
+20161229 11:51:31 pass
+
+20161229 11:51:31 ====================== testtimes: 24 ====================
+
+20161229 11:51:31 ********** reboot with wifi connected **********
+20161229 11:51:31 reboot device and sleep 20s
+20161229 11:51:54 adb connect sucess
+20161229 11:53:23 find ota process
+20161229 11:53:23 coreserver start ota
+20161229 11:53:23 pass
+
+20161229 11:53:23 ====================== testtimes: 25 ====================
+
+20161229 11:53:23 ********** reboot with wifi connected **********
+20161229 11:53:23 reboot device and sleep 20s
+20161229 11:53:47 adb connect sucess
+20161229 11:55:14 find ota process
+20161229 11:55:14 coreserver start ota
+20161229 11:55:14 pass
+
+20161229 11:55:14 ====================== testtimes: 26 ====================
+
+20161229 11:55:14 ********** reboot with wifi connected **********
+20161229 11:55:14 reboot device and sleep 20s
+20161229 11:55:38 adb connect sucess
+20161229 11:57:08 find ota process
+20161229 11:57:08 coreserver start ota
+20161229 11:57:08 pass
+
+20161229 11:57:08 ====================== testtimes: 27 ====================
+
+20161229 11:57:08 ********** reboot with wifi connected **********
+20161229 11:57:08 reboot device and sleep 20s
+20161229 11:57:37 adb connect sucess
+20161229 11:59:06 find ota process
+20161229 11:59:06 coreserver start ota
+20161229 11:59:06 pass
+
+20161229 11:59:06 ====================== testtimes: 28 ====================
+
+20161229 11:59:06 ********** reboot with wifi connected **********
+20161229 11:59:06 reboot device and sleep 20s
+20161229 11:59:30 adb connect sucess
+20161229 12:00:59 find ota process
+20161229 12:00:59 coreserver start ota
+20161229 12:00:59 pass
+
+20161229 12:00:59 ====================== testtimes: 29 ====================
+
+20161229 12:00:59 ********** reboot with wifi connected **********
+20161229 12:00:59 reboot device and sleep 20s
+20161229 12:01:22 adb connect sucess
+20161229 12:14:55 adb connect sucess
+20161229 12:14:55 ====================== testtimes: 1 ====================
+
+20161229 12:14:55 ********** reboot without wifi **********
+20161229 12:14:55 reboot device and sleep 20s
+20161229 12:15:18 adb connect sucess
+20161229 12:16:21 adb connect sucess
+20161229 12:16:21 ====================== testtimes: 1 ====================
+
+20161229 12:16:21 ********** reboot with wifi connected **********
+20161229 12:16:21 reboot device and sleep 20s
+20161229 12:16:35 find ota process
+20161229 12:16:35 coreserver start ota
+20161229 12:16:35 pass
+
+20161229 12:16:35 ====================== testtimes: 2 ====================
+
+20161229 12:16:35 ********** reboot without wifi **********
+20161229 12:16:35 reboot device and sleep 20s
+20161229 12:16:45 adb connect sucess
+20161229 12:16:58 adb connect sucess
+20161229 12:18:03 find ota process
+20161229 12:18:03 coreserver start ota
+20161229 12:18:03 pass
+
+20161229 12:18:03 ====================== testtimes: 2 ====================
+
+20161229 12:18:03 ********** reboot with wifi connected **********
+20161229 12:18:03 reboot device and sleep 20s
+20161229 12:18:15 find ota process
+20161229 12:18:15 coreserver start ota
+20161229 12:18:15 pass
+
+20161229 12:18:15 ====================== testtimes: 3 ====================
+
+20161229 12:18:15 ********** reboot without wifi **********
+20161229 12:18:15 reboot device and sleep 20s
+20161229 12:18:27 adb connect sucess
+20161229 12:18:38 adb connect sucess
+20161229 12:19:46 find ota process
+20161229 12:19:46 coreserver start ota
+20161229 12:19:46 pass
+
+20161229 12:19:46 ====================== testtimes: 3 ====================
+
+20161229 12:19:46 ********** reboot with wifi connected **********
+20161229 12:19:46 reboot device and sleep 20s
+20161229 12:19:55 find ota process
+20161229 12:19:55 coreserver start ota
+20161229 12:19:55 pass
+
+20161229 12:19:55 ====================== testtimes: 4 ====================
+
+20161229 12:19:55 ********** reboot without wifi **********
+20161229 12:19:55 reboot device and sleep 20s
+20161229 12:20:09 adb connect sucess
+20161229 12:20:18 adb connect sucess
+20161229 12:21:28 find ota process
+20161229 12:21:28 coreserver start ota
+20161229 12:21:28 pass
+
+20161229 12:21:28 ====================== testtimes: 4 ====================
+
+20161229 12:21:28 ********** reboot with wifi connected **********
+20161229 12:21:28 reboot device and sleep 20s
+20161229 12:21:34 find ota process
+20161229 12:21:34 coreserver start ota
+20161229 12:21:34 pass
+
+20161229 12:21:34 ====================== testtimes: 5 ====================
+
+20161229 12:21:34 ********** reboot without wifi **********
+20161229 12:21:34 reboot device and sleep 20s
+20161229 12:21:51 adb connect sucess
+20161229 12:21:58 adb connect sucess
+20161229 12:23:10 find ota process
+20161229 12:23:10 coreserver start ota
+20161229 12:23:10 pass
+
+20161229 12:23:10 ====================== testtimes: 5 ====================
+
+20161229 12:23:10 ********** reboot with wifi connected **********
+20161229 12:23:10 reboot device and sleep 20s
+20161229 12:23:14 find ota process
+20161229 12:23:14 coreserver start ota
+20161229 12:23:14 pass
+
+20161229 12:23:14 ====================== testtimes: 6 ====================
+
+20161229 12:23:14 ********** reboot without wifi **********
+20161229 12:23:14 reboot device and sleep 20s
+20161229 12:23:33 adb connect sucess
+20161229 12:23:37 adb connect sucess
+20161229 12:24:52 find ota process
+20161229 12:24:52 can't find which process start ota in log
+20161229 12:24:52 fail
+20161229 12:24:52 mv /sdcard/logcat.txt to /sdcard/20161229_122333_logcat.txt
+
+20161229 12:24:52 ====================== testtimes: 6 ====================
+
+20161229 12:24:52 ********** reboot with wifi connected **********
+20161229 12:24:52 reboot device and sleep 20s
+20161229 12:24:54 find ota process
+20161229 12:24:54 coreserver start ota
+20161229 12:24:54 pass
+
+20161229 12:24:54 ====================== testtimes: 7 ====================
+
+20161229 12:24:54 ********** reboot without wifi **********
+20161229 12:24:54 reboot device and sleep 20s
+20161229 12:25:15 adb connect sucess
+20161229 12:25:17 adb connect sucess
+20161229 12:26:34 find ota process
+20161229 12:26:34 coreserver start ota
+20161229 12:26:34 pass
+
+20161229 12:26:34 ====================== testtimes: 8 ====================
+
+20161229 12:26:34 ********** reboot without wifi **********
+20161229 12:26:34 reboot device and sleep 20s
+20161229 12:26:34 find ota process
+20161229 12:26:34 coreserver start ota
+20161229 12:26:34 pass
+
+20161229 12:26:34 ====================== testtimes: 7 ====================
+
+20161229 12:26:34 ********** reboot with wifi connected **********
+20161229 12:26:34 reboot device and sleep 20s
+20161229 12:26:57 adb connect sucess
+20161229 12:26:57 adb connect sucess
+20161229 12:28:14 find ota process
+20161229 12:28:14 coreserver start ota
+20161229 12:28:14 pass
+
+20161229 12:28:14 ====================== testtimes: 9 ====================
+
+20161229 12:28:14 ********** reboot without wifi **********
+20161229 12:28:14 reboot device and sleep 20s
+20161229 12:28:16 find ota process
+20161229 12:28:16 can't find which process start ota in log
+20161229 12:28:16 fail
+20161229 12:28:16 mv /sdcard/logcat.txt to /sdcard/20161229_122657_logcat.txt
+
+20161229 12:28:16 ====================== testtimes: 8 ====================
+
+20161229 12:28:16 ********** reboot with wifi connected **********
+20161229 12:28:16 reboot device and sleep 20s
+20161229 12:28:37 adb connect sucess
+20161229 12:28:39 adb connect sucess
+20161229 12:29:55 find ota process
+20161229 12:29:55 coreserver start ota
+20161229 12:29:55 pass
+
+20161229 12:29:55 ====================== testtimes: 10 ====================
+
+20161229 12:29:55 ********** reboot without wifi **********
+20161229 12:29:55 reboot device and sleep 20s
+20161229 12:29:58 find ota process
+20161229 12:29:58 coreserver start ota
+20161229 12:29:58 pass
+
+20161229 12:29:58 ====================== testtimes: 9 ====================
+
+20161229 12:29:58 ********** reboot with wifi connected **********
+20161229 12:29:58 reboot device and sleep 20s
+20161229 12:30:18 adb connect sucess
+20161229 12:30:22 adb connect sucess
+20161229 12:31:35 find ota process
+20161229 12:31:35 coreserver start ota
+20161229 12:31:35 pass
+
+20161229 12:31:35 ====================== testtimes: 11 ====================
+
+20161229 12:31:35 ********** reboot without wifi **********
+20161229 12:31:35 reboot device and sleep 20s
+20161229 12:31:40 find ota process
+20161229 12:31:40 coreserver start ota
+20161229 12:31:40 pass
+
+20161229 12:31:40 ====================== testtimes: 10 ====================
+
+20161229 12:31:40 ********** reboot with wifi connected **********
+20161229 12:31:40 reboot device and sleep 20s
+20161229 12:31:58 adb connect sucess
+20161229 12:32:04 adb connect sucess
+20161229 12:33:15 find ota process
+20161229 12:33:15 coreserver start ota
+20161229 12:33:15 pass
+
+20161229 12:33:15 ====================== testtimes: 12 ====================
+
+20161229 12:33:15 ********** reboot without wifi **********
+20161229 12:33:15 reboot device and sleep 20s
+20161229 12:33:22 find ota process
+20161229 12:33:22 coreserver start ota
+20161229 12:33:22 pass
+
+20161229 12:33:22 ====================== testtimes: 11 ====================
+
+20161229 12:33:22 ********** reboot with wifi connected **********
+20161229 12:33:22 reboot device and sleep 20s
+20161229 12:33:38 adb connect sucess
+20161229 12:33:46 adb connect sucess
+20161229 12:34:54 find ota process
+20161229 12:34:54 coreserver start ota
+20161229 12:34:54 pass
+
+20161229 12:34:54 ====================== testtimes: 13 ====================
+
+20161229 12:34:54 ********** reboot without wifi **********
+20161229 12:34:54 reboot device and sleep 20s
+20161229 12:35:04 find ota process
+20161229 12:35:04 coreserver start ota
+20161229 12:35:04 pass
+
+20161229 12:35:04 ====================== testtimes: 12 ====================
+
+20161229 12:35:04 ********** reboot with wifi connected **********
+20161229 12:35:04 reboot device and sleep 20s
+20161229 12:35:18 adb connect sucess
+20161229 12:35:27 adb connect sucess
+20161229 12:36:34 find ota process
+20161229 12:36:34 coreserver start ota
+20161229 12:36:34 pass
+
+20161229 12:36:34 ====================== testtimes: 14 ====================
+
+20161229 12:36:34 ********** reboot without wifi **********
+20161229 12:36:34 reboot device and sleep 20s
+20161229 12:36:48 find ota process
+20161229 12:36:48 coreserver start ota
+20161229 12:36:48 pass
+
+20161229 12:36:48 ====================== testtimes: 13 ====================
+
+20161229 12:36:48 ********** reboot with wifi connected **********
+20161229 12:36:48 reboot device and sleep 20s
+20161229 12:36:58 adb connect sucess
+20161229 12:37:11 adb connect sucess
+20161229 13:58:38 adb connect sucess
+20161229 13:58:38 ====================== testtimes: 1 ====================
+
+20161229 13:58:38 ********** reboot with wifi connected **********
+20161229 13:58:38 reboot device and sleep 20s
+20161229 13:59:02 adb connect sucess
+20161229 14:00:20 find ota process
+20161229 14:00:20 coreserver start ota
+20161229 14:00:20 pass
+
+20161229 14:00:20 ====================== testtimes: 2 ====================
+
+20161229 14:00:20 ********** reboot with wifi connected **********
+20161229 14:00:20 reboot device and sleep 20s
+20161229 14:00:43 adb connect sucess
+20161229 14:02:02 find ota process
+20161229 14:02:02 coreserver start ota
+20161229 14:02:02 pass
+
+20161229 14:02:02 ====================== testtimes: 3 ====================
+
+20161229 14:02:02 ********** reboot with wifi connected **********
+20161229 14:02:02 reboot device and sleep 20s
+20161229 14:02:25 adb connect sucess
+20161229 14:03:44 find ota process
+20161229 14:03:44 coreserver start ota
+20161229 14:03:44 pass
+
+20161229 14:03:44 ====================== testtimes: 4 ====================
+
+20161229 14:03:44 ********** reboot with wifi connected **********
+20161229 14:03:44 reboot device and sleep 20s
+20161229 14:04:08 adb connect sucess
+20161229 14:05:27 find ota process
+20161229 14:05:27 coreserver start ota
+20161229 14:05:27 pass
+
+20161229 14:05:27 ====================== testtimes: 5 ====================
+
+20161229 14:05:27 ********** reboot with wifi connected **********
+20161229 14:05:27 reboot device and sleep 20s
+20161229 14:05:50 adb connect sucess
+20161229 14:07:09 find ota process
+20161229 14:07:09 coreserver start ota
+20161229 14:07:09 pass
+
+20161229 14:07:09 ====================== testtimes: 6 ====================
+
+20161229 14:07:09 ********** reboot with wifi connected **********
+20161229 14:07:09 reboot device and sleep 20s
+20161229 14:07:32 adb connect sucess
+20161229 14:08:51 find ota process
+20161229 14:08:51 coreserver start ota
+20161229 14:08:51 pass
+
+20161229 14:08:51 ====================== testtimes: 7 ====================
+
+20161229 14:08:51 ********** reboot with wifi connected **********
+20161229 14:08:51 reboot device and sleep 20s
+20161229 14:09:14 adb connect sucess
+20161229 15:21:13 adb connect sucess
+20161229 15:21:13 ====================== testtimes: 1 ====================
+
+20161229 15:21:13 ********** reboot without wifi **********
+20161229 15:21:13 reboot device and sleep 20s
+20161229 15:21:36 adb connect sucess

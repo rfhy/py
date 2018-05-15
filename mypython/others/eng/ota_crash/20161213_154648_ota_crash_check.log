@@ -1,0 +1,3769 @@
+20161213 15:46:48 already connect wifi
+20161213 15:47:18 =================== testtimes : 1 ===================
+20161213 15:47:21 download size: 269512453 , total size: 289381775
+20161213 15:47:31 download size: 273692829 , total size: 289381775
+20161213 15:47:41 download size: 274849781 , total size: 289381775
+20161213 15:47:51 download size: 280385485 , total size: 289381775
+20161213 15:48:02 download size: 285392669 , total size: 289381775
+20161213 15:48:12 download size: 288423333 , total size: 289381775
+20161213 15:48:23 download size: 289381775 , total size: 289381775
+20161213 15:49:53 device not upgrade...
+20161213 15:49:53 may be md5 check fail
+20161213 15:49:53 reboot device and sleep 20s
+20161213 15:50:14 adb connect sucess
+20161213 15:50:14 =================== testtimes : 2 ===================
+20161213 15:50:45 already connect wifi
+20161213 15:51:18 download size: 21069824 , total size: 289381775
+20161213 15:51:18 reboot device and sleep 20s
+20161213 15:51:46 adb connect sucess
+20161213 15:52:17 already connect wifi
+20161213 15:52:45 download size: 43209974 , total size: 289381775
+20161213 15:52:45 reboot device and sleep 20s
+20161213 15:53:07 adb connect sucess
+20161213 15:53:37 already connect wifi
+20161213 15:54:05 download size: 76137185 , total size: 289381775
+20161213 15:54:05 reboot device and sleep 20s
+20161213 15:54:32 adb connect sucess
+20161213 15:55:02 already connect wifi
+20161213 15:55:30 download size: 117426292 , total size: 289381775
+20161213 15:55:30 remove wifi conenct
+20161213 15:55:31 remove wifi sucess
+20161213 15:55:36 svc disable wifi conenct
+20161213 15:55:43 disable wifi sucess
+20161213 15:56:03 connect wifi roobo_test1234
+20161213 15:56:25 connect wifi sucess
+20161213 15:56:58 download size: 178782942 , total size: 289381775
+20161213 15:56:58 remove wifi conenct
+20161213 15:56:59 remove wifi sucess
+20161213 15:57:04 svc disable wifi conenct
+20161213 15:57:11 disable wifi sucess
+20161213 15:57:31 connect wifi roobo_test1234
+20161213 15:57:53 connect wifi sucess
+20161213 15:58:26 download size: 231501888 , total size: 289381775
+20161213 15:58:36 download size: 242956008 , total size: 289381775
+20161213 15:58:47 download size: 256026344 , total size: 289381775
+20161213 15:58:57 download size: 268289768 , total size: 289381775
+20161213 15:59:07 download size: 280410232 , total size: 289381775
+20161213 15:59:17 download size: 289381775 , total size: 289381775
+20161213 16:00:47 device start upgrade...
+20161213 16:03:00 adb connect sucess
+20161213 16:03:01 rom update success
+
+20161213 16:03:01 =================== testtimes : 3 ===================
+20161213 16:03:31 already connect wifi
+20161213 16:03:34 not start download
+20161213 16:03:42 not start download
+20161213 16:04:03 download size: 22786515 , total size: 289381775
+20161213 16:04:03 reboot device and sleep 20s
+20161213 16:04:37 adb connect sucess
+20161213 16:05:07 already connect wifi
+20161213 16:05:35 download size: 79778598 , total size: 289381775
+20161213 16:05:35 reboot device and sleep 20s
+20161213 16:06:03 adb connect sucess
+20161213 16:06:33 already connect wifi
+20161213 16:07:01 download size: 132920993 , total size: 289381775
+20161213 16:07:01 remove wifi conenct
+20161213 16:07:02 remove wifi sucess
+20161213 16:07:07 svc disable wifi conenct
+20161213 16:07:14 disable wifi sucess
+20161213 16:07:34 connect wifi roobo_test1234
+20161213 16:07:55 connect wifi sucess
+20161213 16:08:29 download size: 208825251 , total size: 289381775
+20161213 16:08:39 download size: 219513451 , total size: 289381775
+20161213 16:08:49 download size: 231682667 , total size: 289381775
+20161213 16:09:00 download size: 244734003 , total size: 289381775
+20161213 16:09:10 download size: 255832475 , total size: 289381775
+20161213 16:09:20 download size: 270029211 , total size: 289381775
+20161213 16:09:30 download size: 279822747 , total size: 289381775
+20161213 16:09:40 download size: 289381775 , total size: 289381775
+20161213 16:11:10 device start upgrade...
+20161213 16:13:21 adb connect sucess
+20161213 16:13:21 rom update success
+
+20161213 16:13:21 =================== testtimes : 4 ===================
+20161213 16:13:51 already connect wifi
+20161213 16:13:54 not start download
+20161213 16:14:03 not start download
+20161213 16:14:23 download size: 23953267 , total size: 289381775
+20161213 16:14:23 reboot device and sleep 20s
+20161213 16:14:57 adb connect sucess
+20161213 16:15:27 already connect wifi
+20161213 16:15:56 download size: 69813563 , total size: 289381775
+20161213 16:15:56 reboot device and sleep 20s
+20161213 16:16:23 adb connect sucess
+20161213 16:16:54 already connect wifi
+20161213 16:17:22 download size: 115138560 , total size: 289381775
+20161213 16:17:22 remove wifi conenct
+20161213 16:17:22 remove wifi sucess
+20161213 16:17:27 svc disable wifi conenct
+20161213 16:17:35 disable wifi sucess
+20161213 16:17:55 connect wifi roobo_test1234
+20161213 16:18:17 connect wifi sucess
+20161213 16:18:51 download size: 186965392 , total size: 289381775
+20161213 16:18:51 remove wifi conenct
+20161213 16:18:51 remove wifi sucess
+20161213 16:18:56 svc disable wifi conenct
+20161213 16:19:04 disable wifi sucess
+20161213 16:19:24 connect wifi roobo_test1234
+20161213 16:19:46 connect wifi sucess
+20161213 16:20:19 download size: 246545835 , total size: 289381775
+20161213 16:20:29 download size: 258735259 , total size: 289381775
+20161213 16:20:39 download size: 269715403 , total size: 289381775
+20161213 16:20:49 download size: 282689203 , total size: 289381775
+20161213 16:21:00 download size: 289381775 , total size: 289381775
+20161213 16:22:30 device not upgrade...
+20161213 16:22:30 may be md5 check fail
+20161213 16:22:30 reboot device and sleep 20s
+20161213 16:22:51 adb connect sucess
+20161213 16:22:51 =================== testtimes : 5 ===================
+20161213 16:23:21 already connect wifi
+20161213 16:23:54 download size: 20010691 , total size: 289381775
+20161213 16:23:54 reboot device and sleep 20s
+20161213 16:24:22 adb connect sucess
+20161213 16:24:52 already connect wifi
+20161213 16:25:20 download size: 57214694 , total size: 289381775
+20161213 16:25:20 reboot device and sleep 20s
+20161213 16:25:42 adb connect sucess
+20161213 16:26:12 already connect wifi
+20161213 16:26:40 download size: 92377497 , total size: 289381775
+20161213 16:26:40 reboot device and sleep 20s
+20161213 16:27:47 adb connect sucess
+20161213 16:28:17 already connect wifi
+20161213 16:28:45 download size: 183379011 , total size: 289381775
+20161213 16:28:45 remove wifi conenct
+20161213 16:28:45 remove wifi sucess
+20161213 16:28:50 svc disable wifi conenct
+20161213 16:28:58 disable wifi sucess
+20161213 16:29:18 connect wifi roobo_test1234
+20161213 16:29:40 connect wifi sucess
+20161213 16:30:14 download size: 238563654 , total size: 289381775
+20161213 16:30:24 download size: 249413982 , total size: 289381775
+20161213 16:30:34 download size: 263461054 , total size: 289381775
+20161213 16:30:44 download size: 274675902 , total size: 289381775
+20161213 16:30:55 download size: 286433534 , total size: 289381775
+20161213 16:31:05 download size: 289381775 , total size: 289381775
+20161213 16:32:35 device start upgrade...
+20161213 16:34:43 adb connect sucess
+20161213 16:34:44 rom update success
+
+20161213 16:34:44 =================== testtimes : 6 ===================
+20161213 16:35:14 already connect wifi
+20161213 16:35:17 not start download
+20161213 16:35:25 not start download
+20161213 16:35:46 download size: 21051179 , total size: 289381775
+20161213 16:35:46 reboot device and sleep 20s
+20161213 16:36:17 adb connect sucess
+20161213 16:36:47 already connect wifi
+20161213 16:37:16 download size: 64677246 , total size: 289381775
+20161213 16:37:16 reboot device and sleep 20s
+20161213 16:37:45 adb connect sucess
+20161213 16:38:15 already connect wifi
+20161213 16:38:43 download size: 81340561 , total size: 289381775
+20161213 16:38:43 reboot device and sleep 20s
+20161213 16:39:10 adb connect sucess
+20161213 16:39:40 already connect wifi
+20161213 16:40:08 download size: 132044276 , total size: 289381775
+20161213 16:40:08 remove wifi conenct
+20161213 16:40:08 remove wifi sucess
+20161213 16:40:13 svc disable wifi conenct
+20161213 16:40:20 disable wifi sucess
+20161213 16:40:40 connect wifi roobo_test1234
+20161213 16:41:02 connect wifi sucess
+20161213 16:41:35 download size: 207094886 , total size: 289381775
+20161213 16:41:45 download size: 217875086 , total size: 289381775
+20161213 16:41:55 download size: 231087590 , total size: 289381775
+20161213 16:42:06 download size: 243451990 , total size: 289381775
+20161213 16:42:16 download size: 255437326 , total size: 289381775
+20161213 16:42:26 download size: 268716558 , total size: 289381775
+20161213 16:42:36 download size: 281460462 , total size: 289381775
+20161213 16:42:46 download size: 289381775 , total size: 289381775
+20161213 16:44:16 device not upgrade...
+20161213 16:44:17 may be md5 check fail
+20161213 16:44:17 reboot device and sleep 20s
+20161213 16:44:37 adb connect sucess
+20161213 16:44:37 =================== testtimes : 7 ===================
+20161213 16:45:07 already connect wifi
+20161213 16:46:14 download size: 52960059 , total size: 289381775
+20161213 16:46:14 reboot device and sleep 20s
+20161213 16:46:48 adb connect sucess
+20161213 16:47:19 already connect wifi
+20161213 16:47:47 download size: 109810131 , total size: 289381775
+20161213 16:47:47 remove wifi conenct
+20161213 16:47:47 remove wifi sucess
+20161213 16:47:52 svc disable wifi conenct
+20161213 16:48:00 disable wifi sucess
+20161213 16:48:21 connect wifi roobo_test1234
+20161213 16:48:43 connect wifi sucess
+20161213 16:49:16 download size: 171664685 , total size: 289381775
+20161213 16:49:16 remove wifi conenct
+20161213 16:49:16 remove wifi sucess
+20161213 16:49:21 svc disable wifi conenct
+20161213 16:49:29 disable wifi sucess
+20161213 16:49:49 connect wifi roobo_test1234
+20161213 16:50:10 connect wifi sucess
+20161213 16:50:44 download size: 231424223 , total size: 289381775
+20161213 16:50:54 download size: 242856295 , total size: 289381775
+20161213 16:51:04 download size: 255119743 , total size: 289381775
+20161213 16:51:14 download size: 267649407 , total size: 289381775
+20161213 16:51:26 download size: 280256959 , total size: 289381775
+20161213 16:51:36 download size: 289381775 , total size: 289381775
+20161213 16:53:06 device start upgrade...
+20161213 16:55:20 adb connect sucess
+20161213 16:55:21 rom update success
+
+20161213 16:55:21 =================== testtimes : 8 ===================
+20161213 16:55:51 already connect wifi
+20161213 16:55:54 not start download
+20161213 16:56:02 not start download
+20161213 16:56:23 download size: 21705283 , total size: 289381775
+20161213 16:56:23 reboot device and sleep 20s
+20161213 16:57:01 adb connect sucess
+20161213 16:57:31 connect wifi roobo_test1234
+20161213 16:57:53 connect wifi sucess
+20161213 16:58:21 download size: 101567958 , total size: 289381775
+20161213 16:58:21 remove wifi conenct
+20161213 16:58:21 remove wifi sucess
+20161213 16:58:26 svc disable wifi conenct
+20161213 16:58:33 disable wifi sucess
+20161213 16:58:53 connect wifi roobo_test1234
+20161213 16:59:15 connect wifi sucess
+20161213 16:59:48 download size: 172560088 , total size: 289381775
+20161213 16:59:48 remove wifi conenct
+20161213 16:59:48 remove wifi sucess
+20161213 16:59:53 svc disable wifi conenct
+20161213 17:00:01 disable wifi sucess
+20161213 17:00:21 connect wifi roobo_test1234
+20161213 17:00:43 connect wifi sucess
+20161213 17:01:16 download size: 238275890 , total size: 289381775
+20161213 17:01:26 download size: 248573234 , total size: 289381775
+20161213 17:01:37 download size: 261621834 , total size: 289381775
+20161213 17:01:48 download size: 277976786 , total size: 289381775
+20161213 17:01:58 download size: 288654274 , total size: 289381775
+20161213 17:02:08 download size: 289381775 , total size: 289381775
+20161213 17:03:38 device start upgrade...
+20161213 17:05:45 adb connect sucess
+20161213 17:05:45 rom update success
+
+20161213 17:05:45 =================== testtimes : 9 ===================
+20161213 17:06:15 already connect wifi
+20161213 17:06:19 not start download
+20161213 17:06:27 not start download
+20161213 17:06:51 download size: 22131931 , total size: 289381775
+20161213 17:06:51 reboot device and sleep 20s
+20161213 17:07:19 adb connect sucess
+20161213 17:07:49 already connect wifi
+20161213 17:08:18 download size: 65662686 , total size: 289381775
+20161213 17:08:18 reboot device and sleep 20s
+20161213 17:08:47 adb connect sucess
+20161213 17:09:17 already connect wifi
+20161213 17:09:45 download size: 110838305 , total size: 289381775
+20161213 17:09:45 remove wifi conenct
+20161213 17:09:46 remove wifi sucess
+20161213 17:09:51 svc disable wifi conenct
+20161213 17:09:58 disable wifi sucess
+20161213 17:10:18 connect wifi roobo_test1234
+20161213 17:10:39 connect wifi sucess
+20161213 17:11:13 download size: 181817755 , total size: 289381775
+20161213 17:11:13 remove wifi conenct
+20161213 17:11:13 remove wifi sucess
+20161213 17:11:18 svc disable wifi conenct
+20161213 17:11:26 disable wifi sucess
+20161213 17:11:46 connect wifi roobo_test1234
+20161213 17:12:08 connect wifi sucess
+20161213 17:12:41 download size: 251728238 , total size: 289381775
+20161213 17:12:51 download size: 264148294 , total size: 289381775
+20161213 17:13:01 download size: 276997446 , total size: 289381775
+20161213 17:13:11 download size: 289381775 , total size: 289381775
+20161213 17:14:41 device start upgrade...
+20161213 17:17:00 adb connect sucess
+20161213 17:17:00 rom update success
+
+20161213 17:17:00 =================== testtimes : 10 ===================
+20161213 17:17:30 already connect wifi
+20161213 17:17:33 not start download
+20161213 17:17:42 not start download
+20161213 17:18:07 download size: 20717683 , total size: 289381775
+20161213 17:18:07 reboot device and sleep 20s
+20161213 17:18:34 adb connect sucess
+20161213 17:19:04 already connect wifi
+20161213 17:19:33 download size: 53883443 , total size: 289381775
+20161213 17:19:33 reboot device and sleep 20s
+20161213 17:20:00 adb connect sucess
+20161213 17:20:30 already connect wifi
+20161213 17:20:58 download size: 103376974 , total size: 289381775
+20161213 17:20:58 remove wifi conenct
+20161213 17:20:58 remove wifi sucess
+20161213 17:21:03 svc disable wifi conenct
+20161213 17:21:10 disable wifi sucess
+20161213 17:21:31 connect wifi roobo_test1234
+20161213 17:21:52 connect wifi sucess
+20161213 17:22:25 download size: 176327432 , total size: 289381775
+20161213 17:22:25 remove wifi conenct
+20161213 17:22:26 remove wifi sucess
+20161213 17:22:31 svc disable wifi conenct
+20161213 17:22:37 disable wifi sucess
+20161213 17:22:58 connect wifi roobo_test1234
+20161213 17:23:19 connect wifi sucess
+20161213 17:23:52 download size: 249327090 , total size: 289381775
+20161213 17:24:02 download size: 259571186 , total size: 289381775
+20161213 17:24:13 download size: 271470066 , total size: 289381775
+20161213 17:24:23 download size: 282615282 , total size: 289381775
+20161213 17:24:33 download size: 289381775 , total size: 289381775
+20161213 17:26:03 device start upgrade...
+20161213 17:28:19 adb connect sucess
+20161213 17:28:19 rom update success
+
+20161213 17:28:19 =================== testtimes : 11 ===================
+20161213 17:28:49 already connect wifi
+20161213 17:28:52 not start download
+20161213 17:29:00 not start download
+20161213 17:29:18 download size: 20283739 , total size: 289381775
+20161213 17:29:18 reboot device and sleep 20s
+20161213 17:29:51 adb connect sucess
+20161213 17:30:21 already connect wifi
+20161213 17:30:49 download size: 70695534 , total size: 289381775
+20161213 17:30:49 reboot device and sleep 20s
+20161213 17:31:18 adb connect sucess
+20161213 17:31:48 already connect wifi
+20161213 17:32:17 download size: 102922649 , total size: 289381775
+20161213 17:32:17 remove wifi conenct
+20161213 17:32:17 remove wifi sucess
+20161213 17:32:22 svc disable wifi conenct
+20161213 17:32:30 disable wifi sucess
+20161213 17:32:50 connect wifi roobo_test1234
+20161213 17:33:12 connect wifi sucess
+20161213 17:33:46 download size: 162521483 , total size: 289381775
+20161213 17:33:46 remove wifi conenct
+20161213 17:33:46 remove wifi sucess
+20161213 17:33:51 svc disable wifi conenct
+20161213 17:33:59 disable wifi sucess
+20161213 17:34:19 connect wifi roobo_test1234
+20161213 17:34:41 connect wifi sucess
+20161213 17:35:14 download size: 232076733 , total size: 289381775
+20161213 17:35:24 download size: 244613629 , total size: 289381775
+20161213 17:35:34 download size: 258649221 , total size: 289381775
+20161213 17:35:45 download size: 269159557 , total size: 289381775
+20161213 17:35:55 download size: 283673565 , total size: 289381775
+20161213 17:36:05 download size: 289381775 , total size: 289381775
+20161213 17:37:35 device start upgrade...
+20161213 17:39:52 adb connect sucess
+20161213 17:39:53 rom update success
+
+20161213 17:39:53 =================== testtimes : 12 ===================
+20161213 17:40:23 already connect wifi
+20161213 17:40:26 not start download
+20161213 17:40:34 not start download
+20161213 17:41:01 download size: 22719523 , total size: 289381775
+20161213 17:41:01 reboot device and sleep 20s
+20161213 17:41:29 adb connect sucess
+20161213 17:42:00 already connect wifi
+20161213 17:42:28 download size: 54772582 , total size: 289381775
+20161213 17:42:28 reboot device and sleep 20s
+20161213 17:42:55 adb connect sucess
+20161213 17:43:26 already connect wifi
+20161213 17:43:54 download size: 92975057 , total size: 289381775
+20161213 17:43:54 reboot device and sleep 20s
+20161213 17:44:57 adb connect sucess
+20161213 17:45:27 already connect wifi
+20161213 17:45:55 download size: 177285249 , total size: 289381775
+20161213 17:45:55 remove wifi conenct
+20161213 17:45:56 remove wifi sucess
+20161213 17:46:01 svc disable wifi conenct
+20161213 17:46:08 disable wifi sucess
+20161213 17:46:28 connect wifi roobo_test1234
+20161213 17:46:49 connect wifi sucess
+20161213 17:47:23 download size: 238390563 , total size: 289381775
+20161213 17:47:33 download size: 252538880 , total size: 289381775
+20161213 17:47:43 download size: 265148235 , total size: 289381775
+20161213 17:47:53 download size: 276570475 , total size: 289381775
+20161213 17:48:03 download size: 288121171 , total size: 289381775
+20161213 17:48:13 download size: 289381775 , total size: 289381775
+20161213 17:49:44 device not upgrade...
+20161213 17:49:44 may be md5 check fail
+20161213 17:49:44 reboot device and sleep 20s
+20161213 17:50:04 adb connect sucess
+20161213 17:50:04 =================== testtimes : 13 ===================
+20161213 17:50:35 already connect wifi
+20161213 17:51:26 download size: 21498819 , total size: 289381775
+20161213 17:51:26 reboot device and sleep 20s
+20161213 17:51:55 adb connect sucess
+20161213 17:52:25 already connect wifi
+20161213 17:52:53 download size: 37721102 , total size: 289381775
+20161213 17:52:53 reboot device and sleep 20s
+20161213 17:53:14 adb connect sucess
+20161213 17:53:45 already connect wifi
+20161213 17:54:13 download size: 65552745 , total size: 289381775
+20161213 17:54:13 reboot device and sleep 20s
+20161213 17:54:42 adb connect sucess
+20161213 17:55:12 already connect wifi
+20161213 17:55:40 download size: 91678043 , total size: 289381775
+20161213 17:55:40 reboot device and sleep 20s
+20161213 17:56:29 adb connect sucess
+20161213 17:56:59 already connect wifi
+20161213 17:57:27 download size: 151254941 , total size: 289381775
+20161213 17:57:27 remove wifi conenct
+20161213 17:57:27 remove wifi sucess
+20161213 17:57:32 svc disable wifi conenct
+20161213 17:57:39 disable wifi sucess
+20161213 17:57:59 connect wifi roobo_test1234
+20161213 17:58:21 connect wifi sucess
+20161213 17:58:54 download size: 197934655 , total size: 289381775
+20161213 17:58:54 remove wifi conenct
+20161213 17:58:55 remove wifi sucess
+20161213 17:59:00 svc disable wifi conenct
+20161213 17:59:07 disable wifi sucess
+20161213 17:59:27 connect wifi roobo_test1234
+20161213 17:59:49 connect wifi sucess
+20161213 18:00:23 download size: 248186698 , total size: 289381775
+20161213 18:00:33 download size: 260903802 , total size: 289381775
+20161213 18:00:43 download size: 271637050 , total size: 289381775
+20161213 18:00:53 download size: 285505082 , total size: 289381775
+20161213 18:01:03 download size: 289381775 , total size: 289381775
+20161213 18:02:33 device not upgrade...
+20161213 18:02:34 may be md5 check fail
+20161213 18:02:34 reboot device and sleep 20s
+20161213 18:02:55 adb connect sucess
+20161213 18:02:55 =================== testtimes : 14 ===================
+20161213 18:03:25 already connect wifi
+20161213 18:04:02 download size: 22155803 , total size: 289381775
+20161213 18:04:02 reboot device and sleep 20s
+20161213 18:04:30 adb connect sucess
+20161213 18:05:00 already connect wifi
+20161213 18:05:28 download size: 55275590 , total size: 289381775
+20161213 18:05:28 reboot device and sleep 20s
+20161213 18:05:55 adb connect sucess
+20161213 18:06:25 already connect wifi
+20161213 18:06:54 download size: 91977497 , total size: 289381775
+20161213 18:06:54 reboot device and sleep 20s
+20161213 18:07:57 adb connect sucess
+20161213 18:08:28 already connect wifi
+20161213 18:08:56 download size: 170500915 , total size: 289381775
+20161213 18:08:56 remove wifi conenct
+20161213 18:08:56 remove wifi sucess
+20161213 18:09:01 svc disable wifi conenct
+20161213 18:09:09 disable wifi sucess
+20161213 18:09:29 connect wifi roobo_test1234
+20161213 18:09:50 connect wifi sucess
+20161213 18:10:25 download size: 227077117 , total size: 289381775
+20161213 18:10:35 download size: 241105133 , total size: 289381775
+20161213 18:10:46 download size: 254586885 , total size: 289381775
+20161213 18:10:56 download size: 266108933 , total size: 289381775
+20161213 18:11:06 download size: 281621581 , total size: 289381775
+20161213 18:11:16 download size: 289381775 , total size: 289381775
+20161213 18:12:46 device not upgrade...
+20161213 18:12:46 may be md5 check fail
+20161213 18:12:46 reboot device and sleep 20s
+20161213 18:13:07 adb connect sucess
+20161213 18:13:07 =================== testtimes : 15 ===================
+20161213 18:13:37 already connect wifi
+20161213 18:14:14 download size: 22980539 , total size: 289381775
+20161213 18:14:14 reboot device and sleep 20s
+20161213 18:14:41 adb connect sucess
+20161213 18:15:11 already connect wifi
+20161213 18:15:39 download size: 56132574 , total size: 289381775
+20161213 18:15:39 reboot device and sleep 20s
+20161213 18:16:08 adb connect sucess
+20161213 18:16:38 already connect wifi
+20161213 18:17:06 download size: 86998505 , total size: 289381775
+20161213 18:17:06 reboot device and sleep 20s
+20161213 18:18:10 adb connect sucess
+20161213 18:18:40 already connect wifi
+20161213 18:19:08 download size: 174145536 , total size: 289381775
+20161213 18:19:08 remove wifi conenct
+20161213 18:19:08 remove wifi sucess
+20161213 18:19:13 svc disable wifi conenct
+20161213 18:19:21 disable wifi sucess
+20161213 18:19:41 connect wifi roobo_test1234
+20161213 18:20:03 connect wifi sucess
+20161213 18:20:36 download size: 225279069 , total size: 289381775
+20161213 18:20:46 download size: 237324445 , total size: 289381775
+20161213 18:20:56 download size: 248143005 , total size: 289381775
+20161213 18:21:06 download size: 262392261 , total size: 289381775
+20161213 18:21:18 download size: 273693445 , total size: 289381775
+20161213 18:21:28 download size: 288287493 , total size: 289381775
+20161213 18:21:38 download size: 289381775 , total size: 289381775
+20161213 18:23:08 device start upgrade...
+20161213 18:25:21 adb connect sucess
+20161213 18:25:21 rom update success
+
+20161213 18:25:21 =================== testtimes : 16 ===================
+20161213 18:25:52 already connect wifi
+20161213 18:25:55 not start download
+20161213 18:26:03 not start download
+20161213 18:26:30 download size: 22782531 , total size: 289381775
+20161213 18:26:30 reboot device and sleep 20s
+20161213 18:26:59 adb connect sucess
+20161213 18:27:30 already connect wifi
+20161213 18:27:58 download size: 24111075 , total size: 289381775
+20161213 18:27:58 reboot device and sleep 20s
+20161213 18:28:19 adb connect sucess
+20161213 18:28:49 already connect wifi
+20161213 18:29:17 download size: 57117102 , total size: 289381775
+20161213 18:29:17 reboot device and sleep 20s
+20161213 18:29:45 adb connect sucess
+20161213 18:30:15 already connect wifi
+20161213 18:30:43 download size: 95561617 , total size: 289381775
+20161213 18:30:43 reboot device and sleep 20s
+20161213 18:31:25 adb connect sucess
+20161213 18:31:55 already connect wifi
+20161213 18:32:23 download size: 140780571 , total size: 289381775
+20161213 18:32:23 remove wifi conenct
+20161213 18:32:23 remove wifi sucess
+20161213 18:32:28 svc disable wifi conenct
+20161213 18:32:35 disable wifi sucess
+20161213 18:32:55 connect wifi roobo_test1234
+20161213 18:33:17 connect wifi sucess
+20161213 18:33:50 download size: 188519341 , total size: 289381775
+20161213 18:33:50 remove wifi conenct
+20161213 18:33:51 remove wifi sucess
+20161213 18:33:56 svc disable wifi conenct
+20161213 18:34:03 disable wifi sucess
+20161213 18:34:23 connect wifi roobo_test1234
+20161213 18:34:45 connect wifi sucess
+20161213 18:35:19 download size: 235899008 , total size: 289381775
+20161213 18:35:30 download size: 247284416 , total size: 289381775
+20161213 18:35:40 download size: 257414872 , total size: 289381775
+20161213 18:35:50 download size: 267921576 , total size: 289381775
+20161213 18:36:00 download size: 278691992 , total size: 289381775
+20161213 18:36:10 download size: 289351480 , total size: 289381775
+20161213 18:36:21 download size: 289381775 , total size: 289381775
+20161213 18:37:51 device not upgrade...
+20161213 18:37:51 may be md5 check fail
+20161213 18:37:51 reboot device and sleep 20s
+20161213 18:38:11 adb connect sucess
+20161213 18:38:11 =================== testtimes : 17 ===================
+20161213 18:38:42 already connect wifi
+20161213 18:39:24 download size: 21017627 , total size: 289381775
+20161213 18:39:24 reboot device and sleep 20s
+20161213 18:39:53 adb connect sucess
+20161213 18:40:23 already connect wifi
+20161213 18:40:51 download size: 53616262 , total size: 289381775
+20161213 18:40:51 reboot device and sleep 20s
+20161213 18:41:19 adb connect sucess
+20161213 18:41:49 already connect wifi
+20161213 18:42:17 download size: 81601289 , total size: 289381775
+20161213 18:42:17 reboot device and sleep 20s
+20161213 18:42:44 adb connect sucess
+20161213 18:43:14 already connect wifi
+20161213 18:43:42 download size: 106248980 , total size: 289381775
+20161213 18:43:42 remove wifi conenct
+20161213 18:43:42 remove wifi sucess
+20161213 18:43:47 svc disable wifi conenct
+20161213 18:43:55 disable wifi sucess
+20161213 18:44:16 connect wifi roobo_test1234
+20161213 18:44:38 connect wifi sucess
+20161213 18:45:11 download size: 147749134 , total size: 289381775
+20161213 18:45:11 remove wifi conenct
+20161213 18:45:11 remove wifi sucess
+20161213 18:45:16 svc disable wifi conenct
+20161213 18:45:23 disable wifi sucess
+20161213 18:45:43 connect wifi roobo_test1234
+20161213 18:46:05 connect wifi sucess
+20161213 18:46:38 download size: 191199014 , total size: 289381775
+20161213 18:46:38 remove wifi conenct
+20161213 18:46:38 remove wifi sucess
+20161213 18:46:43 svc disable wifi conenct
+20161213 18:46:52 disable wifi sucess
+20161213 18:47:12 connect wifi roobo_test1234
+20161213 18:47:34 connect wifi sucess
+20161213 18:48:07 download size: 239190489 , total size: 289381775
+20161213 18:48:17 download size: 252270865 , total size: 289381775
+20161213 18:48:27 download size: 261109025 , total size: 289381775
+20161213 18:48:37 download size: 274257089 , total size: 289381775
+20161213 18:48:48 download size: 284700065 , total size: 289381775
+20161213 18:48:58 download size: 289381775 , total size: 289381775
+20161213 18:50:28 device start upgrade...
+20161213 18:52:50 adb connect sucess
+20161213 18:52:50 rom update success
+
+20161213 18:52:50 =================== testtimes : 18 ===================
+20161213 18:53:20 already connect wifi
+20161213 18:53:23 not start download
+20161213 18:53:31 not start download
+20161213 18:54:05 download size: 22465419 , total size: 289381775
+20161213 18:54:05 reboot device and sleep 20s
+20161213 18:54:32 adb connect sucess
+20161213 18:55:02 already connect wifi
+20161213 18:55:30 download size: 58080646 , total size: 289381775
+20161213 18:55:30 reboot device and sleep 20s
+20161213 18:55:58 adb connect sucess
+20161213 18:56:29 already connect wifi
+20161213 18:56:57 download size: 86094953 , total size: 289381775
+20161213 18:56:57 reboot device and sleep 20s
+20161213 18:57:24 adb connect sucess
+20161213 18:57:54 already connect wifi
+20161213 18:58:22 download size: 131306172 , total size: 289381775
+20161213 18:58:22 remove wifi conenct
+20161213 18:58:22 remove wifi sucess
+20161213 18:58:27 svc disable wifi conenct
+20161213 18:58:34 disable wifi sucess
+20161213 18:58:54 connect wifi roobo_test1234
+20161213 18:59:16 connect wifi sucess
+20161213 18:59:50 download size: 185702718 , total size: 289381775
+20161213 18:59:50 remove wifi conenct
+20161213 18:59:50 remove wifi sucess
+20161213 18:59:55 svc disable wifi conenct
+20161213 19:00:02 disable wifi sucess
+20161213 19:00:22 connect wifi roobo_test1234
+20161213 19:00:44 connect wifi sucess
+20161213 19:01:18 download size: 245192233 , total size: 289381775
+20161213 19:01:28 download size: 258734665 , total size: 289381775
+20161213 19:01:38 download size: 268996177 , total size: 289381775
+20161213 19:01:48 download size: 282668057 , total size: 289381775
+20161213 19:01:58 download size: 289381775 , total size: 289381775
+20161213 19:03:29 device start upgrade...
+20161213 19:05:48 adb connect sucess
+20161213 19:05:48 rom update success
+
+20161213 19:05:49 =================== testtimes : 19 ===================
+20161213 19:06:19 already connect wifi
+20161213 19:06:22 not start download
+20161213 19:06:30 not start download
+20161213 19:06:54 download size: 20454851 , total size: 289381775
+20161213 19:06:54 reboot device and sleep 20s
+20161213 19:07:23 adb connect sucess
+20161213 19:07:53 already connect wifi
+20161213 19:08:21 download size: 55483606 , total size: 289381775
+20161213 19:08:21 reboot device and sleep 20s
+20161213 19:08:50 adb connect sucess
+20161213 19:09:20 already connect wifi
+20161213 19:09:48 download size: 86431313 , total size: 289381775
+20161213 19:09:48 reboot device and sleep 20s
+20161213 19:10:44 adb connect sucess
+20161213 19:11:15 already connect wifi
+20161213 19:11:43 download size: 145685795 , total size: 289381775
+20161213 19:11:43 remove wifi conenct
+20161213 19:11:43 remove wifi sucess
+20161213 19:11:48 svc disable wifi conenct
+20161213 19:11:55 disable wifi sucess
+20161213 19:12:15 connect wifi roobo_test1234
+20161213 19:12:36 connect wifi sucess
+20161213 19:13:10 download size: 197020213 , total size: 289381775
+20161213 19:13:10 remove wifi conenct
+20161213 19:13:11 remove wifi sucess
+20161213 19:13:16 svc disable wifi conenct
+20161213 19:13:23 disable wifi sucess
+20161213 19:13:43 connect wifi roobo_test1234
+20161213 19:14:05 connect wifi sucess
+20161213 19:14:38 download size: 254136376 , total size: 289381775
+20161213 19:14:48 download size: 268664608 , total size: 289381775
+20161213 19:14:58 download size: 279777056 , total size: 289381775
+20161213 19:15:08 download size: 289381775 , total size: 289381775
+20161213 19:16:39 device start upgrade...
+20161213 19:19:01 adb connect sucess
+20161213 19:19:01 rom update success
+
+20161213 19:19:01 =================== testtimes : 20 ===================
+20161213 19:19:31 already connect wifi
+20161213 19:19:35 not start download
+20161213 19:19:43 not start download
+20161213 19:20:03 download size: 22375051 , total size: 289381775
+20161213 19:20:03 reboot device and sleep 20s
+20161213 19:20:35 adb connect sucess
+20161213 19:21:05 already connect wifi
+20161213 19:21:34 download size: 62474302 , total size: 289381775
+20161213 19:21:34 reboot device and sleep 20s
+20161213 19:22:00 adb connect sucess
+20161213 19:22:30 already connect wifi
+20161213 19:22:58 download size: 109230737 , total size: 289381775
+20161213 19:22:58 remove wifi conenct
+20161213 19:22:59 remove wifi sucess
+20161213 19:23:04 svc disable wifi conenct
+20161213 19:23:11 disable wifi sucess
+20161213 19:23:32 connect wifi roobo_test1234
+20161213 19:23:53 connect wifi sucess
+20161213 19:24:26 download size: 176833307 , total size: 289381775
+20161213 19:24:26 remove wifi conenct
+20161213 19:24:26 remove wifi sucess
+20161213 19:24:31 svc disable wifi conenct
+20161213 19:24:39 disable wifi sucess
+20161213 19:24:59 connect wifi roobo_test1234
+20161213 19:25:21 connect wifi sucess
+20161213 19:25:54 download size: 230615413 , total size: 289381775
+20161213 19:26:04 download size: 243143829 , total size: 289381775
+20161213 19:26:15 download size: 256501997 , total size: 289381775
+20161213 19:26:25 download size: 269734965 , total size: 289381775
+20161213 19:26:35 download size: 281642781 , total size: 289381775
+20161213 19:26:45 download size: 289381775 , total size: 289381775
+20161213 19:28:15 device start upgrade...
+20161213 19:30:38 adb connect sucess
+20161213 19:30:38 rom update success
+
+20161213 19:30:38 =================== testtimes : 21 ===================
+20161213 19:31:08 already connect wifi
+20161213 19:31:12 not start download
+20161213 19:31:20 not start download
+20161213 19:31:28 not start download
+20161213 19:31:49 download size: 21321499 , total size: 289381775
+20161213 19:31:49 reboot device and sleep 20s
+20161213 19:32:18 adb connect sucess
+20161213 19:32:49 already connect wifi
+20161213 19:33:17 download size: 28611379 , total size: 289381775
+20161213 19:33:17 reboot device and sleep 20s
+20161213 19:33:45 adb connect sucess
+20161213 19:34:16 already connect wifi
+20161213 19:34:44 download size: 63717574 , total size: 289381775
+20161213 19:34:44 reboot device and sleep 20s
+20161213 19:35:13 adb connect sucess
+20161213 19:35:43 already connect wifi
+20161213 19:36:11 download size: 106660017 , total size: 289381775
+20161213 19:36:11 remove wifi conenct
+20161213 19:36:11 remove wifi sucess
+20161213 19:36:16 svc disable wifi conenct
+20161213 19:36:23 disable wifi sucess
+20161213 19:36:43 connect wifi roobo_test1234
+20161213 19:37:05 connect wifi sucess
+20161213 19:37:39 download size: 176513339 , total size: 289381775
+20161213 19:37:39 remove wifi conenct
+20161213 19:37:39 remove wifi sucess
+20161213 19:37:44 svc disable wifi conenct
+20161213 19:37:51 disable wifi sucess
+20161213 19:38:11 connect wifi roobo_test1234
+20161213 19:38:33 connect wifi sucess
+20161213 19:39:06 download size: 223019173 , total size: 289381775
+20161213 19:39:17 download size: 235265325 , total size: 289381775
+20161213 19:39:27 download size: 247416125 , total size: 289381775
+20161213 19:39:37 download size: 261046517 , total size: 289381775
+20161213 19:39:47 download size: 271414229 , total size: 289381775
+20161213 19:39:57 download size: 286091797 , total size: 289381775
+20161213 19:40:07 download size: 289381775 , total size: 289381775
+20161213 19:41:38 device start upgrade...
+20161213 19:43:52 adb connect sucess
+20161213 19:43:53 rom update success
+
+20161213 19:43:53 =================== testtimes : 22 ===================
+20161213 19:44:23 already connect wifi
+20161213 19:44:26 not start download
+20161213 19:44:34 not start download
+20161213 19:44:58 download size: 22582179 , total size: 289381775
+20161213 19:44:58 reboot device and sleep 20s
+20161213 19:45:28 adb connect sucess
+20161213 19:45:58 already connect wifi
+20161213 19:46:26 download size: 53955374 , total size: 289381775
+20161213 19:46:26 reboot device and sleep 20s
+20161213 19:46:55 adb connect sucess
+20161213 19:47:25 already connect wifi
+20161213 19:47:54 download size: 101677475 , total size: 289381775
+20161213 19:47:54 remove wifi conenct
+20161213 19:47:54 remove wifi sucess
+20161213 19:47:59 svc disable wifi conenct
+20161213 19:48:07 disable wifi sucess
+20161213 19:48:27 connect wifi roobo_test1234
+20161213 19:48:49 connect wifi sucess
+20161213 19:49:24 download size: 179547877 , total size: 289381775
+20161213 19:49:24 remove wifi conenct
+20161213 19:49:24 remove wifi sucess
+20161213 19:49:29 svc disable wifi conenct
+20161213 19:49:37 disable wifi sucess
+20161213 19:49:57 connect wifi roobo_test1234
+20161213 19:50:19 connect wifi sucess
+20161213 19:50:52 download size: 242180792 , total size: 289381775
+20161213 19:51:03 download size: 255186672 , total size: 289381775
+20161213 19:51:13 download size: 269721304 , total size: 289381775
+20161213 19:51:23 download size: 282280944 , total size: 289381775
+20161213 19:51:33 download size: 289381775 , total size: 289381775
+20161213 19:53:03 device not upgrade...
+20161213 19:53:03 may be md5 check fail
+20161213 19:53:03 reboot device and sleep 20s
+20161213 19:53:24 adb connect sucess
+20161213 19:53:24 =================== testtimes : 23 ===================
+20161213 19:53:54 already connect wifi
+20161213 19:54:28 download size: 26123499 , total size: 289381775
+20161213 19:54:28 reboot device and sleep 20s
+20161213 19:54:59 adb connect sucess
+20161213 19:55:29 already connect wifi
+20161213 19:55:57 download size: 63006390 , total size: 289381775
+20161213 19:55:57 reboot device and sleep 20s
+20161213 19:56:21 adb connect sucess
+20161213 19:56:51 already connect wifi
+20161213 19:57:19 download size: 106658121 , total size: 289381775
+20161213 19:57:19 remove wifi conenct
+20161213 19:57:19 remove wifi sucess
+20161213 19:57:24 svc disable wifi conenct
+20161213 19:57:32 disable wifi sucess
+20161213 19:57:52 connect wifi roobo_test1234
+20161213 19:58:14 connect wifi sucess
+20161213 19:58:47 download size: 162805339 , total size: 289381775
+20161213 19:58:47 remove wifi conenct
+20161213 19:58:47 remove wifi sucess
+20161213 19:58:52 svc disable wifi conenct
+20161213 19:59:00 disable wifi sucess
+20161213 19:59:21 connect wifi roobo_test1234
+20161213 19:59:42 connect wifi sucess
+20161213 20:00:16 download size: 220977997 , total size: 289381775
+20161213 20:00:26 download size: 234955405 , total size: 289381775
+20161213 20:00:37 download size: 246326253 , total size: 289381775
+20161213 20:00:47 download size: 258307053 , total size: 289381775
+20161213 20:00:57 download size: 271852525 , total size: 289381775
+20161213 20:01:07 download size: 283940789 , total size: 289381775
+20161213 20:01:18 download size: 289381775 , total size: 289381775
+20161213 20:02:48 device start upgrade...
+20161213 20:05:05 adb connect sucess
+20161213 20:05:06 rom update success
+
+20161213 20:05:06 =================== testtimes : 24 ===================
+20161213 20:05:36 already connect wifi
+20161213 20:05:39 not start download
+20161213 20:05:47 not start download
+20161213 20:05:56 not start download
+20161213 20:06:10 download size: 24406995 , total size: 289381775
+20161213 20:06:10 reboot device and sleep 20s
+20161213 20:06:38 adb connect sucess
+20161213 20:07:09 connect wifi roobo_test1234
+20161213 20:07:30 connect wifi sucess
+20161213 20:07:58 download size: 60554811 , total size: 289381775
+20161213 20:07:58 reboot device and sleep 20s
+20161213 20:09:18 adb connect sucess
+20161213 20:09:48 already connect wifi
+20161213 20:10:16 download size: 174353149 , total size: 289381775
+20161213 20:10:16 remove wifi conenct
+20161213 20:10:16 remove wifi sucess
+20161213 20:10:21 svc disable wifi conenct
+20161213 20:10:29 disable wifi sucess
+20161213 20:10:49 connect wifi roobo_test1234
+20161213 20:11:11 connect wifi sucess
+20161213 20:11:44 download size: 230214431 , total size: 289381775
+20161213 20:11:54 download size: 241399439 , total size: 289381775
+20161213 20:12:04 download size: 249207399 , total size: 289381775
+20161213 20:12:14 download size: 259835255 , total size: 289381775
+20161213 20:12:24 download size: 272285623 , total size: 289381775
+20161213 20:12:35 download size: 286049631 , total size: 289381775
+20161213 20:12:45 download size: 289381775 , total size: 289381775
+20161213 20:14:15 device start upgrade...
+20161213 20:16:35 adb connect sucess
+20161213 20:16:35 rom update success
+
+20161213 20:16:35 =================== testtimes : 25 ===================
+20161213 20:17:05 already connect wifi
+20161213 20:17:08 not start download
+20161213 20:17:16 not start download
+20161213 20:17:37 download size: 23715923 , total size: 289381775
+20161213 20:17:37 reboot device and sleep 20s
+20161213 20:18:05 adb connect sucess
+20161213 20:18:35 already connect wifi
+20161213 20:19:03 download size: 36890395 , total size: 289381775
+20161213 20:19:03 reboot device and sleep 20s
+20161213 20:19:32 adb connect sucess
+20161213 20:20:02 already connect wifi
+20161213 20:20:30 download size: 68281950 , total size: 289381775
+20161213 20:20:30 reboot device and sleep 20s
+20161213 20:20:58 adb connect sucess
+20161213 20:21:28 already connect wifi
+20161213 20:21:56 download size: 109056385 , total size: 289381775
+20161213 20:21:56 remove wifi conenct
+20161213 20:21:56 remove wifi sucess
+20161213 20:22:01 svc disable wifi conenct
+20161213 20:22:09 disable wifi sucess
+20161213 20:22:29 connect wifi roobo_test1234
+20161213 20:22:51 connect wifi sucess
+20161213 20:23:25 download size: 160090963 , total size: 289381775
+20161213 20:23:25 remove wifi conenct
+20161213 20:23:25 remove wifi sucess
+20161213 20:23:30 svc disable wifi conenct
+20161213 20:23:37 disable wifi sucess
+20161213 20:23:57 connect wifi roobo_test1234
+20161213 20:24:19 connect wifi sucess
+20161213 20:24:53 download size: 215265491 , total size: 289381775
+20161213 20:25:03 download size: 226958235 , total size: 289381775
+20161213 20:25:13 download size: 240652987 , total size: 289381775
+20161213 20:25:23 download size: 250617171 , total size: 289381775
+20161213 20:25:33 download size: 261777875 , total size: 289381775
+20161213 20:25:44 download size: 273102875 , total size: 289381775
+20161213 20:25:54 download size: 285924395 , total size: 289381775
+20161213 20:26:04 download size: 289381775 , total size: 289381775
+20161213 20:27:34 device start upgrade...
+20161213 20:29:51 adb connect sucess
+20161213 20:29:52 rom update success
+
+20161213 20:29:52 =================== testtimes : 26 ===================
+20161213 20:30:22 already connect wifi
+20161213 20:30:25 not start download
+20161213 20:30:33 not start download
+20161213 20:30:54 download size: 20966499 , total size: 289381775
+20161213 20:30:54 reboot device and sleep 20s
+20161213 20:31:31 adb connect sucess
+20161213 20:32:01 already connect wifi
+20161213 20:32:29 download size: 62098219 , total size: 289381775
+20161213 20:32:29 reboot device and sleep 20s
+20161213 20:32:59 adb connect sucess
+20161213 20:33:29 already connect wifi
+20161213 20:33:57 download size: 105245390 , total size: 289381775
+20161213 20:33:57 remove wifi conenct
+20161213 20:33:58 remove wifi sucess
+20161213 20:34:03 svc disable wifi conenct
+20161213 20:34:11 disable wifi sucess
+20161213 20:34:31 connect wifi roobo_test1234
+20161213 20:34:53 connect wifi sucess
+20161213 20:35:26 download size: 163782448 , total size: 289381775
+20161213 20:35:26 remove wifi conenct
+20161213 20:35:26 remove wifi sucess
+20161213 20:35:31 svc disable wifi conenct
+20161213 20:35:39 disable wifi sucess
+20161213 20:35:59 connect wifi roobo_test1234
+20161213 20:36:21 connect wifi sucess
+20161213 20:36:54 download size: 220070546 , total size: 289381775
+20161213 20:37:04 download size: 232774266 , total size: 289381775
+20161213 20:37:14 download size: 244890234 , total size: 289381775
+20161213 20:37:24 download size: 256967282 , total size: 289381775
+20161213 20:37:35 download size: 269861490 , total size: 289381775
+20161213 20:37:46 download size: 282166258 , total size: 289381775
+20161213 20:37:56 download size: 289381775 , total size: 289381775
+20161213 20:39:26 device not upgrade...
+20161213 20:39:26 may be md5 check fail
+20161213 20:39:26 reboot device and sleep 20s
+20161213 20:39:48 adb connect sucess
+20161213 20:39:48 =================== testtimes : 27 ===================
+20161213 20:40:18 already connect wifi
+20161213 20:40:54 download size: 20572883 , total size: 289381775
+20161213 20:40:54 reboot device and sleep 20s
+20161213 20:41:23 adb connect sucess
+20161213 20:41:53 already connect wifi
+20161213 20:42:22 download size: 52795254 , total size: 289381775
+20161213 20:42:22 reboot device and sleep 20s
+20161213 20:42:52 adb connect sucess
+20161213 20:43:22 already connect wifi
+20161213 20:43:51 download size: 88520257 , total size: 289381775
+20161213 20:43:51 reboot device and sleep 20s
+20161213 20:44:46 adb connect sucess
+20161213 20:45:16 already connect wifi
+20161213 20:45:45 download size: 164955955 , total size: 289381775
+20161213 20:45:45 remove wifi conenct
+20161213 20:45:45 remove wifi sucess
+20161213 20:45:50 svc disable wifi conenct
+20161213 20:45:57 disable wifi sucess
+20161213 20:46:17 connect wifi roobo_test1234
+20161213 20:46:39 connect wifi sucess
+20161213 20:47:13 download size: 223890589 , total size: 289381775
+20161213 20:47:23 download size: 238411917 , total size: 289381775
+20161213 20:47:34 download size: 249256053 , total size: 289381775
+20161213 20:47:44 download size: 259661629 , total size: 289381775
+20161213 20:47:54 download size: 272991349 , total size: 289381775
+20161213 20:48:04 download size: 284415093 , total size: 289381775
+20161213 20:48:14 download size: 289381775 , total size: 289381775
+20161213 20:49:44 device start upgrade...
+20161213 20:52:03 adb connect sucess
+20161213 20:52:03 rom update success
+
+20161213 20:52:03 =================== testtimes : 28 ===================
+20161213 20:52:34 already connect wifi
+20161213 20:52:37 not start download
+20161213 20:52:45 not start download
+20161213 20:52:53 not start download
+20161213 20:53:11 download size: 24097379 , total size: 289381775
+20161213 20:53:11 reboot device and sleep 20s
+20161213 20:53:37 adb connect sucess
+20161213 20:54:07 already connect wifi
+20161213 20:54:35 download size: 80362310 , total size: 289381775
+20161213 20:54:35 reboot device and sleep 20s
+20161213 20:56:10 adb connect sucess
+20161213 20:56:40 already connect wifi
+20161213 20:57:08 download size: 239505105 , total size: 289381775
+20161213 20:57:18 download size: 254946945 , total size: 289381775
+20161213 20:57:30 download size: 267017193 , total size: 289381775
+20161213 20:57:40 download size: 285486057 , total size: 289381775
+20161213 20:57:50 download size: 289381775 , total size: 289381775
+20161213 20:59:20 device start upgrade...
+20161213 21:01:39 adb connect sucess
+20161213 21:01:39 rom update success
+
+20161213 21:01:39 =================== testtimes : 29 ===================
+20161213 21:02:10 already connect wifi
+20161213 21:02:13 not start download
+20161213 21:02:21 not start download
+20161213 21:02:29 not start download
+20161213 21:02:45 download size: 22434763 , total size: 289381775
+20161213 21:02:45 reboot device and sleep 20s
+20161213 21:03:13 adb connect sucess
+20161213 21:03:43 already connect wifi
+20161213 21:04:12 download size: 56284662 , total size: 289381775
+20161213 21:04:12 reboot device and sleep 20s
+20161213 21:04:38 adb connect sucess
+20161213 21:05:08 already connect wifi
+20161213 21:05:36 download size: 94244481 , total size: 289381775
+20161213 21:05:36 reboot device and sleep 20s
+20161213 21:06:25 adb connect sucess
+20161213 21:06:56 already connect wifi
+20161213 21:07:24 download size: 162281697 , total size: 289381775
+20161213 21:07:24 remove wifi conenct
+20161213 21:07:24 remove wifi sucess
+20161213 21:07:29 svc disable wifi conenct
+20161213 21:07:37 disable wifi sucess
+20161213 21:07:57 connect wifi roobo_test1234
+20161213 21:08:19 connect wifi sucess
+20161213 21:08:52 download size: 218593601 , total size: 289381775
+20161213 21:09:02 download size: 230826225 , total size: 289381775
+20161213 21:09:12 download size: 246454169 , total size: 289381775
+20161213 21:09:22 download size: 257750937 , total size: 289381775
+20161213 21:09:33 download size: 270235545 , total size: 289381775
+20161213 21:09:43 download size: 281921433 , total size: 289381775
+20161213 21:09:53 download size: 289381775 , total size: 289381775
+20161213 21:11:23 device not upgrade...
+20161213 21:11:23 may be md5 check fail
+20161213 21:11:23 reboot device and sleep 20s
+20161213 21:11:44 adb connect sucess
+20161213 21:11:44 =================== testtimes : 30 ===================
+20161213 21:12:14 already connect wifi
+20161213 21:12:54 download size: 21574371 , total size: 289381775
+20161213 21:12:54 reboot device and sleep 20s
+20161213 21:13:24 adb connect sucess
+20161213 21:13:55 already connect wifi
+20161213 21:14:23 download size: 57115854 , total size: 289381775
+20161213 21:14:23 reboot device and sleep 20s
+20161213 21:14:51 adb connect sucess
+20161213 21:15:22 already connect wifi
+20161213 21:15:50 download size: 91083363 , total size: 289381775
+20161213 21:15:50 reboot device and sleep 20s
+20161213 21:16:50 adb connect sucess
+20161213 21:17:20 already connect wifi
+20161213 21:17:48 download size: 137633445 , total size: 289381775
+20161213 21:17:48 remove wifi conenct
+20161213 21:17:48 remove wifi sucess
+20161213 21:17:53 svc disable wifi conenct
+20161213 21:18:00 disable wifi sucess
+20161213 21:18:20 connect wifi roobo_test1234
+20161213 21:18:42 connect wifi sucess
+20161213 21:19:15 download size: 144563503 , total size: 289381775
+20161213 21:19:15 remove wifi conenct
+20161213 21:19:15 remove wifi sucess
+20161213 21:19:20 svc disable wifi conenct
+20161213 21:19:27 svc disable wifi conenct
+20161213 21:19:34 disable wifi sucess
+20161213 21:19:54 connect wifi roobo_test1234
+20161213 21:20:16 connect wifi roobo_test1234
+20161213 21:20:38 connect wifi roobo_test1234
+20161213 21:20:59 connect wifi roobo_test1234
+20161213 21:21:21 connect wifi roobo_test1234
+20161213 21:21:43 connect wifi roobo_test1234
+20161213 21:22:04 connect wifi fail
+20161213 21:22:37 download size: 144563503 , total size: 289381775
+20161213 21:22:37 remove wifi conenct
+20161213 21:22:38 remove wifi sucess
+20161213 21:22:43 svc disable wifi conenct
+20161213 21:22:49 disable wifi sucess
+20161213 21:23:09 connect wifi roobo_test1234
+20161213 21:23:31 connect wifi roobo_test1234
+20161213 21:23:53 connect wifi roobo_test1234
+20161213 21:24:14 connect wifi roobo_test1234
+20161213 21:24:36 connect wifi roobo_test1234
+20161213 21:24:58 connect wifi roobo_test1234
+20161213 21:25:19 connect wifi fail
+20161213 21:25:52 download size: 144563503 , total size: 289381775
+20161213 21:25:52 remove wifi conenct
+20161213 21:25:53 remove wifi sucess
+20161213 21:25:58 svc disable wifi conenct
+20161213 21:26:04 disable wifi sucess
+20161213 21:26:24 connect wifi roobo_test1234
+20161213 21:26:46 connect wifi roobo_test1234
+20161213 21:27:08 connect wifi roobo_test1234
+20161213 21:27:29 connect wifi roobo_test1234
+20161213 21:27:51 connect wifi roobo_test1234
+20161213 21:28:13 connect wifi roobo_test1234
+20161213 21:28:34 connect wifi fail
+20161213 21:29:07 download size: 144563503 , total size: 289381775
+20161213 21:29:07 remove wifi conenct
+20161213 21:29:08 remove wifi sucess
+20161213 21:29:13 svc disable wifi conenct
+20161213 21:29:19 disable wifi sucess
+20161213 21:29:39 connect wifi roobo_test1234
+20161213 21:30:01 connect wifi roobo_test1234
+20161213 21:30:23 connect wifi roobo_test1234
+20161213 21:30:44 connect wifi roobo_test1234
+20161213 21:31:06 connect wifi roobo_test1234
+20161213 21:31:28 connect wifi roobo_test1234
+20161213 21:31:49 connect wifi fail
+20161213 21:32:22 download size: 144563503 , total size: 289381775
+20161213 21:32:22 remove wifi conenct
+20161213 21:32:23 remove wifi sucess
+20161213 21:32:28 svc disable wifi conenct
+20161213 21:32:34 disable wifi sucess
+20161213 21:32:54 connect wifi roobo_test1234
+20161213 21:33:16 connect wifi roobo_test1234
+20161213 21:33:38 connect wifi roobo_test1234
+20161213 21:33:59 connect wifi roobo_test1234
+20161213 21:34:21 connect wifi roobo_test1234
+20161213 21:34:43 connect wifi roobo_test1234
+20161213 21:35:04 connect wifi fail
+20161213 21:35:37 download size: 144563503 , total size: 289381775
+20161213 21:35:37 remove wifi conenct
+20161213 21:35:38 remove wifi sucess
+20161213 21:35:43 svc disable wifi conenct
+20161213 21:35:49 disable wifi sucess
+20161213 21:36:09 connect wifi roobo_test1234
+20161213 21:36:31 connect wifi roobo_test1234
+20161213 21:36:53 connect wifi roobo_test1234
+20161213 21:37:14 connect wifi roobo_test1234
+20161213 21:37:36 connect wifi roobo_test1234
+20161213 21:37:58 connect wifi roobo_test1234
+20161213 21:38:19 connect wifi fail
+20161213 21:38:52 download size: 144563503 , total size: 289381775
+20161213 21:38:52 remove wifi conenct
+20161213 21:38:53 remove wifi sucess
+20161213 21:38:58 svc disable wifi conenct
+20161213 21:39:04 disable wifi sucess
+20161213 21:39:24 connect wifi roobo_test1234
+20161213 21:39:46 connect wifi roobo_test1234
+20161213 21:40:08 connect wifi roobo_test1234
+20161213 21:40:29 connect wifi roobo_test1234
+20161213 21:40:51 connect wifi roobo_test1234
+20161213 21:41:13 connect wifi roobo_test1234
+20161213 21:41:34 connect wifi fail
+20161213 21:42:07 download size: 144563503 , total size: 289381775
+20161213 21:42:07 remove wifi conenct
+20161213 21:42:08 remove wifi sucess
+20161213 21:42:13 svc disable wifi conenct
+20161213 21:42:19 disable wifi sucess
+20161213 21:42:39 connect wifi roobo_test1234
+20161213 21:43:01 connect wifi roobo_test1234
+20161213 21:43:23 connect wifi roobo_test1234
+20161213 21:43:44 connect wifi roobo_test1234
+20161213 21:44:06 connect wifi roobo_test1234
+20161213 21:44:28 connect wifi roobo_test1234
+20161213 21:44:49 connect wifi fail
+20161213 21:45:22 download size: 144563503 , total size: 289381775
+20161213 21:45:22 remove wifi conenct
+20161213 21:45:23 remove wifi sucess
+20161213 21:45:28 svc disable wifi conenct
+20161213 21:45:34 disable wifi sucess
+20161213 21:45:54 connect wifi roobo_test1234
+20161213 21:46:16 connect wifi roobo_test1234
+20161213 21:46:38 connect wifi roobo_test1234
+20161213 21:46:59 connect wifi roobo_test1234
+20161213 21:47:21 connect wifi roobo_test1234
+20161213 21:47:43 connect wifi roobo_test1234
+20161213 21:48:04 connect wifi fail
+20161213 21:48:37 download size: 144563503 , total size: 289381775
+20161213 21:48:37 remove wifi conenct
+20161213 21:48:37 remove wifi sucess
+20161213 21:48:42 svc disable wifi conenct
+20161213 21:48:49 disable wifi sucess
+20161213 21:49:09 connect wifi roobo_test1234
+20161213 21:49:31 connect wifi roobo_test1234
+20161213 21:49:53 connect wifi roobo_test1234
+20161213 21:50:14 connect wifi roobo_test1234
+20161213 21:50:36 connect wifi roobo_test1234
+20161213 21:50:58 connect wifi roobo_test1234
+20161213 21:51:19 connect wifi fail
+20161213 21:51:52 download size: 144563503 , total size: 289381775
+20161213 21:51:52 remove wifi conenct
+20161213 21:51:52 remove wifi sucess
+20161213 21:51:57 svc disable wifi conenct
+20161213 21:52:04 disable wifi sucess
+20161213 21:52:24 connect wifi roobo_test1234
+20161213 21:52:46 connect wifi roobo_test1234
+20161213 21:53:08 connect wifi roobo_test1234
+20161213 21:53:29 connect wifi roobo_test1234
+20161213 21:53:51 connect wifi roobo_test1234
+20161213 21:54:13 connect wifi roobo_test1234
+20161213 21:54:34 connect wifi fail
+20161213 21:55:07 download size: 144563503 , total size: 289381775
+20161213 21:55:07 remove wifi conenct
+20161213 21:55:07 remove wifi sucess
+20161213 21:55:12 svc disable wifi conenct
+20161213 21:55:19 disable wifi sucess
+20161213 21:55:39 connect wifi roobo_test1234
+20161213 21:56:01 connect wifi roobo_test1234
+20161213 21:56:23 connect wifi roobo_test1234
+20161213 21:56:44 connect wifi roobo_test1234
+20161213 21:57:06 connect wifi roobo_test1234
+20161213 21:57:27 connect wifi roobo_test1234
+20161213 21:57:49 connect wifi fail
+20161213 21:58:22 download size: 144563503 , total size: 289381775
+20161213 21:58:22 remove wifi conenct
+20161213 21:58:22 remove wifi sucess
+20161213 21:58:27 svc disable wifi conenct
+20161213 21:58:34 disable wifi sucess
+20161213 21:58:54 connect wifi roobo_test1234
+20161213 21:59:16 connect wifi roobo_test1234
+20161213 21:59:37 connect wifi roobo_test1234
+20161213 21:59:59 connect wifi roobo_test1234
+20161213 22:00:21 connect wifi roobo_test1234
+20161213 22:00:43 connect wifi roobo_test1234
+20161213 22:01:04 connect wifi fail
+20161213 22:01:37 download size: 144563503 , total size: 289381775
+20161213 22:01:37 remove wifi conenct
+20161213 22:01:37 remove wifi sucess
+20161213 22:01:42 svc disable wifi conenct
+20161213 22:01:49 disable wifi sucess
+20161213 22:02:09 connect wifi roobo_test1234
+20161213 22:02:31 connect wifi roobo_test1234
+20161213 22:02:52 connect wifi roobo_test1234
+20161213 22:03:14 connect wifi roobo_test1234
+20161213 22:03:36 connect wifi roobo_test1234
+20161213 22:03:57 connect wifi roobo_test1234
+20161213 22:04:19 connect wifi fail
+20161213 22:04:52 download size: 144563503 , total size: 289381775
+20161213 22:04:52 remove wifi conenct
+20161213 22:04:52 remove wifi sucess
+20161213 22:04:57 svc disable wifi conenct
+20161213 22:05:04 disable wifi sucess
+20161213 22:05:24 connect wifi roobo_test1234
+20161213 22:05:46 connect wifi roobo_test1234
+20161213 22:06:07 connect wifi roobo_test1234
+20161213 22:06:29 connect wifi roobo_test1234
+20161213 22:06:51 connect wifi roobo_test1234
+20161213 22:07:12 connect wifi roobo_test1234
+20161213 22:07:34 connect wifi fail
+20161213 22:08:07 download size: 144563503 , total size: 289381775
+20161213 22:08:07 remove wifi conenct
+20161213 22:08:07 remove wifi sucess
+20161213 22:08:12 svc disable wifi conenct
+20161213 22:08:19 disable wifi sucess
+20161213 22:08:39 connect wifi roobo_test1234
+20161213 22:09:01 connect wifi roobo_test1234
+20161213 22:09:22 connect wifi roobo_test1234
+20161213 22:09:44 connect wifi roobo_test1234
+20161213 22:10:06 connect wifi roobo_test1234
+20161213 22:10:27 connect wifi roobo_test1234
+20161213 22:10:49 connect wifi fail
+20161213 22:11:22 download size: 144563503 , total size: 289381775
+20161213 22:11:22 remove wifi conenct
+20161213 22:11:22 remove wifi sucess
+20161213 22:11:27 svc disable wifi conenct
+20161213 22:11:33 disable wifi sucess
+20161213 22:11:53 connect wifi roobo_test1234
+20161213 22:12:15 connect wifi roobo_test1234
+20161213 22:12:37 connect wifi roobo_test1234
+20161213 22:12:58 connect wifi roobo_test1234
+20161213 22:13:20 connect wifi roobo_test1234
+20161213 22:13:42 connect wifi roobo_test1234
+20161213 22:14:03 connect wifi fail
+20161213 22:14:36 download size: 144563503 , total size: 289381775
+20161213 22:14:36 remove wifi conenct
+20161213 22:14:36 remove wifi sucess
+20161213 22:14:41 svc disable wifi conenct
+20161213 22:14:48 disable wifi sucess
+20161213 22:15:08 connect wifi roobo_test1234
+20161213 22:15:30 connect wifi roobo_test1234
+20161213 22:15:51 connect wifi roobo_test1234
+20161213 22:16:13 connect wifi roobo_test1234
+20161213 22:16:35 connect wifi roobo_test1234
+20161213 22:16:56 connect wifi roobo_test1234
+20161213 22:17:17 connect wifi fail
+20161213 22:17:51 download size: 144563503 , total size: 289381775
+20161213 22:17:51 remove wifi conenct
+20161213 22:17:51 remove wifi sucess
+20161213 22:17:56 svc disable wifi conenct
+20161213 22:18:02 disable wifi sucess
+20161213 22:18:22 connect wifi roobo_test1234
+20161213 22:18:44 connect wifi roobo_test1234
+20161213 22:19:06 connect wifi roobo_test1234
+20161213 22:19:27 connect wifi roobo_test1234
+20161213 22:19:49 connect wifi roobo_test1234
+20161213 22:20:10 connect wifi roobo_test1234
+20161213 22:20:32 connect wifi fail
+20161213 22:21:05 download size: 144563503 , total size: 289381775
+20161213 22:21:05 remove wifi conenct
+20161213 22:21:05 remove wifi sucess
+20161213 22:21:10 svc disable wifi conenct
+20161213 22:21:17 disable wifi sucess
+20161213 22:21:37 connect wifi roobo_test1234
+20161213 22:21:59 connect wifi roobo_test1234
+20161213 22:22:20 connect wifi roobo_test1234
+20161213 22:22:42 connect wifi roobo_test1234
+20161213 22:23:04 connect wifi roobo_test1234
+20161213 22:23:25 connect wifi roobo_test1234
+20161213 22:23:47 connect wifi fail
+20161213 22:24:20 download size: 144563503 , total size: 289381775
+20161213 22:24:20 remove wifi conenct
+20161213 22:24:20 remove wifi sucess
+20161213 22:24:25 svc disable wifi conenct
+20161213 22:24:32 disable wifi sucess
+20161213 22:24:52 connect wifi roobo_test1234
+20161213 22:25:14 connect wifi roobo_test1234
+20161213 22:25:35 connect wifi roobo_test1234
+20161213 22:25:57 connect wifi roobo_test1234
+20161213 22:26:18 connect wifi roobo_test1234
+20161213 22:26:40 connect wifi roobo_test1234
+20161213 22:27:02 connect wifi fail
+20161213 22:27:35 download size: 144563503 , total size: 289381775
+20161213 22:27:35 remove wifi conenct
+20161213 22:27:35 remove wifi sucess
+20161213 22:27:40 svc disable wifi conenct
+20161213 22:27:47 disable wifi sucess
+20161213 22:28:07 connect wifi roobo_test1234
+20161213 22:28:28 connect wifi roobo_test1234
+20161213 22:28:50 connect wifi roobo_test1234
+20161213 22:29:11 connect wifi roobo_test1234
+20161213 22:29:33 connect wifi roobo_test1234
+20161213 22:29:55 connect wifi roobo_test1234
+20161213 22:30:16 connect wifi fail
+20161213 22:30:49 download size: 144563503 , total size: 289381775
+20161213 22:30:49 remove wifi conenct
+20161213 22:30:50 remove wifi sucess
+20161213 22:30:55 svc disable wifi conenct
+20161213 22:31:01 disable wifi sucess
+20161213 22:31:21 connect wifi roobo_test1234
+20161213 22:31:43 connect wifi roobo_test1234
+20161213 22:32:04 connect wifi roobo_test1234
+20161213 22:32:26 connect wifi roobo_test1234
+20161213 22:32:48 connect wifi roobo_test1234
+20161213 22:33:09 connect wifi roobo_test1234
+20161213 22:33:31 connect wifi fail
+20161213 22:34:04 download size: 144563503 , total size: 289381775
+20161213 22:34:04 remove wifi conenct
+20161213 22:34:04 remove wifi sucess
+20161213 22:34:09 svc disable wifi conenct
+20161213 22:34:16 disable wifi sucess
+20161213 22:34:36 connect wifi roobo_test1234
+20161213 22:34:58 connect wifi roobo_test1234
+20161213 22:35:19 connect wifi roobo_test1234
+20161213 22:35:41 connect wifi roobo_test1234
+20161213 22:36:03 connect wifi roobo_test1234
+20161213 22:36:24 connect wifi roobo_test1234
+20161213 22:36:46 connect wifi fail
+20161213 22:37:19 download size: 144563503 , total size: 289381775
+20161213 22:37:19 remove wifi conenct
+20161213 22:37:19 remove wifi sucess
+20161213 22:37:24 svc disable wifi conenct
+20161213 22:37:30 disable wifi sucess
+20161213 22:37:51 connect wifi roobo_test1234
+20161213 22:38:12 connect wifi roobo_test1234
+20161213 22:38:34 connect wifi roobo_test1234
+20161213 22:38:55 connect wifi roobo_test1234
+20161213 22:39:17 connect wifi roobo_test1234
+20161213 22:39:39 connect wifi roobo_test1234
+20161213 22:40:00 connect wifi fail
+20161213 22:40:33 download size: 144563503 , total size: 289381775
+20161213 22:40:33 remove wifi conenct
+20161213 22:40:34 remove wifi sucess
+20161213 22:40:39 svc disable wifi conenct
+20161213 22:40:45 disable wifi sucess
+20161213 22:41:05 connect wifi roobo_test1234
+20161213 22:41:27 connect wifi roobo_test1234
+20161213 22:41:49 connect wifi roobo_test1234
+20161213 22:42:10 connect wifi roobo_test1234
+20161213 22:42:32 connect wifi roobo_test1234
+20161213 22:42:53 connect wifi roobo_test1234
+20161213 22:43:15 connect wifi fail
+20161213 22:43:48 download size: 144563503 , total size: 289381775
+20161213 22:43:48 remove wifi conenct
+20161213 22:43:48 remove wifi sucess
+20161213 22:43:53 svc disable wifi conenct
+20161213 22:44:00 disable wifi sucess
+20161213 22:44:20 connect wifi roobo_test1234
+20161213 22:44:41 connect wifi roobo_test1234
+20161213 22:45:03 connect wifi roobo_test1234
+20161213 22:45:24 connect wifi roobo_test1234
+20161213 22:45:46 connect wifi roobo_test1234
+20161213 22:46:08 connect wifi roobo_test1234
+20161213 22:46:29 connect wifi fail
+20161213 22:47:02 download size: 144563503 , total size: 289381775
+20161213 22:47:02 remove wifi conenct
+20161213 22:47:02 remove wifi sucess
+20161213 22:47:07 svc disable wifi conenct
+20161213 22:47:14 disable wifi sucess
+20161213 22:47:34 connect wifi roobo_test1234
+20161213 22:47:56 connect wifi roobo_test1234
+20161213 22:48:17 connect wifi roobo_test1234
+20161213 22:48:39 connect wifi roobo_test1234
+20161213 22:49:01 connect wifi roobo_test1234
+20161213 22:49:22 connect wifi roobo_test1234
+20161213 22:49:44 connect wifi fail
+20161213 22:50:17 download size: 144563503 , total size: 289381775
+20161213 22:50:17 remove wifi conenct
+20161213 22:50:17 remove wifi sucess
+20161213 22:50:22 svc disable wifi conenct
+20161213 22:50:29 disable wifi sucess
+20161213 22:50:49 connect wifi roobo_test1234
+20161213 22:51:11 connect wifi roobo_test1234
+20161213 22:51:32 connect wifi roobo_test1234
+20161213 22:51:54 connect wifi roobo_test1234
+20161213 22:52:16 connect wifi roobo_test1234
+20161213 22:52:37 connect wifi roobo_test1234
+20161213 22:52:58 connect wifi fail
+20161213 22:53:32 download size: 144563503 , total size: 289381775
+20161213 22:53:32 remove wifi conenct
+20161213 22:53:32 remove wifi sucess
+20161213 22:53:37 svc disable wifi conenct
+20161213 22:53:43 disable wifi sucess
+20161213 22:54:04 connect wifi roobo_test1234
+20161213 22:54:25 connect wifi roobo_test1234
+20161213 22:54:47 connect wifi roobo_test1234
+20161213 22:55:08 connect wifi roobo_test1234
+20161213 22:55:30 connect wifi roobo_test1234
+20161213 22:55:51 connect wifi roobo_test1234
+20161213 22:56:13 connect wifi fail
+20161213 22:56:46 download size: 144563503 , total size: 289381775
+20161213 22:56:46 remove wifi conenct
+20161213 22:56:46 remove wifi sucess
+20161213 22:56:51 svc disable wifi conenct
+20161213 22:56:58 disable wifi sucess
+20161213 22:57:18 connect wifi roobo_test1234
+20161213 22:57:40 connect wifi roobo_test1234
+20161213 22:58:01 connect wifi roobo_test1234
+20161213 22:58:23 connect wifi roobo_test1234
+20161213 22:58:45 connect wifi roobo_test1234
+20161213 22:59:06 connect wifi roobo_test1234
+20161213 22:59:28 connect wifi fail
+20161213 23:00:01 download size: 144563503 , total size: 289381775
+20161213 23:00:01 remove wifi conenct
+20161213 23:00:01 remove wifi sucess
+20161213 23:00:06 svc disable wifi conenct
+20161213 23:00:13 disable wifi sucess
+20161213 23:00:33 connect wifi roobo_test1234
+20161213 23:00:55 connect wifi roobo_test1234
+20161213 23:01:16 connect wifi roobo_test1234
+20161213 23:01:38 connect wifi roobo_test1234
+20161213 23:02:00 connect wifi roobo_test1234
+20161213 23:02:21 connect wifi roobo_test1234
+20161213 23:02:43 connect wifi fail
+20161213 23:03:16 download size: 144563503 , total size: 289381775
+20161213 23:03:16 remove wifi conenct
+20161213 23:03:16 remove wifi sucess
+20161213 23:03:21 svc disable wifi conenct
+20161213 23:03:28 disable wifi sucess
+20161213 23:03:48 connect wifi roobo_test1234
+20161213 23:04:09 connect wifi roobo_test1234
+20161213 23:04:31 connect wifi roobo_test1234
+20161213 23:04:53 connect wifi roobo_test1234
+20161213 23:05:14 connect wifi roobo_test1234
+20161213 23:05:36 connect wifi roobo_test1234
+20161213 23:05:57 connect wifi fail
+20161213 23:06:30 download size: 144563503 , total size: 289381775
+20161213 23:06:30 remove wifi conenct
+20161213 23:06:31 remove wifi sucess
+20161213 23:06:36 svc disable wifi conenct
+20161213 23:06:42 disable wifi sucess
+20161213 23:07:02 connect wifi roobo_test1234
+20161213 23:07:24 connect wifi roobo_test1234
+20161213 23:07:46 connect wifi roobo_test1234
+20161213 23:08:07 connect wifi roobo_test1234
+20161213 23:08:29 connect wifi roobo_test1234
+20161213 23:08:51 connect wifi roobo_test1234
+20161213 23:09:12 connect wifi fail
+20161213 23:09:45 download size: 144563503 , total size: 289381775
+20161213 23:09:45 remove wifi conenct
+20161213 23:09:46 remove wifi sucess
+20161213 23:09:51 svc disable wifi conenct
+20161213 23:09:57 disable wifi sucess
+20161213 23:10:17 connect wifi roobo_test1234
+20161213 23:10:39 connect wifi roobo_test1234
+20161213 23:11:00 connect wifi roobo_test1234
+20161213 23:11:22 connect wifi roobo_test1234
+20161213 23:11:44 connect wifi roobo_test1234
+20161213 23:12:05 connect wifi roobo_test1234
+20161213 23:12:27 connect wifi fail
+20161213 23:13:00 download size: 144563503 , total size: 289381775
+20161213 23:13:00 remove wifi conenct
+20161213 23:13:00 remove wifi sucess
+20161213 23:13:05 svc disable wifi conenct
+20161213 23:13:12 disable wifi sucess
+20161213 23:13:32 connect wifi roobo_test1234
+20161213 23:13:54 connect wifi roobo_test1234
+20161213 23:14:15 connect wifi roobo_test1234
+20161213 23:14:37 connect wifi roobo_test1234
+20161213 23:14:58 connect wifi roobo_test1234
+20161213 23:15:20 connect wifi roobo_test1234
+20161213 23:15:42 connect wifi fail
+20161213 23:16:15 download size: 144563503 , total size: 289381775
+20161213 23:16:15 remove wifi conenct
+20161213 23:16:15 remove wifi sucess
+20161213 23:16:20 svc disable wifi conenct
+20161213 23:16:27 disable wifi sucess
+20161213 23:16:47 connect wifi roobo_test1234
+20161213 23:17:08 connect wifi roobo_test1234
+20161213 23:17:30 connect wifi roobo_test1234
+20161213 23:17:51 connect wifi roobo_test1234
+20161213 23:18:13 connect wifi roobo_test1234
+20161213 23:18:35 connect wifi roobo_test1234
+20161213 23:18:56 connect wifi fail
+20161213 23:19:30 download size: 144563503 , total size: 289381775
+20161213 23:19:30 remove wifi conenct
+20161213 23:19:30 remove wifi sucess
+20161213 23:19:35 svc disable wifi conenct
+20161213 23:19:41 disable wifi sucess
+20161213 23:20:02 connect wifi roobo_test1234
+20161213 23:20:23 connect wifi roobo_test1234
+20161213 23:20:45 connect wifi roobo_test1234
+20161213 23:21:06 connect wifi roobo_test1234
+20161213 23:21:28 connect wifi roobo_test1234
+20161213 23:21:50 connect wifi roobo_test1234
+20161213 23:22:11 connect wifi fail
+20161213 23:22:44 download size: 144563503 , total size: 289381775
+20161213 23:22:44 remove wifi conenct
+20161213 23:22:45 remove wifi sucess
+20161213 23:22:50 svc disable wifi conenct
+20161213 23:22:56 disable wifi sucess
+20161213 23:23:16 connect wifi roobo_test1234
+20161213 23:23:38 connect wifi roobo_test1234
+20161213 23:23:59 connect wifi roobo_test1234
+20161213 23:24:21 connect wifi roobo_test1234
+20161213 23:24:43 connect wifi roobo_test1234
+20161213 23:25:04 connect wifi roobo_test1234
+20161213 23:25:26 connect wifi fail
+20161213 23:25:59 download size: 144563503 , total size: 289381775
+20161213 23:25:59 remove wifi conenct
+20161213 23:25:59 remove wifi sucess
+20161213 23:26:04 svc disable wifi conenct
+20161213 23:26:11 disable wifi sucess
+20161213 23:26:31 connect wifi roobo_test1234
+20161213 23:26:53 connect wifi roobo_test1234
+20161213 23:27:14 connect wifi roobo_test1234
+20161213 23:27:36 connect wifi roobo_test1234
+20161213 23:27:57 connect wifi roobo_test1234
+20161213 23:28:19 connect wifi roobo_test1234
+20161213 23:28:41 connect wifi fail
+20161213 23:29:14 download size: 144563503 , total size: 289381775
+20161213 23:29:14 remove wifi conenct
+20161213 23:29:14 remove wifi sucess
+20161213 23:29:19 svc disable wifi conenct
+20161213 23:29:25 disable wifi sucess
+20161213 23:29:45 connect wifi roobo_test1234
+20161213 23:30:07 connect wifi roobo_test1234
+20161213 23:30:29 connect wifi roobo_test1234
+20161213 23:30:51 connect wifi roobo_test1234
+20161213 23:31:12 connect wifi roobo_test1234
+20161213 23:31:34 connect wifi roobo_test1234
+20161213 23:31:55 connect wifi fail
+20161213 23:32:29 download size: 144563503 , total size: 289381775
+20161213 23:32:29 remove wifi conenct
+20161213 23:32:29 remove wifi sucess
+20161213 23:32:34 svc disable wifi conenct
+20161213 23:32:41 disable wifi sucess
+20161213 23:33:01 connect wifi roobo_test1234
+20161213 23:33:22 connect wifi roobo_test1234
+20161213 23:33:44 connect wifi roobo_test1234
+20161213 23:34:05 connect wifi roobo_test1234
+20161213 23:34:27 connect wifi roobo_test1234
+20161213 23:34:49 connect wifi roobo_test1234
+20161213 23:35:10 connect wifi fail
+20161213 23:35:43 download size: 144563503 , total size: 289381775
+20161213 23:35:43 remove wifi conenct
+20161213 23:35:44 remove wifi sucess
+20161213 23:35:49 svc disable wifi conenct
+20161213 23:35:55 disable wifi sucess
+20161213 23:36:15 connect wifi roobo_test1234
+20161213 23:36:37 connect wifi roobo_test1234
+20161213 23:36:59 connect wifi roobo_test1234
+20161213 23:37:20 connect wifi roobo_test1234
+20161213 23:37:42 connect wifi roobo_test1234
+20161213 23:38:03 connect wifi roobo_test1234
+20161213 23:38:25 connect wifi fail
+20161213 23:38:58 download size: 144563503 , total size: 289381775
+20161213 23:38:58 remove wifi conenct
+20161213 23:38:58 remove wifi sucess
+20161213 23:39:03 svc disable wifi conenct
+20161213 23:39:10 disable wifi sucess
+20161213 23:39:30 connect wifi roobo_test1234
+20161213 23:39:51 connect wifi roobo_test1234
+20161213 23:40:13 connect wifi roobo_test1234
+20161213 23:40:35 connect wifi roobo_test1234
+20161213 23:40:56 connect wifi roobo_test1234
+20161213 23:41:18 connect wifi roobo_test1234
+20161213 23:41:39 connect wifi fail
+20161213 23:42:13 download size: 144563503 , total size: 289381775
+20161213 23:42:13 remove wifi conenct
+20161213 23:42:13 remove wifi sucess
+20161213 23:42:18 svc disable wifi conenct
+20161213 23:42:24 disable wifi sucess
+20161213 23:42:45 connect wifi roobo_test1234
+20161213 23:43:06 connect wifi roobo_test1234
+20161213 23:43:28 connect wifi roobo_test1234
+20161213 23:43:50 connect wifi roobo_test1234
+20161213 23:44:11 connect wifi roobo_test1234
+20161213 23:44:33 connect wifi roobo_test1234
+20161213 23:44:54 connect wifi fail
+20161213 23:45:27 download size: 144563503 , total size: 289381775
+20161213 23:45:27 remove wifi conenct
+20161213 23:45:28 remove wifi sucess
+20161213 23:45:33 svc disable wifi conenct
+20161213 23:45:39 disable wifi sucess
+20161213 23:45:59 connect wifi roobo_test1234
+20161213 23:46:21 connect wifi roobo_test1234
+20161213 23:46:42 connect wifi roobo_test1234
+20161213 23:47:04 connect wifi roobo_test1234
+20161213 23:47:26 connect wifi roobo_test1234
+20161213 23:47:47 connect wifi roobo_test1234
+20161213 23:48:09 connect wifi fail
+20161213 23:48:42 download size: 144563503 , total size: 289381775
+20161213 23:48:42 remove wifi conenct
+20161213 23:48:42 remove wifi sucess
+20161213 23:48:47 svc disable wifi conenct
+20161213 23:48:54 disable wifi sucess
+20161213 23:49:14 connect wifi roobo_test1234
+20161213 23:49:35 connect wifi roobo_test1234
+20161213 23:49:57 connect wifi roobo_test1234
+20161213 23:50:19 connect wifi roobo_test1234
+20161213 23:50:41 connect wifi roobo_test1234
+20161213 23:51:02 connect wifi roobo_test1234
+20161213 23:51:24 connect wifi fail
+20161213 23:51:57 download size: 144563503 , total size: 289381775
+20161213 23:51:57 remove wifi conenct
+20161213 23:51:57 remove wifi sucess
+20161213 23:52:02 svc disable wifi conenct
+20161213 23:52:09 disable wifi sucess
+20161213 23:52:29 connect wifi roobo_test1234
+20161213 23:52:51 connect wifi roobo_test1234
+20161213 23:53:12 connect wifi roobo_test1234
+20161213 23:53:34 connect wifi roobo_test1234
+20161213 23:53:55 connect wifi roobo_test1234
+20161213 23:54:17 connect wifi roobo_test1234
+20161213 23:54:39 connect wifi fail
+20161213 23:55:12 download size: 144563503 , total size: 289381775
+20161213 23:55:12 remove wifi conenct
+20161213 23:55:12 remove wifi sucess
+20161213 23:55:17 svc disable wifi conenct
+20161213 23:55:23 disable wifi sucess
+20161213 23:55:44 connect wifi roobo_test1234
+20161213 23:56:05 connect wifi roobo_test1234
+20161213 23:56:27 connect wifi roobo_test1234
+20161213 23:56:48 connect wifi roobo_test1234
+20161213 23:57:10 connect wifi roobo_test1234
+20161213 23:57:32 connect wifi roobo_test1234
+20161213 23:57:53 connect wifi fail
+20161213 23:58:26 download size: 144563503 , total size: 289381775
+20161213 23:58:26 remove wifi conenct
+20161213 23:58:27 remove wifi sucess
+20161213 23:58:32 svc disable wifi conenct
+20161213 23:58:38 disable wifi sucess
+20161213 23:58:58 connect wifi roobo_test1234
+20161213 23:59:20 connect wifi roobo_test1234
+20161213 23:59:41 connect wifi roobo_test1234
+20161214 00:00:03 connect wifi roobo_test1234
+20161214 00:00:25 connect wifi roobo_test1234
+20161214 00:00:46 connect wifi roobo_test1234
+20161214 00:01:08 connect wifi fail
+20161214 00:01:41 download size: 144563503 , total size: 289381775
+20161214 00:01:41 remove wifi conenct
+20161214 00:01:41 remove wifi sucess
+20161214 00:01:46 svc disable wifi conenct
+20161214 00:01:53 disable wifi sucess
+20161214 00:02:13 connect wifi roobo_test1234
+20161214 00:02:35 connect wifi roobo_test1234
+20161214 00:02:56 connect wifi roobo_test1234
+20161214 00:03:18 connect wifi roobo_test1234
+20161214 00:03:39 connect wifi roobo_test1234
+20161214 00:04:01 connect wifi roobo_test1234
+20161214 00:04:23 connect wifi fail
+20161214 00:04:56 download size: 144563503 , total size: 289381775
+20161214 00:04:56 remove wifi conenct
+20161214 00:04:56 remove wifi sucess
+20161214 00:05:01 svc disable wifi conenct
+20161214 00:05:07 disable wifi sucess
+20161214 00:05:28 connect wifi roobo_test1234
+20161214 00:05:49 connect wifi roobo_test1234
+20161214 00:06:11 connect wifi roobo_test1234
+20161214 00:06:32 connect wifi roobo_test1234
+20161214 00:06:54 connect wifi roobo_test1234
+20161214 00:07:16 connect wifi roobo_test1234
+20161214 00:07:37 connect wifi fail
+20161214 00:08:10 download size: 144563503 , total size: 289381775
+20161214 00:08:10 remove wifi conenct
+20161214 00:08:11 remove wifi sucess
+20161214 00:08:16 svc disable wifi conenct
+20161214 00:08:22 disable wifi sucess
+20161214 00:08:42 connect wifi roobo_test1234
+20161214 00:09:04 connect wifi roobo_test1234
+20161214 00:09:26 connect wifi roobo_test1234
+20161214 00:09:47 connect wifi roobo_test1234
+20161214 00:10:09 connect wifi roobo_test1234
+20161214 00:10:30 connect wifi roobo_test1234
+20161214 00:10:52 connect wifi fail
+20161214 00:11:25 download size: 144563503 , total size: 289381775
+20161214 00:11:25 remove wifi conenct
+20161214 00:11:25 remove wifi sucess
+20161214 00:11:30 svc disable wifi conenct
+20161214 00:11:37 disable wifi sucess
+20161214 00:11:57 connect wifi roobo_test1234
+20161214 00:12:19 connect wifi roobo_test1234
+20161214 00:12:40 connect wifi roobo_test1234
+20161214 00:13:02 connect wifi roobo_test1234
+20161214 00:13:24 connect wifi roobo_test1234
+20161214 00:13:45 connect wifi roobo_test1234
+20161214 00:14:07 connect wifi fail
+20161214 00:14:40 download size: 144563503 , total size: 289381775
+20161214 00:14:40 remove wifi conenct
+20161214 00:14:40 remove wifi sucess
+20161214 00:14:45 svc disable wifi conenct
+20161214 00:14:52 disable wifi sucess
+20161214 00:15:12 connect wifi roobo_test1234
+20161214 00:15:33 connect wifi roobo_test1234
+20161214 00:15:55 connect wifi roobo_test1234
+20161214 00:16:17 connect wifi roobo_test1234
+20161214 00:16:38 connect wifi roobo_test1234
+20161214 00:17:00 connect wifi roobo_test1234
+20161214 00:17:21 connect wifi fail
+20161214 00:17:55 download size: 144563503 , total size: 289381775
+20161214 00:17:55 remove wifi conenct
+20161214 00:17:55 remove wifi sucess
+20161214 00:18:00 svc disable wifi conenct
+20161214 00:18:06 disable wifi sucess
+20161214 00:18:26 connect wifi roobo_test1234
+20161214 00:18:48 connect wifi roobo_test1234
+20161214 00:19:10 connect wifi roobo_test1234
+20161214 00:19:31 connect wifi roobo_test1234
+20161214 00:19:53 connect wifi roobo_test1234
+20161214 00:20:14 connect wifi roobo_test1234
+20161214 00:20:36 connect wifi fail
+20161214 00:21:09 download size: 144563503 , total size: 289381775
+20161214 00:21:09 remove wifi conenct
+20161214 00:21:09 remove wifi sucess
+20161214 00:21:14 svc disable wifi conenct
+20161214 00:21:21 disable wifi sucess
+20161214 00:21:41 connect wifi roobo_test1234
+20161214 00:22:03 connect wifi roobo_test1234
+20161214 00:22:24 connect wifi roobo_test1234
+20161214 00:22:46 connect wifi roobo_test1234
+20161214 00:23:08 connect wifi roobo_test1234
+20161214 00:23:29 connect wifi roobo_test1234
+20161214 00:23:51 connect wifi fail
+20161214 00:24:24 download size: 144563503 , total size: 289381775
+20161214 00:24:24 remove wifi conenct
+20161214 00:24:24 remove wifi sucess
+20161214 00:24:29 svc disable wifi conenct
+20161214 00:24:35 disable wifi sucess
+20161214 00:24:56 connect wifi roobo_test1234
+20161214 00:25:17 connect wifi roobo_test1234
+20161214 00:25:39 connect wifi roobo_test1234
+20161214 00:26:01 connect wifi roobo_test1234
+20161214 00:26:22 connect wifi roobo_test1234
+20161214 00:26:44 connect wifi roobo_test1234
+20161214 00:27:05 connect wifi fail
+20161214 00:27:39 download size: 144563503 , total size: 289381775
+20161214 00:27:39 remove wifi conenct
+20161214 00:27:39 remove wifi sucess
+20161214 00:27:44 svc disable wifi conenct
+20161214 00:27:50 disable wifi sucess
+20161214 00:28:11 connect wifi roobo_test1234
+20161214 00:28:32 connect wifi roobo_test1234
+20161214 00:28:54 connect wifi roobo_test1234
+20161214 00:29:15 connect wifi roobo_test1234
+20161214 00:29:37 connect wifi roobo_test1234
+20161214 00:29:58 connect wifi roobo_test1234
+20161214 00:30:20 connect wifi fail
+20161214 00:30:53 download size: 144563503 , total size: 289381775
+20161214 00:30:53 remove wifi conenct
+20161214 00:30:53 remove wifi sucess
+20161214 00:30:58 svc disable wifi conenct
+20161214 00:31:05 disable wifi sucess
+20161214 00:31:25 connect wifi roobo_test1234
+20161214 00:31:47 connect wifi roobo_test1234
+20161214 00:32:09 connect wifi roobo_test1234
+20161214 00:32:30 connect wifi roobo_test1234
+20161214 00:32:52 connect wifi roobo_test1234
+20161214 00:33:14 connect wifi roobo_test1234
+20161214 00:33:35 connect wifi fail
+20161214 00:34:08 download size: 144563503 , total size: 289381775
+20161214 00:34:08 remove wifi conenct
+20161214 00:34:08 remove wifi sucess
+20161214 00:34:13 svc disable wifi conenct
+20161214 00:34:20 disable wifi sucess
+20161214 00:34:40 connect wifi roobo_test1234
+20161214 00:35:02 connect wifi roobo_test1234
+20161214 00:35:23 connect wifi roobo_test1234
+20161214 00:35:45 connect wifi roobo_test1234
+20161214 00:36:06 connect wifi roobo_test1234
+20161214 00:36:28 connect wifi roobo_test1234
+20161214 00:36:49 connect wifi fail
+20161214 00:37:23 download size: 144563503 , total size: 289381775
+20161214 00:37:23 remove wifi conenct
+20161214 00:37:23 remove wifi sucess
+20161214 00:37:28 svc disable wifi conenct
+20161214 00:37:34 disable wifi sucess
+20161214 00:37:54 connect wifi roobo_test1234
+20161214 00:38:16 connect wifi roobo_test1234
+20161214 00:38:38 connect wifi roobo_test1234
+20161214 00:38:59 connect wifi roobo_test1234
+20161214 00:39:21 connect wifi roobo_test1234
+20161214 00:39:42 connect wifi roobo_test1234
+20161214 00:40:04 connect wifi fail
+20161214 00:40:37 download size: 144563503 , total size: 289381775
+20161214 00:40:37 remove wifi conenct
+20161214 00:40:37 remove wifi sucess
+20161214 00:40:42 svc disable wifi conenct
+20161214 00:40:49 disable wifi sucess
+20161214 00:41:09 connect wifi roobo_test1234
+20161214 00:41:30 connect wifi roobo_test1234
+20161214 00:41:52 connect wifi roobo_test1234
+20161214 00:42:14 connect wifi roobo_test1234
+20161214 00:42:35 connect wifi roobo_test1234
+20161214 00:42:57 connect wifi roobo_test1234
+20161214 00:43:19 connect wifi fail
+20161214 00:43:52 download size: 144563503 , total size: 289381775
+20161214 00:43:52 remove wifi conenct
+20161214 00:43:52 remove wifi sucess
+20161214 00:43:57 svc disable wifi conenct
+20161214 00:44:04 disable wifi sucess
+20161214 00:44:24 connect wifi roobo_test1234
+20161214 00:44:45 connect wifi roobo_test1234
+20161214 00:45:07 connect wifi roobo_test1234
+20161214 00:45:29 connect wifi roobo_test1234
+20161214 00:45:50 connect wifi roobo_test1234
+20161214 00:46:12 connect wifi roobo_test1234
+20161214 00:46:33 connect wifi fail
+20161214 00:47:07 download size: 144563503 , total size: 289381775
+20161214 00:47:07 remove wifi conenct
+20161214 00:47:07 remove wifi sucess
+20161214 00:47:12 svc disable wifi conenct
+20161214 00:47:18 disable wifi sucess
+20161214 00:47:38 connect wifi roobo_test1234
+20161214 00:48:00 connect wifi roobo_test1234
+20161214 00:48:22 connect wifi roobo_test1234
+20161214 00:48:43 connect wifi roobo_test1234
+20161214 00:49:05 connect wifi roobo_test1234
+20161214 00:49:27 connect wifi roobo_test1234
+20161214 00:49:48 connect wifi fail
+20161214 00:50:21 download size: 144563503 , total size: 289381775
+20161214 00:50:21 remove wifi conenct
+20161214 00:50:21 remove wifi sucess
+20161214 00:50:26 svc disable wifi conenct
+20161214 00:50:33 disable wifi sucess
+20161214 00:50:53 connect wifi roobo_test1234
+20161214 00:51:15 connect wifi roobo_test1234
+20161214 00:51:37 connect wifi roobo_test1234
+20161214 00:51:58 connect wifi roobo_test1234
+20161214 00:52:20 connect wifi roobo_test1234
+20161214 00:52:42 connect wifi roobo_test1234
+20161214 00:53:03 connect wifi fail
+20161214 00:53:36 download size: 144563503 , total size: 289381775
+20161214 00:53:36 remove wifi conenct
+20161214 00:53:37 remove wifi sucess
+20161214 00:53:42 svc disable wifi conenct
+20161214 00:53:48 disable wifi sucess
+20161214 00:54:08 connect wifi roobo_test1234
+20161214 00:54:30 connect wifi roobo_test1234
+20161214 00:54:52 connect wifi roobo_test1234
+20161214 00:55:13 connect wifi roobo_test1234
+20161214 00:55:35 connect wifi roobo_test1234
+20161214 00:55:56 connect wifi roobo_test1234
+20161214 00:56:18 connect wifi fail
+20161214 00:56:51 download size: 144563503 , total size: 289381775
+20161214 00:56:51 remove wifi conenct
+20161214 00:56:51 remove wifi sucess
+20161214 00:56:56 svc disable wifi conenct
+20161214 00:57:03 disable wifi sucess
+20161214 00:57:23 connect wifi roobo_test1234
+20161214 00:57:45 connect wifi roobo_test1234
+20161214 00:58:06 connect wifi roobo_test1234
+20161214 00:58:28 connect wifi roobo_test1234
+20161214 00:58:49 connect wifi roobo_test1234
+20161214 00:59:11 connect wifi roobo_test1234
+20161214 00:59:33 connect wifi fail
+20161214 01:00:06 download size: 144563503 , total size: 289381775
+20161214 01:00:06 remove wifi conenct
+20161214 01:00:06 remove wifi sucess
+20161214 01:00:11 svc disable wifi conenct
+20161214 01:00:17 disable wifi sucess
+20161214 01:00:38 connect wifi roobo_test1234
+20161214 01:00:59 connect wifi roobo_test1234
+20161214 01:01:21 connect wifi roobo_test1234
+20161214 01:01:42 connect wifi roobo_test1234
+20161214 01:02:04 connect wifi roobo_test1234
+20161214 01:02:26 connect wifi roobo_test1234
+20161214 01:02:47 connect wifi fail
+20161214 01:03:20 download size: 144563503 , total size: 289381775
+20161214 01:03:20 remove wifi conenct
+20161214 01:03:20 remove wifi sucess
+20161214 01:03:25 svc disable wifi conenct
+20161214 01:03:32 disable wifi sucess
+20161214 01:03:52 connect wifi roobo_test1234
+20161214 01:04:14 connect wifi roobo_test1234
+20161214 01:04:35 connect wifi roobo_test1234
+20161214 01:04:57 connect wifi roobo_test1234
+20161214 01:05:19 connect wifi roobo_test1234
+20161214 01:05:40 connect wifi roobo_test1234
+20161214 01:06:02 connect wifi fail
+20161214 01:06:35 download size: 144563503 , total size: 289381775
+20161214 01:06:35 remove wifi conenct
+20161214 01:06:35 remove wifi sucess
+20161214 01:06:40 svc disable wifi conenct
+20161214 01:06:47 disable wifi sucess
+20161214 01:07:07 connect wifi roobo_test1234
+20161214 01:07:29 connect wifi roobo_test1234
+20161214 01:07:50 connect wifi roobo_test1234
+20161214 01:08:12 connect wifi roobo_test1234
+20161214 01:08:33 connect wifi roobo_test1234
+20161214 01:08:55 connect wifi roobo_test1234
+20161214 01:09:16 connect wifi fail
+20161214 01:09:50 download size: 144563503 , total size: 289381775
+20161214 01:09:50 remove wifi conenct
+20161214 01:09:50 remove wifi sucess
+20161214 01:09:55 svc disable wifi conenct
+20161214 01:10:01 disable wifi sucess
+20161214 01:10:21 connect wifi roobo_test1234
+20161214 01:10:43 connect wifi roobo_test1234
+20161214 01:11:05 connect wifi roobo_test1234
+20161214 01:11:26 connect wifi roobo_test1234
+20161214 01:11:48 connect wifi roobo_test1234
+20161214 01:12:09 connect wifi roobo_test1234
+20161214 01:12:31 connect wifi fail
+20161214 01:13:04 download size: 144563503 , total size: 289381775
+20161214 01:13:04 remove wifi conenct
+20161214 01:13:04 remove wifi sucess
+20161214 01:13:09 svc disable wifi conenct
+20161214 01:13:16 disable wifi sucess
+20161214 01:13:36 connect wifi roobo_test1234
+20161214 01:13:57 connect wifi roobo_test1234
+20161214 01:14:19 connect wifi roobo_test1234
+20161214 01:14:41 connect wifi roobo_test1234
+20161214 01:15:02 connect wifi roobo_test1234
+20161214 01:15:24 connect wifi roobo_test1234
+20161214 01:15:45 connect wifi fail
+20161214 01:16:19 download size: 144563503 , total size: 289381775
+20161214 01:16:19 remove wifi conenct
+20161214 01:16:19 remove wifi sucess
+20161214 01:16:24 svc disable wifi conenct
+20161214 01:16:30 disable wifi sucess
+20161214 01:16:51 connect wifi roobo_test1234
+20161214 01:17:12 connect wifi roobo_test1234
+20161214 01:17:34 connect wifi roobo_test1234
+20161214 01:17:55 connect wifi roobo_test1234
+20161214 01:18:17 connect wifi roobo_test1234
+20161214 01:18:39 connect wifi roobo_test1234
+20161214 01:19:00 connect wifi fail
+20161214 01:19:33 download size: 144563503 , total size: 289381775
+20161214 01:19:33 remove wifi conenct
+20161214 01:19:33 remove wifi sucess
+20161214 01:19:38 svc disable wifi conenct
+20161214 01:19:45 disable wifi sucess
+20161214 01:20:05 connect wifi roobo_test1234
+20161214 01:20:27 connect wifi roobo_test1234
+20161214 01:20:48 connect wifi roobo_test1234
+20161214 01:21:10 connect wifi roobo_test1234
+20161214 01:21:32 connect wifi roobo_test1234
+20161214 01:21:53 connect wifi roobo_test1234
+20161214 01:22:15 connect wifi fail
+20161214 01:22:48 download size: 144563503 , total size: 289381775
+20161214 01:22:48 remove wifi conenct
+20161214 01:22:48 remove wifi sucess
+20161214 01:22:53 svc disable wifi conenct
+20161214 01:23:00 disable wifi sucess
+20161214 01:23:20 connect wifi roobo_test1234
+20161214 01:23:41 connect wifi roobo_test1234
+20161214 01:24:03 connect wifi roobo_test1234
+20161214 01:24:25 connect wifi roobo_test1234
+20161214 01:24:46 connect wifi roobo_test1234
+20161214 01:25:08 connect wifi roobo_test1234
+20161214 01:25:30 connect wifi fail
+20161214 01:26:03 download size: 144563503 , total size: 289381775
+20161214 01:26:03 remove wifi conenct
+20161214 01:26:03 remove wifi sucess
+20161214 01:26:08 svc disable wifi conenct
+20161214 01:26:14 disable wifi sucess
+20161214 01:26:35 connect wifi roobo_test1234
+20161214 01:26:56 connect wifi roobo_test1234
+20161214 01:27:18 connect wifi roobo_test1234
+20161214 01:27:39 connect wifi roobo_test1234
+20161214 01:28:01 connect wifi roobo_test1234
+20161214 01:28:23 connect wifi roobo_test1234
+20161214 01:28:44 connect wifi fail
+20161214 01:29:17 download size: 144563503 , total size: 289381775
+20161214 01:29:17 remove wifi conenct
+20161214 01:29:17 remove wifi sucess
+20161214 01:29:22 svc disable wifi conenct
+20161214 01:29:29 disable wifi sucess
+20161214 01:29:49 connect wifi roobo_test1234
+20161214 01:30:11 connect wifi roobo_test1234
+20161214 01:30:32 connect wifi roobo_test1234
+20161214 01:30:54 connect wifi roobo_test1234
+20161214 01:31:16 connect wifi roobo_test1234
+20161214 01:31:37 connect wifi roobo_test1234
+20161214 01:31:59 connect wifi fail
+20161214 01:32:32 download size: 144563503 , total size: 289381775
+20161214 01:32:32 remove wifi conenct
+20161214 01:32:32 remove wifi sucess
+20161214 01:32:37 svc disable wifi conenct
+20161214 01:32:44 disable wifi sucess
+20161214 01:33:04 connect wifi roobo_test1234
+20161214 01:33:25 connect wifi roobo_test1234
+20161214 01:33:47 connect wifi roobo_test1234
+20161214 01:34:09 connect wifi roobo_test1234
+20161214 01:34:30 connect wifi roobo_test1234
+20161214 01:34:52 connect wifi roobo_test1234
+20161214 01:35:13 connect wifi fail
+20161214 01:35:47 download size: 144563503 , total size: 289381775
+20161214 01:35:47 remove wifi conenct
+20161214 01:35:47 remove wifi sucess
+20161214 01:35:52 svc disable wifi conenct
+20161214 01:35:58 disable wifi sucess
+20161214 01:36:18 connect wifi roobo_test1234
+20161214 01:36:40 connect wifi roobo_test1234
+20161214 01:37:01 connect wifi roobo_test1234
+20161214 01:37:23 connect wifi roobo_test1234
+20161214 01:37:45 connect wifi roobo_test1234
+20161214 01:38:06 connect wifi roobo_test1234
+20161214 01:38:28 connect wifi fail
+20161214 01:39:01 download size: 144563503 , total size: 289381775
+20161214 01:39:01 remove wifi conenct
+20161214 01:39:01 remove wifi sucess
+20161214 01:39:06 svc disable wifi conenct
+20161214 01:39:13 disable wifi sucess
+20161214 01:39:33 connect wifi roobo_test1234
+20161214 01:39:55 connect wifi roobo_test1234
+20161214 01:40:16 connect wifi roobo_test1234
+20161214 01:40:38 connect wifi roobo_test1234
+20161214 01:40:59 connect wifi roobo_test1234
+20161214 01:41:21 connect wifi roobo_test1234
+20161214 01:41:42 connect wifi fail
+20161214 01:42:16 download size: 144563503 , total size: 289381775
+20161214 01:42:16 remove wifi conenct
+20161214 01:42:16 remove wifi sucess
+20161214 01:42:21 svc disable wifi conenct
+20161214 01:42:27 disable wifi sucess
+20161214 01:42:47 connect wifi roobo_test1234
+20161214 01:43:09 connect wifi roobo_test1234
+20161214 01:43:31 connect wifi roobo_test1234
+20161214 01:43:52 connect wifi roobo_test1234
+20161214 01:44:14 connect wifi roobo_test1234
+20161214 01:44:36 connect wifi roobo_test1234
+20161214 01:44:57 connect wifi fail
+20161214 01:45:30 download size: 144563503 , total size: 289381775
+20161214 01:45:30 remove wifi conenct
+20161214 01:45:30 remove wifi sucess
+20161214 01:45:35 svc disable wifi conenct
+20161214 01:45:42 disable wifi sucess
+20161214 01:46:02 connect wifi roobo_test1234
+20161214 01:46:24 connect wifi roobo_test1234
+20161214 01:46:45 connect wifi roobo_test1234
+20161214 01:47:07 connect wifi roobo_test1234
+20161214 01:47:29 connect wifi roobo_test1234
+20161214 01:47:50 connect wifi roobo_test1234
+20161214 01:48:12 connect wifi fail
+20161214 01:48:45 download size: 144563503 , total size: 289381775
+20161214 01:48:45 remove wifi conenct
+20161214 01:48:45 remove wifi sucess
+20161214 01:48:50 svc disable wifi conenct
+20161214 01:48:57 disable wifi sucess
+20161214 01:49:17 connect wifi roobo_test1234
+20161214 01:49:38 connect wifi roobo_test1234
+20161214 01:50:00 connect wifi roobo_test1234
+20161214 01:50:22 connect wifi roobo_test1234
+20161214 01:50:43 connect wifi roobo_test1234
+20161214 01:51:05 connect wifi roobo_test1234
+20161214 01:51:27 connect wifi fail
+20161214 01:52:00 download size: 144563503 , total size: 289381775
+20161214 01:52:00 remove wifi conenct
+20161214 01:52:00 remove wifi sucess
+20161214 01:52:05 svc disable wifi conenct
+20161214 01:52:12 disable wifi sucess
+20161214 01:52:32 connect wifi roobo_test1234
+20161214 01:52:53 connect wifi roobo_test1234
+20161214 01:53:15 connect wifi roobo_test1234
+20161214 01:53:37 connect wifi roobo_test1234
+20161214 01:53:58 connect wifi roobo_test1234
+20161214 01:54:20 connect wifi roobo_test1234
+20161214 01:54:41 connect wifi fail
+20161214 01:55:14 download size: 144563503 , total size: 289381775
+20161214 01:55:14 remove wifi conenct
+20161214 01:55:15 remove wifi sucess
+20161214 01:55:20 svc disable wifi conenct
+20161214 01:55:26 disable wifi sucess
+20161214 01:55:46 connect wifi roobo_test1234
+20161214 01:56:08 connect wifi roobo_test1234
+20161214 01:56:30 connect wifi roobo_test1234
+20161214 01:56:51 connect wifi roobo_test1234
+20161214 01:57:13 connect wifi roobo_test1234
+20161214 01:57:35 connect wifi roobo_test1234
+20161214 01:57:56 connect wifi fail
+20161214 01:58:29 download size: 144563503 , total size: 289381775
+20161214 01:58:29 remove wifi conenct
+20161214 01:58:30 remove wifi sucess
+20161214 01:58:35 svc disable wifi conenct
+20161214 01:58:41 disable wifi sucess
+20161214 01:59:01 connect wifi roobo_test1234
+20161214 01:59:23 connect wifi roobo_test1234
+20161214 01:59:45 connect wifi roobo_test1234
+20161214 02:00:06 connect wifi roobo_test1234
+20161214 02:00:28 connect wifi roobo_test1234
+20161214 02:00:50 connect wifi roobo_test1234
+20161214 02:01:11 connect wifi fail
+20161214 02:01:44 download size: 144563503 , total size: 289381775
+20161214 02:01:44 remove wifi conenct
+20161214 02:01:44 remove wifi sucess
+20161214 02:01:49 svc disable wifi conenct
+20161214 02:01:56 disable wifi sucess
+20161214 02:02:16 connect wifi roobo_test1234
+20161214 02:02:38 connect wifi roobo_test1234
+20161214 02:02:59 connect wifi roobo_test1234
+20161214 02:03:21 connect wifi roobo_test1234
+20161214 02:03:43 connect wifi roobo_test1234
+20161214 02:04:04 connect wifi roobo_test1234
+20161214 02:04:26 connect wifi fail
+20161214 02:04:59 download size: 144563503 , total size: 289381775
+20161214 02:04:59 remove wifi conenct
+20161214 02:04:59 remove wifi sucess
+20161214 02:05:04 svc disable wifi conenct
+20161214 02:05:11 disable wifi sucess
+20161214 02:05:31 connect wifi roobo_test1234
+20161214 02:05:52 connect wifi roobo_test1234
+20161214 02:06:14 connect wifi roobo_test1234
+20161214 02:06:36 connect wifi roobo_test1234
+20161214 02:06:57 connect wifi roobo_test1234
+20161214 02:07:19 connect wifi roobo_test1234
+20161214 02:07:40 connect wifi fail
+20161214 02:08:14 download size: 144563503 , total size: 289381775
+20161214 02:08:14 remove wifi conenct
+20161214 02:08:14 remove wifi sucess
+20161214 02:08:19 svc disable wifi conenct
+20161214 02:08:25 disable wifi sucess
+20161214 02:08:45 connect wifi roobo_test1234
+20161214 02:09:07 connect wifi roobo_test1234
+20161214 02:09:29 connect wifi roobo_test1234
+20161214 02:09:50 connect wifi roobo_test1234
+20161214 02:10:12 connect wifi roobo_test1234
+20161214 02:10:34 connect wifi roobo_test1234
+20161214 02:10:55 connect wifi fail
+20161214 02:11:28 download size: 144563503 , total size: 289381775
+20161214 02:11:28 remove wifi conenct
+20161214 02:11:28 remove wifi sucess
+20161214 02:11:33 svc disable wifi conenct
+20161214 02:11:40 disable wifi sucess
+20161214 02:12:00 connect wifi roobo_test1234
+20161214 02:12:22 connect wifi roobo_test1234
+20161214 02:12:43 connect wifi roobo_test1234
+20161214 02:13:05 connect wifi roobo_test1234
+20161214 02:13:27 connect wifi roobo_test1234
+20161214 02:13:48 connect wifi roobo_test1234
+20161214 02:14:10 connect wifi fail
+20161214 02:14:43 download size: 144563503 , total size: 289381775
+20161214 02:14:43 remove wifi conenct
+20161214 02:14:43 remove wifi sucess
+20161214 02:14:48 svc disable wifi conenct
+20161214 02:14:55 disable wifi sucess
+20161214 02:15:15 connect wifi roobo_test1234
+20161214 02:15:37 connect wifi roobo_test1234
+20161214 02:15:58 connect wifi roobo_test1234
+20161214 02:16:20 connect wifi roobo_test1234
+20161214 02:16:42 connect wifi roobo_test1234
+20161214 02:17:03 connect wifi roobo_test1234
+20161214 02:17:25 connect wifi fail
+20161214 02:17:58 download size: 144563503 , total size: 289381775
+20161214 02:17:58 remove wifi conenct
+20161214 02:17:58 remove wifi sucess
+20161214 02:18:03 svc disable wifi conenct
+20161214 02:18:10 disable wifi sucess
+20161214 02:18:30 connect wifi roobo_test1234
+20161214 02:18:52 connect wifi roobo_test1234
+20161214 02:19:13 connect wifi roobo_test1234
+20161214 02:19:35 connect wifi roobo_test1234
+20161214 02:19:56 connect wifi roobo_test1234
+20161214 02:20:18 connect wifi roobo_test1234
+20161214 02:20:39 connect wifi fail
+20161214 02:21:12 download size: 144563503 , total size: 289381775
+20161214 02:21:12 remove wifi conenct
+20161214 02:21:13 remove wifi sucess
+20161214 02:21:18 svc disable wifi conenct
+20161214 02:21:24 disable wifi sucess
+20161214 02:21:44 connect wifi roobo_test1234
+20161214 02:22:06 connect wifi roobo_test1234
+20161214 02:22:28 connect wifi roobo_test1234
+20161214 02:22:49 connect wifi roobo_test1234
+20161214 02:23:11 connect wifi roobo_test1234
+20161214 02:23:32 connect wifi roobo_test1234
+20161214 02:23:54 connect wifi fail
+20161214 02:24:27 download size: 144563503 , total size: 289381775
+20161214 02:24:27 remove wifi conenct
+20161214 02:24:27 remove wifi sucess
+20161214 02:24:32 svc disable wifi conenct
+20161214 02:24:39 disable wifi sucess
+20161214 02:24:59 connect wifi roobo_test1234
+20161214 02:25:21 connect wifi roobo_test1234
+20161214 02:25:42 connect wifi roobo_test1234
+20161214 02:26:04 connect wifi roobo_test1234
+20161214 02:26:26 connect wifi roobo_test1234
+20161214 02:26:47 connect wifi roobo_test1234
+20161214 02:27:09 connect wifi fail
+20161214 02:27:42 download size: 144563503 , total size: 289381775
+20161214 02:27:42 remove wifi conenct
+20161214 02:27:42 remove wifi sucess
+20161214 02:27:47 svc disable wifi conenct
+20161214 02:27:54 disable wifi sucess
+20161214 02:28:14 connect wifi roobo_test1234
+20161214 02:28:36 connect wifi roobo_test1234
+20161214 02:28:57 connect wifi roobo_test1234
+20161214 02:29:19 connect wifi roobo_test1234
+20161214 02:29:41 connect wifi roobo_test1234
+20161214 02:30:02 connect wifi roobo_test1234
+20161214 02:30:24 connect wifi fail
+20161214 02:30:57 download size: 144563503 , total size: 289381775
+20161214 02:30:57 remove wifi conenct
+20161214 02:30:57 remove wifi sucess
+20161214 02:31:02 svc disable wifi conenct
+20161214 02:31:09 disable wifi sucess
+20161214 02:31:29 connect wifi roobo_test1234
+20161214 02:31:50 connect wifi roobo_test1234
+20161214 02:32:12 connect wifi roobo_test1234
+20161214 02:32:34 connect wifi roobo_test1234
+20161214 02:32:55 connect wifi roobo_test1234
+20161214 02:33:17 connect wifi roobo_test1234
+20161214 02:33:38 connect wifi fail
+20161214 02:34:11 download size: 144563503 , total size: 289381775
+20161214 02:34:11 remove wifi conenct
+20161214 02:34:12 remove wifi sucess
+20161214 02:34:17 svc disable wifi conenct
+20161214 02:34:23 disable wifi sucess
+20161214 02:34:43 connect wifi roobo_test1234
+20161214 02:35:05 connect wifi roobo_test1234
+20161214 02:35:27 connect wifi roobo_test1234
+20161214 02:35:48 connect wifi roobo_test1234
+20161214 02:36:10 connect wifi roobo_test1234
+20161214 02:36:31 connect wifi roobo_test1234
+20161214 02:36:53 connect wifi fail
+20161214 02:37:26 download size: 144563503 , total size: 289381775
+20161214 02:37:26 remove wifi conenct
+20161214 02:37:26 remove wifi sucess
+20161214 02:37:31 svc disable wifi conenct
+20161214 02:37:38 disable wifi sucess
+20161214 02:37:58 connect wifi roobo_test1234
+20161214 02:38:20 connect wifi roobo_test1234
+20161214 02:38:41 connect wifi roobo_test1234
+20161214 02:39:03 connect wifi roobo_test1234
+20161214 02:39:24 connect wifi roobo_test1234
+20161214 02:39:46 connect wifi roobo_test1234
+20161214 02:40:08 connect wifi fail
+20161214 02:40:41 download size: 144563503 , total size: 289381775
+20161214 02:40:41 remove wifi conenct
+20161214 02:40:41 remove wifi sucess
+20161214 02:40:46 svc disable wifi conenct
+20161214 02:40:52 disable wifi sucess
+20161214 02:41:13 connect wifi roobo_test1234
+20161214 02:41:34 connect wifi roobo_test1234
+20161214 02:41:56 connect wifi roobo_test1234
+20161214 02:42:17 connect wifi roobo_test1234
+20161214 02:42:39 connect wifi roobo_test1234
+20161214 02:43:01 connect wifi roobo_test1234
+20161214 02:43:22 connect wifi fail
+20161214 02:43:55 download size: 144563503 , total size: 289381775
+20161214 02:43:55 remove wifi conenct
+20161214 02:43:56 remove wifi sucess
+20161214 02:44:01 svc disable wifi conenct
+20161214 02:44:07 disable wifi sucess
+20161214 02:44:27 connect wifi roobo_test1234
+20161214 02:44:49 connect wifi roobo_test1234
+20161214 02:45:11 connect wifi roobo_test1234
+20161214 02:45:32 connect wifi roobo_test1234
+20161214 02:45:54 connect wifi roobo_test1234
+20161214 02:46:15 connect wifi roobo_test1234
+20161214 02:46:37 connect wifi fail
+20161214 02:47:10 download size: 144563503 , total size: 289381775
+20161214 02:47:10 remove wifi conenct
+20161214 02:47:10 remove wifi sucess
+20161214 02:47:15 svc disable wifi conenct
+20161214 02:47:22 disable wifi sucess
+20161214 02:47:42 connect wifi roobo_test1234
+20161214 02:48:04 connect wifi roobo_test1234
+20161214 02:48:25 connect wifi roobo_test1234
+20161214 02:48:47 connect wifi roobo_test1234
+20161214 02:49:09 connect wifi roobo_test1234
+20161214 02:49:30 connect wifi roobo_test1234
+20161214 02:49:52 connect wifi fail
+20161214 02:50:25 download size: 144563503 , total size: 289381775
+20161214 02:50:25 remove wifi conenct
+20161214 02:50:25 remove wifi sucess
+20161214 02:50:30 svc disable wifi conenct
+20161214 02:50:37 disable wifi sucess
+20161214 02:50:57 connect wifi roobo_test1234
+20161214 02:51:18 connect wifi roobo_test1234
+20161214 02:51:40 connect wifi roobo_test1234
+20161214 02:52:02 connect wifi roobo_test1234
+20161214 02:52:23 connect wifi roobo_test1234
+20161214 02:52:45 connect wifi roobo_test1234
+20161214 02:53:06 connect wifi fail
+20161214 02:53:40 download size: 144563503 , total size: 289381775
+20161214 02:53:40 remove wifi conenct
+20161214 02:53:40 remove wifi sucess
+20161214 02:53:45 svc disable wifi conenct
+20161214 02:53:51 disable wifi sucess
+20161214 02:54:11 connect wifi roobo_test1234
+20161214 02:54:33 connect wifi roobo_test1234
+20161214 02:54:55 connect wifi roobo_test1234
+20161214 02:55:16 connect wifi roobo_test1234
+20161214 02:55:38 connect wifi roobo_test1234
+20161214 02:55:59 connect wifi roobo_test1234
+20161214 02:56:21 connect wifi fail
+20161214 02:56:54 download size: 144563503 , total size: 289381775
+20161214 02:56:54 remove wifi conenct
+20161214 02:56:54 remove wifi sucess
+20161214 02:56:59 svc disable wifi conenct
+20161214 02:57:06 disable wifi sucess
+20161214 02:57:26 connect wifi roobo_test1234
+20161214 02:57:48 connect wifi roobo_test1234
+20161214 02:58:09 connect wifi roobo_test1234
+20161214 02:58:31 connect wifi roobo_test1234
+20161214 02:58:53 connect wifi roobo_test1234
+20161214 02:59:14 connect wifi roobo_test1234
+20161214 02:59:36 connect wifi fail
+20161214 03:00:09 download size: 144563503 , total size: 289381775
+20161214 03:00:09 remove wifi conenct
+20161214 03:00:09 remove wifi sucess
+20161214 03:00:14 svc disable wifi conenct
+20161214 03:00:21 disable wifi sucess
+20161214 03:00:41 connect wifi roobo_test1234
+20161214 03:01:02 connect wifi roobo_test1234
+20161214 03:01:24 connect wifi roobo_test1234
+20161214 03:01:45 connect wifi roobo_test1234
+20161214 03:02:07 connect wifi roobo_test1234
+20161214 03:02:29 connect wifi roobo_test1234
+20161214 03:02:50 connect wifi fail
+20161214 03:03:24 download size: 144563503 , total size: 289381775
+20161214 03:03:24 remove wifi conenct
+20161214 03:03:24 remove wifi sucess
+20161214 03:03:29 svc disable wifi conenct
+20161214 03:03:35 disable wifi sucess
+20161214 03:03:55 connect wifi roobo_test1234
+20161214 03:04:17 connect wifi roobo_test1234
+20161214 03:04:39 connect wifi roobo_test1234
+20161214 03:05:00 connect wifi roobo_test1234
+20161214 03:05:22 connect wifi roobo_test1234
+20161214 03:05:44 connect wifi roobo_test1234
+20161214 03:06:05 connect wifi fail
+20161214 03:06:38 download size: 144563503 , total size: 289381775
+20161214 03:06:38 remove wifi conenct
+20161214 03:06:38 remove wifi sucess
+20161214 03:06:43 svc disable wifi conenct
+20161214 03:06:50 disable wifi sucess
+20161214 03:07:10 connect wifi roobo_test1234
+20161214 03:07:32 connect wifi roobo_test1234
+20161214 03:07:53 connect wifi roobo_test1234
+20161214 03:08:15 connect wifi roobo_test1234
+20161214 03:08:37 connect wifi roobo_test1234
+20161214 03:08:58 connect wifi roobo_test1234
+20161214 03:09:20 connect wifi fail
+20161214 03:09:53 download size: 144563503 , total size: 289381775
+20161214 03:09:53 remove wifi conenct
+20161214 03:09:53 remove wifi sucess
+20161214 03:09:58 svc disable wifi conenct
+20161214 03:10:05 disable wifi sucess
+20161214 03:10:25 connect wifi roobo_test1234
+20161214 03:10:47 connect wifi roobo_test1234
+20161214 03:11:08 connect wifi roobo_test1234
+20161214 03:11:30 connect wifi roobo_test1234
+20161214 03:11:51 connect wifi roobo_test1234
+20161214 03:12:13 connect wifi roobo_test1234
+20161214 03:12:35 connect wifi fail
+20161214 03:13:08 download size: 144563503 , total size: 289381775
+20161214 03:13:08 remove wifi conenct
+20161214 03:13:08 remove wifi sucess
+20161214 03:13:13 svc disable wifi conenct
+20161214 03:13:20 disable wifi sucess
+20161214 03:13:40 connect wifi roobo_test1234
+20161214 03:14:01 connect wifi roobo_test1234
+20161214 03:14:23 connect wifi roobo_test1234
+20161214 03:14:44 connect wifi roobo_test1234
+20161214 03:15:06 connect wifi roobo_test1234
+20161214 03:15:28 connect wifi roobo_test1234
+20161214 03:15:49 connect wifi fail
+20161214 03:16:22 download size: 144563503 , total size: 289381775
+20161214 03:16:22 remove wifi conenct
+20161214 03:16:23 remove wifi sucess
+20161214 03:16:28 svc disable wifi conenct
+20161214 03:16:34 disable wifi sucess
+20161214 03:16:54 connect wifi roobo_test1234
+20161214 03:17:16 connect wifi roobo_test1234
+20161214 03:17:38 connect wifi roobo_test1234
+20161214 03:17:59 connect wifi roobo_test1234
+20161214 03:18:21 connect wifi roobo_test1234
+20161214 03:18:42 connect wifi roobo_test1234
+20161214 03:19:04 connect wifi fail
+20161214 03:19:37 download size: 144563503 , total size: 289381775
+20161214 03:19:37 remove wifi conenct
+20161214 03:19:37 remove wifi sucess
+20161214 03:19:42 svc disable wifi conenct
+20161214 03:19:48 disable wifi sucess
+20161214 03:20:09 connect wifi roobo_test1234
+20161214 03:20:30 connect wifi roobo_test1234
+20161214 03:20:52 connect wifi roobo_test1234
+20161214 03:21:13 connect wifi roobo_test1234
+20161214 03:21:35 connect wifi roobo_test1234
+20161214 03:21:57 connect wifi roobo_test1234
+20161214 03:22:18 connect wifi fail
+20161214 03:22:52 download size: 144563503 , total size: 289381775
+20161214 03:22:52 remove wifi conenct
+20161214 03:22:52 remove wifi sucess
+20161214 03:22:57 svc disable wifi conenct
+20161214 03:23:04 disable wifi sucess
+20161214 03:23:24 connect wifi roobo_test1234
+20161214 03:23:46 connect wifi roobo_test1234
+20161214 03:24:08 connect wifi roobo_test1234
+20161214 03:24:29 connect wifi roobo_test1234
+20161214 03:24:51 connect wifi roobo_test1234
+20161214 03:25:13 connect wifi roobo_test1234
+20161214 03:25:34 connect wifi fail
+20161214 03:26:08 download size: 144563503 , total size: 289381775
+20161214 03:26:08 remove wifi conenct
+20161214 03:26:08 remove wifi sucess
+20161214 03:26:13 svc disable wifi conenct
+20161214 03:26:19 disable wifi sucess
+20161214 03:26:39 connect wifi roobo_test1234
+20161214 03:27:01 connect wifi roobo_test1234
+20161214 03:27:23 connect wifi roobo_test1234
+20161214 03:27:44 connect wifi roobo_test1234
+20161214 03:28:06 connect wifi roobo_test1234
+20161214 03:28:28 connect wifi roobo_test1234
+20161214 03:28:49 connect wifi fail
+20161214 03:29:22 download size: 144563503 , total size: 289381775
+20161214 03:29:22 remove wifi conenct
+20161214 03:29:22 remove wifi sucess
+20161214 03:29:27 svc disable wifi conenct
+20161214 03:29:34 disable wifi sucess
+20161214 03:29:54 connect wifi roobo_test1234
+20161214 03:30:16 connect wifi roobo_test1234
+20161214 03:30:37 connect wifi roobo_test1234
+20161214 03:30:59 connect wifi roobo_test1234
+20161214 03:31:20 connect wifi roobo_test1234
+20161214 03:31:42 connect wifi roobo_test1234
+20161214 03:32:04 connect wifi fail
+20161214 03:32:37 download size: 144563503 , total size: 289381775
+20161214 03:32:37 remove wifi conenct
+20161214 03:32:37 remove wifi sucess
+20161214 03:32:42 svc disable wifi conenct
+20161214 03:32:49 disable wifi sucess
+20161214 03:33:09 connect wifi roobo_test1234
+20161214 03:33:30 connect wifi roobo_test1234
+20161214 03:33:52 connect wifi roobo_test1234
+20161214 03:34:14 connect wifi roobo_test1234
+20161214 03:34:35 connect wifi roobo_test1234
+20161214 03:34:57 connect wifi roobo_test1234
+20161214 03:35:18 connect wifi fail
+20161214 03:35:52 download size: 144563503 , total size: 289381775
+20161214 03:35:52 remove wifi conenct
+20161214 03:35:52 remove wifi sucess
+20161214 03:35:57 svc disable wifi conenct
+20161214 03:36:03 disable wifi sucess
+20161214 03:36:23 connect wifi roobo_test1234
+20161214 03:36:45 connect wifi roobo_test1234
+20161214 03:37:07 connect wifi roobo_test1234
+20161214 03:37:28 connect wifi roobo_test1234
+20161214 03:37:50 connect wifi roobo_test1234
+20161214 03:38:12 connect wifi roobo_test1234
+20161214 03:38:33 connect wifi fail
+20161214 03:39:06 download size: 144563503 , total size: 289381775
+20161214 03:39:06 remove wifi conenct
+20161214 03:39:06 remove wifi sucess
+20161214 03:39:11 svc disable wifi conenct
+20161214 03:39:18 disable wifi sucess
+20161214 03:39:38 connect wifi roobo_test1234
+20161214 03:40:00 connect wifi roobo_test1234
+20161214 03:40:22 connect wifi roobo_test1234
+20161214 03:40:43 connect wifi roobo_test1234
+20161214 03:41:05 connect wifi roobo_test1234
+20161214 03:41:26 connect wifi roobo_test1234
+20161214 03:41:48 connect wifi fail
+20161214 03:42:21 download size: 144563503 , total size: 289381775
+20161214 03:42:21 remove wifi conenct
+20161214 03:42:21 remove wifi sucess
+20161214 03:42:26 svc disable wifi conenct
+20161214 03:42:33 disable wifi sucess
+20161214 03:42:53 connect wifi roobo_test1234
+20161214 03:43:15 connect wifi roobo_test1234
+20161214 03:43:36 connect wifi roobo_test1234
+20161214 03:43:58 connect wifi roobo_test1234
+20161214 03:44:19 connect wifi roobo_test1234
+20161214 03:44:41 connect wifi roobo_test1234
+20161214 03:45:03 connect wifi fail
+20161214 03:45:36 download size: 144563503 , total size: 289381775
+20161214 03:45:36 remove wifi conenct
+20161214 03:45:36 remove wifi sucess
+20161214 03:45:41 svc disable wifi conenct
+20161214 03:45:48 disable wifi sucess
+20161214 03:46:08 connect wifi roobo_test1234
+20161214 03:46:29 connect wifi roobo_test1234
+20161214 03:46:51 connect wifi roobo_test1234
+20161214 03:47:13 connect wifi roobo_test1234
+20161214 03:47:34 connect wifi roobo_test1234
+20161214 03:47:56 connect wifi roobo_test1234
+20161214 03:48:18 connect wifi fail
+20161214 03:48:51 download size: 144563503 , total size: 289381775
+20161214 03:48:51 remove wifi conenct
+20161214 03:48:51 remove wifi sucess
+20161214 03:48:56 svc disable wifi conenct
+20161214 03:49:02 disable wifi sucess
+20161214 03:49:22 connect wifi roobo_test1234
+20161214 03:49:44 connect wifi roobo_test1234
+20161214 03:50:06 connect wifi roobo_test1234
+20161214 03:50:27 connect wifi roobo_test1234
+20161214 03:50:49 connect wifi roobo_test1234
+20161214 03:51:11 connect wifi roobo_test1234
+20161214 03:51:32 connect wifi fail
+20161214 03:52:06 download size: 144563503 , total size: 289381775
+20161214 03:52:06 remove wifi conenct
+20161214 03:52:06 remove wifi sucess
+20161214 03:52:11 svc disable wifi conenct
+20161214 03:52:17 disable wifi sucess
+20161214 03:52:37 connect wifi roobo_test1234
+20161214 03:52:59 connect wifi roobo_test1234
+20161214 03:53:21 connect wifi roobo_test1234
+20161214 03:53:42 connect wifi roobo_test1234
+20161214 03:54:04 connect wifi roobo_test1234
+20161214 03:54:25 connect wifi roobo_test1234
+20161214 03:54:47 connect wifi fail
+20161214 03:55:20 download size: 144563503 , total size: 289381775
+20161214 03:55:20 remove wifi conenct
+20161214 03:55:20 remove wifi sucess
+20161214 03:55:25 svc disable wifi conenct
+20161214 03:55:32 disable wifi sucess
+20161214 03:55:52 connect wifi roobo_test1234
+20161214 03:56:14 connect wifi roobo_test1234
+20161214 03:56:35 connect wifi roobo_test1234
+20161214 03:56:57 connect wifi roobo_test1234
+20161214 03:57:19 connect wifi roobo_test1234
+20161214 03:57:40 connect wifi roobo_test1234
+20161214 03:58:02 connect wifi fail
+20161214 03:58:35 download size: 144563503 , total size: 289381775
+20161214 03:58:35 remove wifi conenct
+20161214 03:58:35 remove wifi sucess
+20161214 03:58:40 svc disable wifi conenct
+20161214 03:58:47 disable wifi sucess
+20161214 03:59:07 connect wifi roobo_test1234
+20161214 03:59:28 connect wifi roobo_test1234
+20161214 03:59:50 connect wifi roobo_test1234
+20161214 04:00:12 connect wifi roobo_test1234
+20161214 04:00:33 connect wifi roobo_test1234
+20161214 04:00:55 connect wifi roobo_test1234
+20161214 04:01:16 connect wifi fail
+20161214 04:01:49 download size: 144563503 , total size: 289381775
+20161214 04:01:49 remove wifi conenct
+20161214 04:01:50 remove wifi sucess
+20161214 04:01:55 svc disable wifi conenct
+20161214 04:02:01 disable wifi sucess
+20161214 04:02:21 connect wifi roobo_test1234
+20161214 04:02:43 connect wifi roobo_test1234
+20161214 04:03:05 connect wifi roobo_test1234
+20161214 04:03:26 connect wifi roobo_test1234
+20161214 04:03:48 connect wifi roobo_test1234
+20161214 04:04:09 connect wifi roobo_test1234
+20161214 04:04:31 connect wifi fail
+20161214 04:05:04 download size: 144563503 , total size: 289381775
+20161214 04:05:04 remove wifi conenct
+20161214 04:05:04 remove wifi sucess
+20161214 04:05:09 svc disable wifi conenct
+20161214 04:05:16 disable wifi sucess
+20161214 04:05:36 connect wifi roobo_test1234
+20161214 04:05:58 connect wifi roobo_test1234
+20161214 04:06:19 connect wifi roobo_test1234
+20161214 04:06:41 connect wifi roobo_test1234
+20161214 04:07:03 connect wifi roobo_test1234
+20161214 04:07:24 connect wifi roobo_test1234
+20161214 04:07:46 connect wifi fail
+20161214 04:08:19 download size: 144563503 , total size: 289381775
+20161214 04:08:19 remove wifi conenct
+20161214 04:08:19 remove wifi sucess
+20161214 04:08:24 svc disable wifi conenct
+20161214 04:08:30 disable wifi sucess
+20161214 04:08:51 connect wifi roobo_test1234
+20161214 04:09:12 connect wifi roobo_test1234
+20161214 04:09:34 connect wifi roobo_test1234
+20161214 04:09:56 connect wifi roobo_test1234
+20161214 04:10:17 connect wifi roobo_test1234
+20161214 04:10:39 connect wifi roobo_test1234
+20161214 04:11:00 connect wifi fail
+20161214 04:11:33 download size: 144563503 , total size: 289381775
+20161214 04:11:33 remove wifi conenct
+20161214 04:11:34 remove wifi sucess
+20161214 04:11:39 svc disable wifi conenct
+20161214 04:11:45 disable wifi sucess
+20161214 04:12:05 connect wifi roobo_test1234
+20161214 04:12:27 connect wifi roobo_test1234
+20161214 04:12:49 connect wifi roobo_test1234
+20161214 04:13:10 connect wifi roobo_test1234
+20161214 04:13:32 connect wifi roobo_test1234
+20161214 04:13:53 connect wifi roobo_test1234
+20161214 04:14:15 connect wifi fail
+20161214 04:14:48 download size: 144563503 , total size: 289381775
+20161214 04:14:48 remove wifi conenct
+20161214 04:14:48 remove wifi sucess
+20161214 04:14:53 svc disable wifi conenct
+20161214 04:15:00 disable wifi sucess
+20161214 04:15:20 connect wifi roobo_test1234
+20161214 04:15:42 connect wifi roobo_test1234
+20161214 04:16:03 connect wifi roobo_test1234
+20161214 04:16:25 connect wifi roobo_test1234
+20161214 04:16:47 connect wifi roobo_test1234
+20161214 04:17:08 connect wifi roobo_test1234
+20161214 04:17:30 connect wifi fail
+20161214 04:18:03 download size: 144563503 , total size: 289381775
+20161214 04:18:03 remove wifi conenct
+20161214 04:18:03 remove wifi sucess
+20161214 04:18:08 svc disable wifi conenct
+20161214 04:18:15 disable wifi sucess
+20161214 04:18:35 connect wifi roobo_test1234
+20161214 04:18:56 connect wifi roobo_test1234
+20161214 04:19:18 connect wifi roobo_test1234
+20161214 04:19:39 connect wifi roobo_test1234
+20161214 04:20:01 connect wifi roobo_test1234
+20161214 04:20:23 connect wifi roobo_test1234
+20161214 04:20:44 connect wifi fail
+20161214 04:21:17 download size: 144563503 , total size: 289381775
+20161214 04:21:17 remove wifi conenct
+20161214 04:21:18 remove wifi sucess
+20161214 04:21:23 svc disable wifi conenct
+20161214 04:21:29 disable wifi sucess
+20161214 04:21:49 connect wifi roobo_test1234
+20161214 04:22:11 connect wifi roobo_test1234
+20161214 04:22:33 connect wifi roobo_test1234
+20161214 04:22:54 connect wifi roobo_test1234
+20161214 04:23:16 connect wifi roobo_test1234
+20161214 04:23:37 connect wifi roobo_test1234
+20161214 04:23:59 connect wifi fail
+20161214 04:24:32 download size: 144563503 , total size: 289381775
+20161214 04:24:32 remove wifi conenct
+20161214 04:24:32 remove wifi sucess
+20161214 04:24:37 svc disable wifi conenct
+20161214 04:24:44 disable wifi sucess
+20161214 04:25:04 connect wifi roobo_test1234
+20161214 04:25:26 connect wifi roobo_test1234
+20161214 04:25:47 connect wifi roobo_test1234
+20161214 04:26:09 connect wifi roobo_test1234
+20161214 04:26:30 connect wifi roobo_test1234
+20161214 04:26:52 connect wifi roobo_test1234
+20161214 04:27:14 connect wifi fail
+20161214 04:27:47 download size: 144563503 , total size: 289381775
+20161214 04:27:47 remove wifi conenct
+20161214 04:27:47 remove wifi sucess
+20161214 04:27:52 svc disable wifi conenct
+20161214 04:27:58 disable wifi sucess
+20161214 04:28:19 connect wifi roobo_test1234
+20161214 04:28:40 connect wifi roobo_test1234
+20161214 04:29:02 connect wifi roobo_test1234
+20161214 04:29:23 connect wifi roobo_test1234
+20161214 04:29:45 connect wifi roobo_test1234
+20161214 04:30:07 connect wifi roobo_test1234
+20161214 04:30:28 connect wifi fail
+20161214 04:31:01 download size: 144563503 , total size: 289381775
+20161214 04:31:01 remove wifi conenct
+20161214 04:31:01 remove wifi sucess
+20161214 04:31:06 svc disable wifi conenct
+20161214 04:31:13 disable wifi sucess
+20161214 04:31:33 connect wifi roobo_test1234
+20161214 04:31:55 connect wifi roobo_test1234
+20161214 04:32:16 connect wifi roobo_test1234
+20161214 04:32:38 connect wifi roobo_test1234
+20161214 04:33:00 connect wifi roobo_test1234
+20161214 04:33:21 connect wifi roobo_test1234
+20161214 04:33:43 connect wifi fail
+20161214 04:34:16 download size: 144563503 , total size: 289381775
+20161214 04:34:16 remove wifi conenct
+20161214 04:34:16 remove wifi sucess
+20161214 04:34:21 svc disable wifi conenct
+20161214 04:34:28 disable wifi sucess
+20161214 04:34:48 connect wifi roobo_test1234
+20161214 04:35:09 connect wifi roobo_test1234
+20161214 04:35:31 connect wifi roobo_test1234
+20161214 04:35:53 connect wifi roobo_test1234
+20161214 04:36:14 connect wifi roobo_test1234
+20161214 04:36:36 connect wifi roobo_test1234
+20161214 04:36:57 connect wifi fail
+20161214 04:37:31 download size: 144563503 , total size: 289381775
+20161214 04:37:31 remove wifi conenct
+20161214 04:37:31 remove wifi sucess
+20161214 04:37:36 svc disable wifi conenct
+20161214 04:37:42 disable wifi sucess
+20161214 04:38:02 connect wifi roobo_test1234
+20161214 04:38:24 connect wifi roobo_test1234
+20161214 04:38:46 connect wifi roobo_test1234
+20161214 04:39:07 connect wifi roobo_test1234
+20161214 04:39:29 connect wifi roobo_test1234
+20161214 04:39:51 connect wifi roobo_test1234
+20161214 04:40:12 connect wifi fail
+20161214 04:40:45 download size: 144563503 , total size: 289381775
+20161214 04:40:45 remove wifi conenct
+20161214 04:40:46 remove wifi sucess
+20161214 04:40:51 svc disable wifi conenct
+20161214 04:40:57 disable wifi sucess
+20161214 04:41:17 connect wifi roobo_test1234
+20161214 04:41:39 connect wifi roobo_test1234
+20161214 04:42:01 connect wifi roobo_test1234
+20161214 04:42:22 connect wifi roobo_test1234
+20161214 04:42:44 connect wifi roobo_test1234
+20161214 04:43:06 connect wifi roobo_test1234
+20161214 04:43:27 connect wifi fail
+20161214 04:44:00 download size: 144563503 , total size: 289381775
+20161214 04:44:00 remove wifi conenct
+20161214 04:44:01 remove wifi sucess
+20161214 04:44:06 svc disable wifi conenct
+20161214 04:44:12 disable wifi sucess
+20161214 04:44:32 connect wifi roobo_test1234
+20161214 04:44:54 connect wifi roobo_test1234
+20161214 04:45:15 connect wifi roobo_test1234
+20161214 04:45:37 connect wifi roobo_test1234
+20161214 04:45:59 connect wifi roobo_test1234
+20161214 04:46:20 connect wifi roobo_test1234
+20161214 04:46:42 connect wifi fail
+20161214 04:47:15 download size: 144563503 , total size: 289381775
+20161214 04:47:15 remove wifi conenct
+20161214 04:47:15 remove wifi sucess
+20161214 04:47:20 svc disable wifi conenct
+20161214 04:47:27 disable wifi sucess
+20161214 04:47:47 connect wifi roobo_test1234
+20161214 04:48:09 connect wifi roobo_test1234
+20161214 04:48:30 connect wifi roobo_test1234
+20161214 04:48:52 connect wifi roobo_test1234
+20161214 04:49:13 connect wifi roobo_test1234
+20161214 04:49:35 connect wifi roobo_test1234
+20161214 04:49:57 connect wifi fail
+20161214 04:50:30 download size: 144563503 , total size: 289381775
+20161214 04:50:30 remove wifi conenct
+20161214 04:50:30 remove wifi sucess
+20161214 04:50:35 svc disable wifi conenct
+20161214 04:50:42 disable wifi sucess
+20161214 04:51:02 connect wifi roobo_test1234
+20161214 04:51:23 connect wifi roobo_test1234
+20161214 04:51:45 connect wifi roobo_test1234
+20161214 04:52:07 connect wifi roobo_test1234
+20161214 04:52:28 connect wifi roobo_test1234
+20161214 04:52:50 connect wifi roobo_test1234
+20161214 04:53:11 connect wifi fail
+20161214 04:53:44 download size: 144563503 , total size: 289381775
+20161214 04:53:44 remove wifi conenct
+20161214 04:53:45 remove wifi sucess
+20161214 04:53:50 svc disable wifi conenct
+20161214 04:53:56 disable wifi sucess
+20161214 04:54:16 connect wifi roobo_test1234
+20161214 04:54:38 connect wifi roobo_test1234
+20161214 04:54:59 connect wifi roobo_test1234
+20161214 04:55:21 connect wifi roobo_test1234
+20161214 04:55:43 connect wifi roobo_test1234
+20161214 04:56:04 connect wifi roobo_test1234
+20161214 04:56:26 connect wifi fail
+20161214 04:56:59 download size: 144563503 , total size: 289381775
+20161214 04:56:59 remove wifi conenct
+20161214 04:56:59 remove wifi sucess
+20161214 04:57:04 svc disable wifi conenct
+20161214 04:57:11 disable wifi sucess
+20161214 04:57:31 connect wifi roobo_test1234
+20161214 04:57:52 connect wifi roobo_test1234
+20161214 04:58:14 connect wifi roobo_test1234
+20161214 04:58:35 connect wifi roobo_test1234
+20161214 04:58:57 connect wifi roobo_test1234
+20161214 04:59:19 connect wifi roobo_test1234
+20161214 04:59:40 connect wifi fail
+20161214 05:00:13 download size: 144563503 , total size: 289381775
+20161214 05:00:13 remove wifi conenct
+20161214 05:00:14 remove wifi sucess
+20161214 05:00:19 svc disable wifi conenct
+20161214 05:00:25 disable wifi sucess
+20161214 05:00:45 connect wifi roobo_test1234
+20161214 05:01:07 connect wifi roobo_test1234
+20161214 05:01:29 connect wifi roobo_test1234
+20161214 05:01:50 connect wifi roobo_test1234
+20161214 05:02:12 connect wifi roobo_test1234
+20161214 05:02:33 connect wifi roobo_test1234
+20161214 05:02:55 connect wifi fail
+20161214 05:03:28 download size: 144563503 , total size: 289381775
+20161214 05:03:28 remove wifi conenct
+20161214 05:03:28 remove wifi sucess
+20161214 05:03:33 svc disable wifi conenct
+20161214 05:03:40 disable wifi sucess
+20161214 05:04:00 connect wifi roobo_test1234
+20161214 05:04:22 connect wifi roobo_test1234
+20161214 05:04:43 connect wifi roobo_test1234
+20161214 05:05:05 connect wifi roobo_test1234
+20161214 05:05:27 connect wifi roobo_test1234
+20161214 05:05:48 connect wifi roobo_test1234
+20161214 05:06:10 connect wifi fail
+20161214 05:06:43 download size: 144563503 , total size: 289381775
+20161214 05:06:43 remove wifi conenct
+20161214 05:06:43 remove wifi sucess
+20161214 05:06:48 svc disable wifi conenct
+20161214 05:06:55 disable wifi sucess
+20161214 05:07:15 connect wifi roobo_test1234
+20161214 05:07:36 connect wifi roobo_test1234
+20161214 05:07:58 connect wifi roobo_test1234
+20161214 05:08:20 connect wifi roobo_test1234
+20161214 05:08:41 connect wifi roobo_test1234
+20161214 05:09:03 connect wifi roobo_test1234
+20161214 05:09:24 connect wifi fail
+20161214 05:09:58 download size: 144563503 , total size: 289381775
+20161214 05:09:58 remove wifi conenct
+20161214 05:09:58 remove wifi sucess
+20161214 05:10:03 svc disable wifi conenct
+20161214 05:10:09 disable wifi sucess
+20161214 05:10:29 connect wifi roobo_test1234
+20161214 05:10:51 connect wifi roobo_test1234
+20161214 05:11:13 connect wifi roobo_test1234
+20161214 05:11:34 connect wifi roobo_test1234
+20161214 05:11:56 connect wifi roobo_test1234
+20161214 05:12:17 connect wifi roobo_test1234
+20161214 05:12:39 connect wifi fail
+20161214 05:13:12 download size: 144563503 , total size: 289381775
+20161214 05:13:12 remove wifi conenct
+20161214 05:13:12 remove wifi sucess
+20161214 05:13:17 svc disable wifi conenct
+20161214 05:13:24 disable wifi sucess
+20161214 05:13:44 connect wifi roobo_test1234
+20161214 05:14:06 connect wifi roobo_test1234
+20161214 05:14:27 connect wifi roobo_test1234
+20161214 05:14:49 connect wifi roobo_test1234
+20161214 05:15:11 connect wifi roobo_test1234
+20161214 05:15:32 connect wifi roobo_test1234
+20161214 05:15:54 connect wifi fail
+20161214 05:16:27 download size: 144563503 , total size: 289381775
+20161214 05:16:27 remove wifi conenct
+20161214 05:16:27 remove wifi sucess
+20161214 05:16:32 svc disable wifi conenct
+20161214 05:16:39 disable wifi sucess
+20161214 05:16:59 connect wifi roobo_test1234
+20161214 05:17:20 connect wifi roobo_test1234
+20161214 05:17:42 connect wifi roobo_test1234
+20161214 05:18:03 connect wifi roobo_test1234
+20161214 05:18:25 connect wifi roobo_test1234
+20161214 05:18:47 connect wifi roobo_test1234
+20161214 05:19:08 connect wifi fail
+20161214 05:19:41 download size: 144563503 , total size: 289381775
+20161214 05:19:41 remove wifi conenct
+20161214 05:19:42 remove wifi sucess
+20161214 05:19:47 svc disable wifi conenct
+20161214 05:19:53 disable wifi sucess
+20161214 05:20:13 connect wifi roobo_test1234
+20161214 05:20:35 connect wifi roobo_test1234
+20161214 05:20:56 connect wifi roobo_test1234
+20161214 05:21:18 connect wifi roobo_test1234
+20161214 05:21:40 connect wifi roobo_test1234
+20161214 05:22:01 connect wifi roobo_test1234
+20161214 05:22:23 connect wifi fail
+20161214 05:22:56 download size: 144563503 , total size: 289381775
+20161214 05:22:56 remove wifi conenct
+20161214 05:22:56 remove wifi sucess
+20161214 05:23:01 svc disable wifi conenct
+20161214 05:23:08 disable wifi sucess
+20161214 05:23:28 connect wifi roobo_test1234
+20161214 05:23:49 connect wifi roobo_test1234
+20161214 05:24:11 connect wifi roobo_test1234
+20161214 05:24:33 connect wifi roobo_test1234
+20161214 05:24:54 connect wifi roobo_test1234
+20161214 05:25:16 connect wifi roobo_test1234
+20161214 05:25:38 connect wifi fail
+20161214 05:26:11 download size: 144563503 , total size: 289381775
+20161214 05:26:11 remove wifi conenct
+20161214 05:26:11 remove wifi sucess
+20161214 05:26:16 svc disable wifi conenct
+20161214 05:26:22 disable wifi sucess
+20161214 05:26:43 connect wifi roobo_test1234
+20161214 05:27:04 connect wifi roobo_test1234
+20161214 05:27:26 connect wifi roobo_test1234
+20161214 05:27:47 connect wifi roobo_test1234
+20161214 05:28:09 connect wifi roobo_test1234
+20161214 05:28:31 connect wifi roobo_test1234
+20161214 05:28:52 connect wifi fail
+20161214 05:29:25 download size: 144563503 , total size: 289381775
+20161214 05:29:25 remove wifi conenct
+20161214 05:29:26 remove wifi sucess
+20161214 05:29:31 svc disable wifi conenct
+20161214 05:29:37 disable wifi sucess
+20161214 05:29:57 connect wifi roobo_test1234
+20161214 05:30:19 connect wifi roobo_test1234
+20161214 05:30:41 connect wifi roobo_test1234
+20161214 05:31:02 connect wifi roobo_test1234
+20161214 05:31:24 connect wifi roobo_test1234
+20161214 05:31:46 connect wifi roobo_test1234
+20161214 05:32:07 connect wifi fail
+20161214 05:32:40 download size: 144563503 , total size: 289381775
+20161214 05:32:40 remove wifi conenct
+20161214 05:32:40 remove wifi sucess
+20161214 05:32:45 svc disable wifi conenct
+20161214 05:32:52 disable wifi sucess
+20161214 05:33:12 connect wifi roobo_test1234
+20161214 05:33:34 connect wifi roobo_test1234
+20161214 05:33:55 connect wifi roobo_test1234
+20161214 05:34:17 connect wifi roobo_test1234
+20161214 05:34:38 connect wifi roobo_test1234
+20161214 05:35:00 connect wifi roobo_test1234
+20161214 05:35:22 connect wifi fail
+20161214 05:35:55 download size: 144563503 , total size: 289381775
+20161214 05:35:55 remove wifi conenct
+20161214 05:35:55 remove wifi sucess
+20161214 05:36:00 svc disable wifi conenct
+20161214 05:36:06 disable wifi sucess
+20161214 05:36:27 connect wifi roobo_test1234
+20161214 05:36:48 connect wifi roobo_test1234
+20161214 05:37:10 connect wifi roobo_test1234
+20161214 05:37:32 connect wifi roobo_test1234
+20161214 05:37:53 connect wifi roobo_test1234
+20161214 05:38:15 connect wifi roobo_test1234
+20161214 05:38:36 connect wifi fail
+20161214 05:39:10 download size: 144563503 , total size: 289381775
+20161214 05:39:10 remove wifi conenct
+20161214 05:39:10 remove wifi sucess
+20161214 05:39:15 svc disable wifi conenct
+20161214 05:39:21 disable wifi sucess
+20161214 05:39:42 connect wifi roobo_test1234
+20161214 05:40:03 connect wifi roobo_test1234
+20161214 05:40:25 connect wifi roobo_test1234
+20161214 05:40:46 connect wifi roobo_test1234
+20161214 05:41:08 connect wifi roobo_test1234
+20161214 05:41:29 connect wifi roobo_test1234
+20161214 05:41:51 connect wifi fail
+20161214 05:42:24 download size: 144563503 , total size: 289381775
+20161214 05:42:24 remove wifi conenct
+20161214 05:42:24 remove wifi sucess
+20161214 05:42:29 svc disable wifi conenct
+20161214 05:42:36 disable wifi sucess
+20161214 05:42:56 connect wifi roobo_test1234
+20161214 05:43:17 connect wifi roobo_test1234
+20161214 05:43:39 connect wifi roobo_test1234
+20161214 05:44:01 connect wifi roobo_test1234
+20161214 05:44:22 connect wifi roobo_test1234
+20161214 05:44:44 connect wifi roobo_test1234
+20161214 05:45:05 connect wifi fail
+20161214 05:45:38 download size: 144563503 , total size: 289381775
+20161214 05:45:38 remove wifi conenct
+20161214 05:45:39 remove wifi sucess
+20161214 05:45:44 svc disable wifi conenct
+20161214 05:45:50 disable wifi sucess
+20161214 05:46:10 connect wifi roobo_test1234
+20161214 05:46:32 connect wifi roobo_test1234
+20161214 05:46:54 connect wifi roobo_test1234
+20161214 05:47:15 connect wifi roobo_test1234
+20161214 05:47:37 connect wifi roobo_test1234
+20161214 05:47:58 connect wifi roobo_test1234
+20161214 05:48:20 connect wifi fail
+20161214 05:48:53 download size: 144563503 , total size: 289381775
+20161214 05:48:53 remove wifi conenct
+20161214 05:48:53 remove wifi sucess
+20161214 05:48:58 svc disable wifi conenct
+20161214 05:49:05 disable wifi sucess
+20161214 05:49:25 connect wifi roobo_test1234
+20161214 05:49:47 connect wifi roobo_test1234
+20161214 05:50:08 connect wifi roobo_test1234
+20161214 05:50:30 connect wifi roobo_test1234
+20161214 05:50:51 connect wifi roobo_test1234
+20161214 05:51:13 connect wifi roobo_test1234
+20161214 05:51:35 connect wifi fail
+20161214 05:52:08 download size: 144563503 , total size: 289381775
+20161214 05:52:08 remove wifi conenct
+20161214 05:52:08 remove wifi sucess
+20161214 05:52:13 svc disable wifi conenct
+20161214 05:52:20 disable wifi sucess
+20161214 05:52:40 connect wifi roobo_test1234
+20161214 05:53:01 connect wifi roobo_test1234
+20161214 05:53:23 connect wifi roobo_test1234
+20161214 05:53:44 connect wifi roobo_test1234
+20161214 05:54:06 connect wifi roobo_test1234
+20161214 05:54:28 connect wifi roobo_test1234
+20161214 05:54:49 connect wifi fail
+20161214 05:55:22 download size: 144563503 , total size: 289381775
+20161214 05:55:22 remove wifi conenct
+20161214 05:55:23 remove wifi sucess
+20161214 05:55:28 svc disable wifi conenct
+20161214 05:55:34 disable wifi sucess
+20161214 05:55:54 connect wifi roobo_test1234
+20161214 05:56:16 connect wifi roobo_test1234
+20161214 05:56:38 connect wifi roobo_test1234
+20161214 05:56:59 connect wifi roobo_test1234
+20161214 05:57:21 connect wifi roobo_test1234
+20161214 05:57:43 connect wifi roobo_test1234
+20161214 05:58:04 connect wifi fail
+20161214 05:58:37 download size: 144563503 , total size: 289381775
+20161214 05:58:37 remove wifi conenct
+20161214 05:58:38 remove wifi sucess
+20161214 05:58:43 svc disable wifi conenct
+20161214 05:58:49 disable wifi sucess
+20161214 05:59:09 connect wifi roobo_test1234
+20161214 05:59:31 connect wifi roobo_test1234
+20161214 05:59:53 connect wifi roobo_test1234
+20161214 06:00:14 connect wifi roobo_test1234
+20161214 06:00:36 connect wifi roobo_test1234
+20161214 06:00:57 connect wifi roobo_test1234
+20161214 06:01:19 connect wifi fail
+20161214 06:01:52 download size: 144563503 , total size: 289381775
+20161214 06:01:52 remove wifi conenct
+20161214 06:01:52 remove wifi sucess
+20161214 06:01:57 svc disable wifi conenct
+20161214 06:02:04 disable wifi sucess
+20161214 06:02:24 connect wifi roobo_test1234
+20161214 06:02:46 connect wifi roobo_test1234
+20161214 06:03:07 connect wifi roobo_test1234
+20161214 06:03:29 connect wifi roobo_test1234
+20161214 06:03:50 connect wifi roobo_test1234
+20161214 06:04:12 connect wifi roobo_test1234
+20161214 06:04:34 connect wifi fail
+20161214 06:05:07 download size: 144563503 , total size: 289381775
+20161214 06:05:07 remove wifi conenct
+20161214 06:05:07 remove wifi sucess
+20161214 06:05:12 svc disable wifi conenct
+20161214 06:05:18 disable wifi sucess
+20161214 06:05:39 connect wifi roobo_test1234
+20161214 06:06:00 connect wifi roobo_test1234
+20161214 06:06:22 connect wifi roobo_test1234
+20161214 06:06:44 connect wifi roobo_test1234
+20161214 06:07:05 connect wifi roobo_test1234
+20161214 06:07:27 connect wifi roobo_test1234
+20161214 06:07:48 connect wifi fail
+20161214 06:08:21 download size: 144563503 , total size: 289381775
+20161214 06:08:21 remove wifi conenct
+20161214 06:08:22 remove wifi sucess
+20161214 06:08:27 svc disable wifi conenct
+20161214 06:08:33 disable wifi sucess
+20161214 06:08:53 connect wifi roobo_test1234
+20161214 06:09:15 connect wifi roobo_test1234
+20161214 06:09:36 connect wifi roobo_test1234
+20161214 06:09:58 connect wifi roobo_test1234
+20161214 06:10:20 connect wifi roobo_test1234
+20161214 06:10:41 connect wifi roobo_test1234
+20161214 06:11:03 connect wifi fail
+20161214 06:11:36 download size: 144563503 , total size: 289381775
+20161214 06:11:36 remove wifi conenct
+20161214 06:11:36 remove wifi sucess
+20161214 06:11:41 svc disable wifi conenct
+20161214 06:11:47 disable wifi sucess
+20161214 06:12:08 connect wifi roobo_test1234
+20161214 06:12:29 connect wifi roobo_test1234
+20161214 06:12:51 connect wifi roobo_test1234
+20161214 06:13:13 connect wifi roobo_test1234
+20161214 06:13:34 connect wifi roobo_test1234
+20161214 06:13:56 connect wifi roobo_test1234
+20161214 06:14:17 connect wifi fail
+20161214 06:14:50 download size: 144563503 , total size: 289381775
+20161214 06:14:50 remove wifi conenct
+20161214 06:14:50 remove wifi sucess
+20161214 06:14:55 svc disable wifi conenct
+20161214 06:15:02 disable wifi sucess
+20161214 06:15:22 connect wifi roobo_test1234
+20161214 06:15:44 connect wifi roobo_test1234
+20161214 06:16:05 connect wifi roobo_test1234
+20161214 06:16:27 connect wifi roobo_test1234
+20161214 06:16:48 connect wifi roobo_test1234
+20161214 06:17:10 connect wifi roobo_test1234
+20161214 06:17:32 connect wifi fail
+20161214 06:18:05 download size: 144563503 , total size: 289381775
+20161214 06:18:05 remove wifi conenct
+20161214 06:18:05 remove wifi sucess
+20161214 06:18:10 svc disable wifi conenct
+20161214 06:18:17 disable wifi sucess
+20161214 06:18:37 connect wifi roobo_test1234
+20161214 06:18:59 connect wifi roobo_test1234
+20161214 06:19:20 connect wifi roobo_test1234
+20161214 06:19:42 connect wifi roobo_test1234
+20161214 06:20:03 connect wifi roobo_test1234
+20161214 06:20:25 connect wifi roobo_test1234
+20161214 06:20:47 connect wifi fail
+20161214 06:21:20 download size: 144563503 , total size: 289381775
+20161214 06:21:20 remove wifi conenct
+20161214 06:21:20 remove wifi sucess
+20161214 06:21:25 svc disable wifi conenct
+20161214 06:21:32 disable wifi sucess
+20161214 06:21:52 connect wifi roobo_test1234
+20161214 06:22:13 connect wifi roobo_test1234
+20161214 06:22:35 connect wifi roobo_test1234
+20161214 06:22:56 connect wifi roobo_test1234
+20161214 06:23:18 connect wifi roobo_test1234
+20161214 06:23:40 connect wifi roobo_test1234
+20161214 06:24:01 connect wifi fail
+20161214 06:24:34 download size: 144563503 , total size: 289381775
+20161214 06:24:34 remove wifi conenct
+20161214 06:24:34 remove wifi sucess
+20161214 06:24:39 svc disable wifi conenct
+20161214 06:24:46 disable wifi sucess
+20161214 06:25:06 connect wifi roobo_test1234
+20161214 06:25:28 connect wifi roobo_test1234
+20161214 06:25:50 connect wifi roobo_test1234
+20161214 06:26:11 connect wifi roobo_test1234
+20161214 06:26:33 connect wifi roobo_test1234
+20161214 06:26:54 connect wifi roobo_test1234
+20161214 06:27:16 connect wifi fail
+20161214 06:27:49 download size: 144563503 , total size: 289381775
+20161214 06:27:49 remove wifi conenct
+20161214 06:27:49 remove wifi sucess
+20161214 06:27:54 svc disable wifi conenct
+20161214 06:28:01 disable wifi sucess
+20161214 06:28:21 connect wifi roobo_test1234
+20161214 06:28:42 connect wifi roobo_test1234
+20161214 06:29:04 connect wifi roobo_test1234
+20161214 06:29:25 connect wifi roobo_test1234
+20161214 06:29:47 connect wifi roobo_test1234
+20161214 06:30:09 connect wifi roobo_test1234
+20161214 06:30:30 connect wifi fail
+20161214 06:31:03 download size: 144563503 , total size: 289381775
+20161214 06:31:03 remove wifi conenct
+20161214 06:31:04 remove wifi sucess
+20161214 06:31:09 svc disable wifi conenct
+20161214 06:31:15 disable wifi sucess
+20161214 06:31:35 connect wifi roobo_test1234
+20161214 06:31:57 connect wifi roobo_test1234
+20161214 06:32:18 connect wifi roobo_test1234
+20161214 06:32:40 connect wifi roobo_test1234
+20161214 06:33:02 connect wifi roobo_test1234
+20161214 06:33:24 connect wifi roobo_test1234
+20161214 06:33:45 connect wifi fail
+20161214 06:34:18 download size: 144563503 , total size: 289381775
+20161214 06:34:18 remove wifi conenct
+20161214 06:34:18 remove wifi sucess
+20161214 06:34:23 svc disable wifi conenct
+20161214 06:34:30 disable wifi sucess
+20161214 06:34:50 connect wifi roobo_test1234
+20161214 06:35:12 connect wifi roobo_test1234
+20161214 06:35:33 connect wifi roobo_test1234
+20161214 06:35:55 connect wifi roobo_test1234
+20161214 06:36:17 connect wifi roobo_test1234
+20161214 06:36:38 connect wifi roobo_test1234
+20161214 06:37:00 connect wifi fail
+20161214 06:37:33 download size: 144563503 , total size: 289381775
+20161214 06:37:33 remove wifi conenct
+20161214 06:37:33 remove wifi sucess
+20161214 06:37:38 svc disable wifi conenct
+20161214 06:37:45 disable wifi sucess
+20161214 06:38:05 connect wifi roobo_test1234
+20161214 06:38:27 connect wifi roobo_test1234
+20161214 06:38:48 connect wifi roobo_test1234
+20161214 06:39:10 connect wifi roobo_test1234
+20161214 06:39:31 connect wifi roobo_test1234
+20161214 06:39:53 connect wifi roobo_test1234
+20161214 06:40:15 connect wifi fail
+20161214 06:40:48 download size: 144563503 , total size: 289381775
+20161214 06:40:48 remove wifi conenct
+20161214 06:40:48 remove wifi sucess
+20161214 06:40:53 svc disable wifi conenct
+20161214 06:41:00 disable wifi sucess
+20161214 06:41:20 connect wifi roobo_test1234
+20161214 06:41:41 connect wifi roobo_test1234
+20161214 06:42:03 connect wifi roobo_test1234
+20161214 06:42:25 connect wifi roobo_test1234
+20161214 06:42:46 connect wifi roobo_test1234
+20161214 06:43:08 connect wifi roobo_test1234
+20161214 06:43:29 connect wifi fail
+20161214 06:44:03 download size: 144563503 , total size: 289381775
+20161214 06:44:03 remove wifi conenct
+20161214 06:44:03 remove wifi sucess
+20161214 06:44:08 svc disable wifi conenct
+20161214 06:44:14 disable wifi sucess
+20161214 06:44:34 connect wifi roobo_test1234
+20161214 06:44:56 connect wifi roobo_test1234
+20161214 06:45:17 connect wifi roobo_test1234
+20161214 06:45:39 connect wifi roobo_test1234
+20161214 06:46:01 connect wifi roobo_test1234
+20161214 06:46:23 connect wifi roobo_test1234
+20161214 06:46:44 connect wifi fail
+20161214 06:47:17 download size: 144563503 , total size: 289381775
+20161214 06:47:17 remove wifi conenct
+20161214 06:47:18 remove wifi sucess
+20161214 06:47:23 svc disable wifi conenct
+20161214 06:47:29 disable wifi sucess
+20161214 06:47:49 connect wifi roobo_test1234
+20161214 06:48:11 connect wifi roobo_test1234
+20161214 06:48:32 connect wifi roobo_test1234
+20161214 06:48:54 connect wifi roobo_test1234
+20161214 06:49:16 connect wifi roobo_test1234
+20161214 06:49:37 connect wifi roobo_test1234
+20161214 06:49:59 connect wifi fail
+20161214 06:50:32 download size: 144563503 , total size: 289381775
+20161214 06:50:32 remove wifi conenct
+20161214 06:50:32 remove wifi sucess
+20161214 06:50:37 svc disable wifi conenct
+20161214 06:50:44 disable wifi sucess
+20161214 06:51:04 connect wifi roobo_test1234
+20161214 06:51:25 connect wifi roobo_test1234
+20161214 06:51:47 connect wifi roobo_test1234
+20161214 06:52:09 connect wifi roobo_test1234
+20161214 06:52:30 connect wifi roobo_test1234
+20161214 06:52:52 connect wifi roobo_test1234
+20161214 06:53:13 connect wifi fail
+20161214 06:53:46 download size: 144563503 , total size: 289381775
+20161214 06:53:46 remove wifi conenct
+20161214 06:53:47 remove wifi sucess
+20161214 06:53:52 svc disable wifi conenct
+20161214 06:53:58 disable wifi sucess
+20161214 06:54:18 connect wifi roobo_test1234
+20161214 06:54:40 connect wifi roobo_test1234
+20161214 06:55:01 connect wifi roobo_test1234
+20161214 06:55:23 connect wifi roobo_test1234
+20161214 06:55:44 connect wifi roobo_test1234
+20161214 06:56:06 connect wifi roobo_test1234
+20161214 06:56:27 connect wifi fail
+20161214 06:57:00 download size: 144563503 , total size: 289381775
+20161214 06:57:00 remove wifi conenct
+20161214 06:57:01 remove wifi sucess
+20161214 06:57:06 svc disable wifi conenct
+20161214 06:57:12 disable wifi sucess
+20161214 06:57:32 connect wifi roobo_test1234
+20161214 06:57:54 connect wifi roobo_test1234
+20161214 06:58:16 connect wifi roobo_test1234
+20161214 06:58:37 connect wifi roobo_test1234
+20161214 06:58:59 connect wifi roobo_test1234
+20161214 06:59:20 connect wifi roobo_test1234
+20161214 06:59:42 connect wifi fail
+20161214 07:00:15 download size: 144563503 , total size: 289381775
+20161214 07:00:15 remove wifi conenct
+20161214 07:00:15 remove wifi sucess
+20161214 07:00:20 svc disable wifi conenct
+20161214 07:00:27 disable wifi sucess
+20161214 07:00:47 connect wifi roobo_test1234
+20161214 07:01:09 connect wifi roobo_test1234
+20161214 07:01:30 connect wifi roobo_test1234
+20161214 07:01:52 connect wifi roobo_test1234
+20161214 07:02:13 connect wifi roobo_test1234
+20161214 07:02:35 connect wifi roobo_test1234
+20161214 07:02:56 connect wifi fail
+20161214 07:03:30 download size: 144563503 , total size: 289381775
+20161214 07:03:30 remove wifi conenct
+20161214 07:03:30 remove wifi sucess
+20161214 07:03:35 svc disable wifi conenct
+20161214 07:03:41 disable wifi sucess
+20161214 07:04:02 connect wifi roobo_test1234
+20161214 07:04:23 connect wifi roobo_test1234
+20161214 07:04:45 connect wifi roobo_test1234
+20161214 07:05:06 connect wifi roobo_test1234
+20161214 07:05:28 connect wifi roobo_test1234
+20161214 07:05:50 connect wifi roobo_test1234
+20161214 07:06:11 connect wifi fail
+20161214 07:06:44 download size: 144563503 , total size: 289381775
+20161214 07:06:44 remove wifi conenct
+20161214 07:06:45 remove wifi sucess
+20161214 07:06:50 svc disable wifi conenct
+20161214 07:06:56 disable wifi sucess
+20161214 07:07:16 connect wifi roobo_test1234
+20161214 07:07:38 connect wifi roobo_test1234
+20161214 07:08:00 connect wifi roobo_test1234
+20161214 07:08:21 connect wifi roobo_test1234
+20161214 07:08:43 connect wifi roobo_test1234
+20161214 07:09:04 connect wifi roobo_test1234
+20161214 07:09:26 connect wifi fail
+20161214 07:09:59 download size: 144563503 , total size: 289381775
+20161214 07:09:59 remove wifi conenct
+20161214 07:09:59 remove wifi sucess
+20161214 07:10:04 svc disable wifi conenct
+20161214 07:10:11 disable wifi sucess
+20161214 07:10:31 connect wifi roobo_test1234
+20161214 07:10:53 connect wifi roobo_test1234
+20161214 07:11:14 connect wifi roobo_test1234
+20161214 07:11:36 connect wifi roobo_test1234
+20161214 07:11:57 connect wifi roobo_test1234
+20161214 07:12:19 connect wifi roobo_test1234
+20161214 07:12:41 connect wifi fail
+20161214 07:13:14 download size: 144563503 , total size: 289381775
+20161214 07:13:14 remove wifi conenct
+20161214 07:13:14 remove wifi sucess
+20161214 07:13:19 svc disable wifi conenct
+20161214 07:13:26 disable wifi sucess
+20161214 07:13:46 connect wifi roobo_test1234
+20161214 07:14:07 connect wifi roobo_test1234
+20161214 07:14:29 connect wifi roobo_test1234
+20161214 07:14:50 connect wifi roobo_test1234
+20161214 07:15:12 connect wifi roobo_test1234
+20161214 07:15:34 connect wifi roobo_test1234
+20161214 07:15:55 connect wifi fail
+20161214 07:16:28 download size: 144563503 , total size: 289381775
+20161214 07:16:28 remove wifi conenct
+20161214 07:16:28 remove wifi sucess
+20161214 07:16:33 svc disable wifi conenct
+20161214 07:16:40 disable wifi sucess
+20161214 07:17:00 connect wifi roobo_test1234
+20161214 07:17:22 connect wifi roobo_test1234
+20161214 07:17:43 connect wifi roobo_test1234
+20161214 07:18:05 connect wifi roobo_test1234
+20161214 07:18:27 connect wifi roobo_test1234
+20161214 07:18:48 connect wifi roobo_test1234
+20161214 07:19:10 connect wifi fail
+20161214 07:19:43 download size: 144563503 , total size: 289381775
+20161214 07:19:43 remove wifi conenct
+20161214 07:19:43 remove wifi sucess
+20161214 07:19:48 svc disable wifi conenct
+20161214 07:19:55 disable wifi sucess
+20161214 07:20:15 connect wifi roobo_test1234
+20161214 07:20:37 connect wifi roobo_test1234
+20161214 07:20:58 connect wifi roobo_test1234
+20161214 07:21:20 connect wifi roobo_test1234
+20161214 07:21:41 connect wifi roobo_test1234
+20161214 07:22:03 connect wifi roobo_test1234
+20161214 07:22:24 connect wifi fail
+20161214 07:22:58 download size: 144563503 , total size: 289381775
+20161214 07:22:58 remove wifi conenct
+20161214 07:22:58 remove wifi sucess
+20161214 07:23:03 svc disable wifi conenct
+20161214 07:23:09 disable wifi sucess
+20161214 07:23:30 connect wifi roobo_test1234
+20161214 07:23:51 connect wifi roobo_test1234
+20161214 07:24:13 connect wifi roobo_test1234
+20161214 07:24:35 connect wifi roobo_test1234
+20161214 07:24:56 connect wifi roobo_test1234
+20161214 07:25:18 connect wifi roobo_test1234
+20161214 07:25:39 connect wifi fail
+20161214 07:26:13 download size: 144563503 , total size: 289381775
+20161214 07:26:13 remove wifi conenct
+20161214 07:26:13 remove wifi sucess
+20161214 07:26:18 svc disable wifi conenct
+20161214 07:26:24 disable wifi sucess
+20161214 07:26:45 connect wifi roobo_test1234
+20161214 07:27:06 connect wifi roobo_test1234
+20161214 07:27:28 connect wifi roobo_test1234
+20161214 07:27:50 connect wifi roobo_test1234
+20161214 07:28:11 connect wifi roobo_test1234
+20161214 07:28:33 connect wifi roobo_test1234
+20161214 07:28:54 connect wifi fail
+20161214 07:29:27 download size: 144563503 , total size: 289381775
+20161214 07:29:27 remove wifi conenct
+20161214 07:29:27 remove wifi sucess
+20161214 07:29:32 svc disable wifi conenct
+20161214 07:29:39 disable wifi sucess
+20161214 07:29:59 connect wifi roobo_test1234
+20161214 07:30:21 connect wifi roobo_test1234
+20161214 07:30:42 connect wifi roobo_test1234
+20161214 07:31:04 connect wifi roobo_test1234
+20161214 07:31:26 connect wifi roobo_test1234
+20161214 07:31:47 connect wifi roobo_test1234
+20161214 07:32:09 connect wifi fail
+20161214 07:32:42 download size: 144563503 , total size: 289381775
+20161214 07:32:42 remove wifi conenct
+20161214 07:32:42 remove wifi sucess
+20161214 07:32:47 svc disable wifi conenct
+20161214 07:32:54 disable wifi sucess
+20161214 07:33:14 connect wifi roobo_test1234
+20161214 07:33:36 connect wifi roobo_test1234
+20161214 07:33:57 connect wifi roobo_test1234
+20161214 07:34:19 connect wifi roobo_test1234
+20161214 07:34:40 connect wifi roobo_test1234
+20161214 07:35:02 connect wifi roobo_test1234
+20161214 07:35:23 connect wifi fail
+20161214 07:35:56 download size: 144563503 , total size: 289381775
+20161214 07:35:56 remove wifi conenct
+20161214 07:35:57 remove wifi sucess
+20161214 07:36:02 svc disable wifi conenct
+20161214 07:36:08 disable wifi sucess
+20161214 07:36:28 connect wifi roobo_test1234
+20161214 07:36:50 connect wifi roobo_test1234
+20161214 07:37:12 connect wifi roobo_test1234
+20161214 07:37:34 connect wifi roobo_test1234
+20161214 07:37:55 connect wifi roobo_test1234
+20161214 07:38:17 connect wifi roobo_test1234
+20161214 07:38:38 connect wifi fail
+20161214 07:39:12 download size: 144563503 , total size: 289381775
+20161214 07:39:12 remove wifi conenct
+20161214 07:39:12 remove wifi sucess
+20161214 07:39:17 svc disable wifi conenct
+20161214 07:39:23 disable wifi sucess
+20161214 07:39:43 connect wifi roobo_test1234
+20161214 07:40:05 connect wifi roobo_test1234
+20161214 07:40:27 connect wifi roobo_test1234
+20161214 07:40:48 connect wifi roobo_test1234
+20161214 07:41:10 connect wifi roobo_test1234
+20161214 07:41:32 connect wifi roobo_test1234
+20161214 07:41:53 connect wifi fail
+20161214 07:42:26 download size: 144563503 , total size: 289381775
+20161214 07:42:26 remove wifi conenct
+20161214 07:42:26 remove wifi sucess
+20161214 07:42:31 svc disable wifi conenct
+20161214 07:42:38 disable wifi sucess
+20161214 07:42:58 connect wifi roobo_test1234
+20161214 07:43:20 connect wifi roobo_test1234
+20161214 07:43:41 connect wifi roobo_test1234
+20161214 07:44:03 connect wifi roobo_test1234
+20161214 07:44:25 connect wifi roobo_test1234
+20161214 07:44:46 connect wifi roobo_test1234
+20161214 07:45:08 connect wifi fail
+20161214 07:45:41 download size: 144563503 , total size: 289381775
+20161214 07:45:41 remove wifi conenct
+20161214 07:45:41 remove wifi sucess
+20161214 07:45:46 svc disable wifi conenct
+20161214 07:45:53 disable wifi sucess
+20161214 07:46:13 connect wifi roobo_test1234
+20161214 07:46:35 connect wifi roobo_test1234
+20161214 07:46:56 connect wifi roobo_test1234
+20161214 07:47:18 connect wifi roobo_test1234
+20161214 07:47:39 connect wifi roobo_test1234
+20161214 07:48:01 connect wifi roobo_test1234
+20161214 07:48:23 connect wifi fail
+20161214 07:48:56 download size: 144563503 , total size: 289381775
+20161214 07:48:56 remove wifi conenct
+20161214 07:48:56 remove wifi sucess
+20161214 07:49:01 svc disable wifi conenct
+20161214 07:49:08 disable wifi sucess
+20161214 07:49:28 connect wifi roobo_test1234
+20161214 07:49:49 connect wifi roobo_test1234
+20161214 07:50:11 connect wifi roobo_test1234
+20161214 07:50:32 connect wifi roobo_test1234
+20161214 07:50:54 connect wifi roobo_test1234
+20161214 07:51:16 connect wifi roobo_test1234
+20161214 07:51:37 connect wifi fail
+20161214 07:52:10 download size: 144563503 , total size: 289381775
+20161214 07:52:10 remove wifi conenct
+20161214 07:52:11 remove wifi sucess
+20161214 07:52:16 svc disable wifi conenct
+20161214 07:52:22 disable wifi sucess
+20161214 07:52:42 connect wifi roobo_test1234
+20161214 07:53:04 connect wifi roobo_test1234
+20161214 07:53:26 connect wifi roobo_test1234
+20161214 07:53:47 connect wifi roobo_test1234
+20161214 07:54:09 connect wifi roobo_test1234
+20161214 07:54:30 connect wifi roobo_test1234
+20161214 07:54:52 connect wifi fail
+20161214 07:55:25 download size: 144563503 , total size: 289381775
+20161214 07:55:25 remove wifi conenct
+20161214 07:55:25 remove wifi sucess
+20161214 07:55:30 svc disable wifi conenct
+20161214 07:55:37 disable wifi sucess
+20161214 07:55:57 connect wifi roobo_test1234
+20161214 07:56:19 connect wifi roobo_test1234
+20161214 07:56:40 connect wifi roobo_test1234
+20161214 07:57:02 connect wifi roobo_test1234
+20161214 07:57:24 connect wifi roobo_test1234
+20161214 07:57:45 connect wifi roobo_test1234
+20161214 07:58:07 connect wifi fail
+20161214 07:58:40 download size: 144563503 , total size: 289381775
+20161214 07:58:40 remove wifi conenct
+20161214 07:58:40 remove wifi sucess
+20161214 07:58:45 svc disable wifi conenct
+20161214 07:58:52 disable wifi sucess
+20161214 07:59:12 connect wifi roobo_test1234
+20161214 07:59:33 connect wifi roobo_test1234
+20161214 07:59:55 connect wifi roobo_test1234
+20161214 08:00:17 connect wifi roobo_test1234
+20161214 08:00:38 connect wifi roobo_test1234
+20161214 08:01:00 connect wifi roobo_test1234
+20161214 08:01:21 connect wifi fail
+20161214 08:01:54 download size: 144563503 , total size: 289381775
+20161214 08:01:54 remove wifi conenct
+20161214 08:01:55 remove wifi sucess
+20161214 08:02:00 svc disable wifi conenct
+20161214 08:02:06 disable wifi sucess
+20161214 08:02:26 connect wifi roobo_test1234
+20161214 08:02:48 connect wifi roobo_test1234
+20161214 08:03:10 connect wifi roobo_test1234
+20161214 08:03:31 connect wifi roobo_test1234
+20161214 08:03:53 connect wifi roobo_test1234
+20161214 08:04:15 connect wifi roobo_test1234
+20161214 08:04:36 connect wifi fail
+20161214 08:05:09 download size: 144563503 , total size: 289381775
+20161214 08:05:09 remove wifi conenct
+20161214 08:05:10 remove wifi sucess
+20161214 08:05:15 svc disable wifi conenct
+20161214 08:05:21 disable wifi sucess
+20161214 08:05:41 connect wifi roobo_test1234
+20161214 08:06:03 connect wifi roobo_test1234
+20161214 08:06:24 connect wifi roobo_test1234
+20161214 08:06:46 connect wifi roobo_test1234
+20161214 08:07:08 connect wifi roobo_test1234
+20161214 08:07:29 connect wifi roobo_test1234
+20161214 08:07:51 connect wifi fail
+20161214 08:08:24 download size: 144563503 , total size: 289381775
+20161214 08:08:24 remove wifi conenct
+20161214 08:08:24 remove wifi sucess
+20161214 08:08:29 svc disable wifi conenct
+20161214 08:08:36 disable wifi sucess
+20161214 08:08:56 connect wifi roobo_test1234
+20161214 08:09:17 connect wifi roobo_test1234
+20161214 08:09:39 connect wifi roobo_test1234
+20161214 08:10:01 connect wifi roobo_test1234
+20161214 08:10:22 connect wifi roobo_test1234
+20161214 08:10:44 connect wifi roobo_test1234
+20161214 08:11:06 connect wifi fail
+20161214 08:11:39 download size: 144563503 , total size: 289381775
+20161214 08:11:39 remove wifi conenct
+20161214 08:11:39 remove wifi sucess
+20161214 08:11:44 svc disable wifi conenct
+20161214 08:11:51 disable wifi sucess
+20161214 08:12:11 connect wifi roobo_test1234
+20161214 08:12:32 connect wifi roobo_test1234
+20161214 08:12:54 connect wifi roobo_test1234
+20161214 08:13:15 connect wifi roobo_test1234
+20161214 08:13:37 connect wifi roobo_test1234
+20161214 08:13:59 connect wifi roobo_test1234
+20161214 08:14:20 connect wifi fail
+20161214 08:14:53 download size: 144563503 , total size: 289381775
+20161214 08:14:53 remove wifi conenct
+20161214 08:14:54 remove wifi sucess
+20161214 08:14:59 svc disable wifi conenct
+20161214 08:15:05 disable wifi sucess
+20161214 08:15:25 connect wifi roobo_test1234
+20161214 08:15:47 connect wifi roobo_test1234
+20161214 08:16:09 connect wifi roobo_test1234
+20161214 08:16:30 connect wifi roobo_test1234
+20161214 08:16:52 connect wifi roobo_test1234
+20161214 08:17:14 connect wifi roobo_test1234
+20161214 08:17:35 connect wifi fail
+20161214 08:18:08 download size: 144563503 , total size: 289381775
+20161214 08:18:08 remove wifi conenct
+20161214 08:18:09 remove wifi sucess
+20161214 08:18:14 svc disable wifi conenct
+20161214 08:18:20 disable wifi sucess
+20161214 08:18:40 connect wifi roobo_test1234
+20161214 08:19:02 connect wifi roobo_test1234
+20161214 08:19:23 connect wifi roobo_test1234
+20161214 08:19:45 connect wifi roobo_test1234
+20161214 08:20:07 connect wifi roobo_test1234
+20161214 08:20:28 connect wifi roobo_test1234
+20161214 08:20:50 connect wifi fail
+20161214 08:21:23 download size: 144563503 , total size: 289381775
+20161214 08:21:23 remove wifi conenct
+20161214 08:21:23 remove wifi sucess
+20161214 08:21:28 svc disable wifi conenct
+20161214 08:21:34 disable wifi sucess
+20161214 08:21:55 connect wifi roobo_test1234
+20161214 08:22:16 connect wifi roobo_test1234
+20161214 08:22:38 connect wifi roobo_test1234
+20161214 08:22:59 connect wifi roobo_test1234
+20161214 08:23:21 connect wifi roobo_test1234
+20161214 08:23:43 connect wifi roobo_test1234
+20161214 08:24:04 connect wifi fail
+20161214 08:24:37 download size: 144563503 , total size: 289381775
+20161214 08:24:37 remove wifi conenct
+20161214 08:24:37 remove wifi sucess
+20161214 08:24:42 svc disable wifi conenct
+20161214 08:24:49 disable wifi sucess
+20161214 08:25:09 connect wifi roobo_test1234
+20161214 08:25:31 connect wifi roobo_test1234
+20161214 08:25:52 connect wifi roobo_test1234
+20161214 08:26:14 connect wifi roobo_test1234
+20161214 08:26:36 connect wifi roobo_test1234
+20161214 08:26:57 connect wifi roobo_test1234
+20161214 08:27:19 connect wifi fail
+20161214 08:27:52 download size: 144563503 , total size: 289381775
+20161214 08:27:52 remove wifi conenct
+20161214 08:27:52 remove wifi sucess
+20161214 08:27:57 svc disable wifi conenct
+20161214 08:28:04 disable wifi sucess
+20161214 08:28:24 connect wifi roobo_test1234
+20161214 08:28:46 connect wifi roobo_test1234
+20161214 08:29:07 connect wifi roobo_test1234
+20161214 08:29:29 connect wifi roobo_test1234
+20161214 08:29:51 connect wifi roobo_test1234
+20161214 08:30:12 connect wifi roobo_test1234
+20161214 08:30:34 connect wifi fail
+20161214 08:31:07 download size: 144563503 , total size: 289381775
+20161214 08:31:07 remove wifi conenct
+20161214 08:31:07 remove wifi sucess
+20161214 08:31:12 svc disable wifi conenct
+20161214 08:31:19 disable wifi sucess
+20161214 08:31:39 connect wifi roobo_test1234
+20161214 08:32:01 connect wifi roobo_test1234
+20161214 08:32:22 connect wifi roobo_test1234
+20161214 08:32:44 connect wifi roobo_test1234
+20161214 08:33:05 connect wifi roobo_test1234
+20161214 08:33:27 connect wifi roobo_test1234
+20161214 08:33:48 connect wifi fail
+20161214 08:34:21 download size: 144563503 , total size: 289381775
+20161214 08:34:21 remove wifi conenct
+20161214 08:34:22 remove wifi sucess
+20161214 08:34:27 svc disable wifi conenct
+20161214 08:34:33 disable wifi sucess
+20161214 08:34:53 connect wifi roobo_test1234
+20161214 08:35:15 connect wifi roobo_test1234
+20161214 08:35:37 connect wifi roobo_test1234
+20161214 08:35:58 connect wifi roobo_test1234
+20161214 08:36:20 connect wifi roobo_test1234
+20161214 08:36:41 connect wifi roobo_test1234
+20161214 08:37:03 connect wifi fail
+20161214 08:37:36 download size: 144563503 , total size: 289381775
+20161214 08:37:36 remove wifi conenct
+20161214 08:37:36 remove wifi sucess
+20161214 08:37:41 svc disable wifi conenct
+20161214 08:37:48 disable wifi sucess
+20161214 08:38:08 connect wifi roobo_test1234
+20161214 08:38:30 connect wifi roobo_test1234
+20161214 08:38:51 connect wifi roobo_test1234
+20161214 08:39:13 connect wifi roobo_test1234
+20161214 08:39:35 connect wifi roobo_test1234
+20161214 08:39:56 connect wifi roobo_test1234
+20161214 08:40:18 connect wifi fail
+20161214 08:40:51 download size: 144563503 , total size: 289381775
+20161214 08:40:51 remove wifi conenct
+20161214 08:40:51 remove wifi sucess
+20161214 08:40:56 svc disable wifi conenct
+20161214 08:41:03 disable wifi sucess
+20161214 08:41:23 connect wifi roobo_test1234
+20161214 08:41:44 connect wifi roobo_test1234
+20161214 08:42:06 connect wifi roobo_test1234
+20161214 08:42:28 connect wifi roobo_test1234
+20161214 08:42:49 connect wifi roobo_test1234
+20161214 08:43:11 connect wifi roobo_test1234
+20161214 08:43:32 connect wifi fail
+20161214 08:44:05 download size: 144563503 , total size: 289381775
+20161214 08:44:05 remove wifi conenct
+20161214 08:44:06 remove wifi sucess
+20161214 08:44:11 svc disable wifi conenct
+20161214 08:44:17 disable wifi sucess
+20161214 08:44:37 connect wifi roobo_test1234
+20161214 08:44:59 connect wifi roobo_test1234
+20161214 08:45:21 connect wifi roobo_test1234
+20161214 08:45:42 connect wifi roobo_test1234
+20161214 08:46:04 connect wifi roobo_test1234
+20161214 08:46:26 connect wifi roobo_test1234
+20161214 08:46:47 connect wifi fail
+20161214 08:47:20 download size: 144563503 , total size: 289381775
+20161214 08:47:20 remove wifi conenct
+20161214 08:47:20 remove wifi sucess
+20161214 08:47:25 svc disable wifi conenct
+20161214 08:47:32 disable wifi sucess
+20161214 08:47:52 connect wifi roobo_test1234
+20161214 08:48:14 connect wifi roobo_test1234
+20161214 08:48:35 connect wifi roobo_test1234
+20161214 08:48:57 connect wifi roobo_test1234
+20161214 08:49:19 connect wifi roobo_test1234
+20161214 08:49:40 connect wifi roobo_test1234
+20161214 08:50:02 connect wifi fail
+20161214 08:50:35 download size: 144563503 , total size: 289381775
+20161214 08:50:35 remove wifi conenct
+20161214 08:50:35 remove wifi sucess
+20161214 08:50:40 svc disable wifi conenct
+20161214 08:50:47 disable wifi sucess
+20161214 08:51:07 connect wifi roobo_test1234
+20161214 08:51:29 connect wifi roobo_test1234
+20161214 08:51:50 connect wifi roobo_test1234
+20161214 08:52:12 connect wifi roobo_test1234
+20161214 08:52:34 connect wifi roobo_test1234
+20161214 08:52:55 connect wifi roobo_test1234
+20161214 08:53:17 connect wifi fail
+20161214 08:53:50 download size: 144563503 , total size: 289381775
+20161214 08:53:50 remove wifi conenct
+20161214 08:53:50 remove wifi sucess
+20161214 08:53:55 svc disable wifi conenct
+20161214 08:54:01 disable wifi sucess
+20161214 08:54:21 connect wifi roobo_test1234
+20161214 08:54:43 connect wifi roobo_test1234
+20161214 08:55:05 connect wifi roobo_test1234
+20161214 08:55:26 connect wifi roobo_test1234
+20161214 08:55:48 connect wifi roobo_test1234
+20161214 08:56:09 connect wifi roobo_test1234
+20161214 08:56:31 connect wifi fail
+20161214 08:57:04 download size: 144563503 , total size: 289381775
+20161214 08:57:04 remove wifi conenct
+20161214 08:57:04 remove wifi sucess
+20161214 08:57:09 svc disable wifi conenct
+20161214 08:57:16 disable wifi sucess
+20161214 08:57:36 connect wifi roobo_test1234
+20161214 08:57:58 connect wifi roobo_test1234
+20161214 08:58:19 connect wifi roobo_test1234
+20161214 08:58:41 connect wifi roobo_test1234
+20161214 08:59:03 connect wifi roobo_test1234
+20161214 08:59:24 connect wifi roobo_test1234
+20161214 08:59:46 connect wifi fail
+20161214 09:00:19 download size: 144563503 , total size: 289381775
+20161214 09:00:19 remove wifi conenct
+20161214 09:00:19 remove wifi sucess
+20161214 09:00:24 svc disable wifi conenct
+20161214 09:00:31 disable wifi sucess
+20161214 09:00:51 connect wifi roobo_test1234
+20161214 09:01:13 connect wifi roobo_test1234
+20161214 09:01:34 connect wifi roobo_test1234
+20161214 09:01:56 connect wifi roobo_test1234
+20161214 09:02:18 connect wifi roobo_test1234
+20161214 09:02:39 connect wifi roobo_test1234
+20161214 09:03:01 connect wifi fail
+20161214 09:03:34 download size: 144563503 , total size: 289381775
+20161214 09:03:34 remove wifi conenct
+20161214 09:03:34 remove wifi sucess
+20161214 09:03:39 svc disable wifi conenct
+20161214 09:03:46 disable wifi sucess
+20161214 09:04:06 connect wifi roobo_test1234
+20161214 09:04:28 connect wifi roobo_test1234
+20161214 09:04:49 connect wifi roobo_test1234
+20161214 09:05:11 connect wifi roobo_test1234
+20161214 09:05:32 connect wifi roobo_test1234
+20161214 09:05:54 connect wifi roobo_test1234
+20161214 09:06:15 connect wifi fail
+20161214 09:06:49 download size: 144563503 , total size: 289381775
+20161214 09:06:49 remove wifi conenct
+20161214 09:06:49 remove wifi sucess
+20161214 09:06:54 svc disable wifi conenct
+20161214 09:07:00 disable wifi sucess
+20161214 09:07:20 connect wifi roobo_test1234
+20161214 09:07:42 connect wifi roobo_test1234
+20161214 09:08:04 connect wifi roobo_test1234
+20161214 09:08:25 connect wifi roobo_test1234
+20161214 09:08:47 connect wifi roobo_test1234
+20161214 09:09:09 connect wifi roobo_test1234
+20161214 09:09:30 connect wifi fail
+20161214 09:10:03 download size: 144563503 , total size: 289381775
+20161214 09:10:03 remove wifi conenct
+20161214 09:10:04 remove wifi sucess
+20161214 09:10:09 svc disable wifi conenct
+20161214 09:10:15 disable wifi sucess
+20161214 09:10:35 connect wifi roobo_test1234
+20161214 09:10:57 connect wifi roobo_test1234
+20161214 09:11:19 connect wifi roobo_test1234
+20161214 09:11:40 connect wifi roobo_test1234
+20161214 09:12:02 connect wifi roobo_test1234
+20161214 09:12:23 connect wifi roobo_test1234
+20161214 09:12:45 connect wifi fail
+20161214 09:13:18 download size: 144563503 , total size: 289381775
+20161214 09:13:18 remove wifi conenct
+20161214 09:13:18 remove wifi sucess
+20161214 09:13:23 svc disable wifi conenct
+20161214 09:13:30 disable wifi sucess
+20161214 09:13:50 connect wifi roobo_test1234
+20161214 09:14:11 connect wifi roobo_test1234
+20161214 09:14:33 connect wifi roobo_test1234
+20161214 09:14:54 connect wifi roobo_test1234
+20161214 09:15:16 connect wifi roobo_test1234
+20161214 09:15:38 connect wifi roobo_test1234
+20161214 09:15:59 connect wifi fail
+20161214 09:16:32 download size: 144563503 , total size: 289381775
+20161214 09:16:32 remove wifi conenct
+20161214 09:16:33 remove wifi sucess
+20161214 09:16:38 svc disable wifi conenct
+20161214 09:16:44 disable wifi sucess
+20161214 09:17:04 connect wifi roobo_test1234
+20161214 09:17:26 connect wifi roobo_test1234
+20161214 09:17:48 connect wifi roobo_test1234
+20161214 09:18:09 connect wifi roobo_test1234
+20161214 09:18:31 connect wifi roobo_test1234
+20161214 09:18:52 connect wifi roobo_test1234
+20161214 09:19:14 connect wifi fail
+20161214 09:19:47 download size: 144563503 , total size: 289381775
+20161214 09:19:47 remove wifi conenct
+20161214 09:19:47 remove wifi sucess
+20161214 09:19:52 svc disable wifi conenct
+20161214 09:19:59 disable wifi sucess
+20161214 09:20:19 connect wifi roobo_test1234
+20161214 09:20:41 connect wifi roobo_test1234
+20161214 09:21:02 connect wifi roobo_test1234
+20161214 09:21:24 connect wifi roobo_test1234
+20161214 09:21:45 connect wifi roobo_test1234
+20161214 09:22:07 connect wifi roobo_test1234
+20161214 09:22:29 connect wifi fail
+20161214 09:23:02 download size: 144563503 , total size: 289381775
+20161214 09:23:02 remove wifi conenct
+20161214 09:23:02 remove wifi sucess
+20161214 09:23:07 svc disable wifi conenct
+20161214 09:23:13 disable wifi sucess
+20161214 09:23:34 connect wifi roobo_test1234
+20161214 09:23:55 connect wifi roobo_test1234
+20161214 09:24:17 connect wifi roobo_test1234
+20161214 09:24:38 connect wifi roobo_test1234
+20161214 09:25:00 connect wifi roobo_test1234
+20161214 09:25:22 connect wifi roobo_test1234
+20161214 09:25:43 connect wifi fail
+20161214 09:26:17 download size: 144563503 , total size: 289381775
+20161214 09:26:17 remove wifi conenct
+20161214 09:26:17 remove wifi sucess
+20161214 09:26:22 svc disable wifi conenct
+20161214 09:26:28 disable wifi sucess
+20161214 09:26:48 connect wifi roobo_test1234
+20161214 09:27:11 connect wifi roobo_test1234
+20161214 09:27:33 connect wifi roobo_test1234
+20161214 09:27:54 connect wifi roobo_test1234
+20161214 09:28:16 connect wifi roobo_test1234
+20161214 09:28:37 connect wifi roobo_test1234
+20161214 09:28:59 connect wifi fail
+20161214 09:29:32 download size: 205751273 , total size: 289381775
+20161214 09:29:42 download size: 221540352 , total size: 289381775
+20161214 09:29:52 download size: 238220529 , total size: 289381775
+20161214 09:30:03 download size: 258374121 , total size: 289381775
+20161214 09:30:13 download size: 276256161 , total size: 289381775
+20161214 09:30:23 download size: 289381775 , total size: 289381775
+20161214 09:31:53 device not upgrade...
+20161214 09:31:53 may be md5 check fail
+20161214 09:31:53 reboot device and sleep 20s
+20161214 09:32:14 adb connect sucess
+20161214 09:32:14 =================== testtimes : 31 ===================
+20161214 09:32:44 already connect wifi
+20161214 09:33:18 download size: 20569987 , total size: 289381775
+20161214 09:33:18 reboot device and sleep 20s
+20161214 09:33:56 adb connect sucess
+20161214 09:34:26 already connect wifi
+20161214 09:34:54 download size: 69283862 , total size: 289381775
+20161214 09:34:54 reboot device and sleep 20s
+20161214 09:35:23 adb connect sucess
+20161214 09:35:53 already connect wifi
+20161214 09:36:21 download size: 112836841 , total size: 289381775
+20161214 09:36:21 remove wifi conenct
+20161214 09:36:22 remove wifi sucess
+20161214 09:36:27 svc disable wifi conenct
+20161214 09:36:35 disable wifi sucess
+20161214 09:36:55 connect wifi roobo_test1234
+20161214 09:37:16 connect wifi sucess
+20161214 09:37:51 download size: 197216123 , total size: 289381775
+20161214 09:37:51 remove wifi conenct
+20161214 09:37:52 remove wifi sucess
+20161214 09:37:57 svc disable wifi conenct
+20161214 09:38:04 disable wifi sucess
+20161214 09:38:24 connect wifi roobo_test1234
+20161214 09:38:46 connect wifi sucess
+20161214 09:39:19 download size: 265630323 , total size: 289381775
+20161214 09:39:29 download size: 281790347 , total size: 289381775
+20161214 09:39:39 download size: 289381775 , total size: 289381775
+20161214 09:41:09 device start upgrade...
+20161214 09:43:36 adb connect sucess
+20161214 09:43:37 rom update success
+
+20161214 09:43:37 =================== testtimes : 32 ===================
+20161214 09:44:07 already connect wifi
+20161214 09:44:10 not start download

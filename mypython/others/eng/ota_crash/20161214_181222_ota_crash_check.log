@@ -1,0 +1,37 @@
+20161214 18:12:22 already connect wifi
+20161214 18:12:52 =================== testtimes : 1 ===================
+20161214 18:13:08 download size: 21705219 , total size: 289382033
+20161214 18:13:08 reboot device and sleep 20s
+20161214 18:13:35 adb connect sucess
+20161214 18:14:06 connect wifi roobo_test1234
+20161214 18:14:27 connect wifi sucess
+20161214 18:14:55 download size: 78859662 , total size: 289382033
+20161214 18:14:55 reboot device and sleep 20s
+20161214 18:15:23 adb connect sucess
+20161214 18:15:53 already connect wifi
+20161214 18:16:21 download size: 123252833 , total size: 289382033
+20161214 18:16:21 remove wifi conenct
+20161214 18:16:23 remove wifi sucess
+20161214 18:16:26 svc disable wifi conenct
+20161214 18:16:31 disable wifi sucess
+20161214 18:16:34 already enable wifi sucess
+20161214 18:16:54 connect wifi roobo_test1234
+20161214 18:17:16 connect wifi sucess
+20161214 18:17:49 download size: 186378859 , total size: 289382033
+20161214 18:17:49 remove wifi conenct
+20161214 18:17:49 remove wifi sucess
+20161214 18:17:52 svc disable wifi conenct
+20161214 18:17:59 disable wifi sucess
+20161214 18:18:02 already enable wifi sucess
+20161214 18:18:22 connect wifi roobo_test1234
+20161214 18:18:44 connect wifi sucess
+20161214 18:19:19 download size: 246951550 , total size: 289382033
+20161214 18:19:24 download size: 254172222 , total size: 289382033
+20161214 18:19:29 download size: 261884990 , total size: 289382033
+20161214 18:19:34 download size: 267422782 , total size: 289382033
+20161214 18:19:40 download size: 272413766 , total size: 289382033
+20161214 18:19:45 download size: 280186518 , total size: 289382033
+20161214 18:19:50 download size: 286287950 , total size: 289382033
+20161214 18:19:55 download size: 289382033 , total size: 289382033
+20161214 18:20:14 fdff8e3f25acdfc47f55e22627f969d0  /sdcard/Download/update-2122e53a-0db2-41e1-9.zip
+20161214 18:20:14 default md5 is: FDFF8E3F25ACDFC47F55E22627F969D0 , download file md5 is: fdff8e3f25acdfc47f55e22627f969d0

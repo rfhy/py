@@ -1,0 +1,58 @@
+20161213 15:29:06 already connect wifi
+20161213 15:29:36 =================== testtimes : 1 ===================
+20161213 15:29:39 download size: 100683795 , total size: 289381775
+20161213 15:29:39 remove wifi conenct
+20161213 15:29:40 remove wifi sucess
+20161213 15:29:45 svc disable wifi conenct
+20161213 15:29:52 disable wifi sucess
+20161213 15:30:13 connect wifi roobo_test1234
+20161213 15:30:34 connect wifi sucess
+20161213 15:31:07 download size: 173103459 , total size: 289381775
+20161213 15:31:07 remove wifi conenct
+20161213 15:31:08 remove wifi sucess
+20161213 15:31:13 svc disable wifi conenct
+20161213 15:31:20 disable wifi sucess
+20161213 15:31:40 connect wifi roobo_test1234
+20161213 15:32:02 connect wifi sucess
+20161213 15:32:35 download size: 247018781 , total size: 289381775
+20161213 15:32:45 download size: 257653837 , total size: 289381775
+20161213 15:32:55 download size: 272485453 , total size: 289381775
+20161213 15:33:05 download size: 285562517 , total size: 289381775
+20161213 15:33:16 download size: 289381775 , total size: 289381775
+20161213 15:34:46 device start upgrade...
+20161213 15:36:51 adb connect sucess
+20161213 15:36:51 =================== testtimes : 7 ===================
+20161213 15:37:21 already connect wifi
+20161213 15:37:24 not start download
+20161213 15:37:32 not start download
+20161213 15:37:41 not start download
+20161213 15:37:52 download size: 20870587 , total size: 289381775
+20161213 15:37:52 reboot device and sleep 20s
+20161213 15:38:39 adb connect sucess
+20161213 15:39:09 already connect wifi
+20161213 15:39:37 download size: 43045331 , total size: 289381775
+20161213 15:39:37 reboot device and sleep 20s
+20161213 15:40:54 adb connect sucess
+20161213 15:41:24 already connect wifi
+20161213 15:41:53 download size: 173736458 , total size: 289381775
+20161213 15:41:53 remove wifi conenct
+20161213 15:41:53 remove wifi sucess
+20161213 15:41:58 svc disable wifi conenct
+20161213 15:42:08 disable wifi sucess
+20161213 15:42:28 connect wifi roobo_test1234
+20161213 15:42:50 connect wifi sucess
+20161213 15:43:23 download size: 201522708 , total size: 289381775
+20161213 15:43:34 download size: 204453460 , total size: 289381775
+20161213 15:43:44 download size: 204608031 , total size: 289381775
+20161213 15:43:54 download size: 204759706 , total size: 289381775
+20161213 15:44:04 download size: 209673642 , total size: 289381775
+20161213 15:44:14 download size: 216989514 , total size: 289381775
+20161213 15:44:24 download size: 221749090 , total size: 289381775
+20161213 15:44:34 download size: 224626266 , total size: 289381775
+20161213 15:44:45 download size: 224843466 , total size: 289381775
+20161213 15:44:55 download size: 224843466 , total size: 289381775
+20161213 15:45:05 download size: 224882197 , total size: 289381775
+20161213 15:45:15 download size: 228395045 , total size: 289381775
+20161213 15:45:25 download size: 232278581 , total size: 289381775
+20161213 15:45:35 download size: 235480109 , total size: 289381775
+20161213 15:45:45 download size: 236337325 , total size: 289381775

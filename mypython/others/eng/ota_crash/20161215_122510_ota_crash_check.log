@@ -1,0 +1,50 @@
+20161215 12:25:10 connect wifi roobo_test1234
+20161215 12:25:31 connect wifi sucess
+20161215 12:26:01 =================== testtimes : 1 ===================
+20161215 12:26:11 download size: 23887739 , total size: 289382033
+20161215 12:26:11 reboot device and sleep 20s
+20161215 12:26:38 adb connect sucess
+20161215 12:27:08 already connect wifi
+20161215 12:27:36 download size: 62703870 , total size: 289382033
+20161215 12:27:36 reboot device and sleep 20s
+20161215 12:27:57 adb connect sucess
+20161215 12:28:27 already connect wifi
+20161215 12:28:55 download size: 97291881 , total size: 289382033
+20161215 12:28:55 reboot device and sleep 20s
+20161215 12:29:16 adb connect sucess
+20161215 12:29:46 already connect wifi
+20161215 12:30:14 download size: 129318636 , total size: 289382033
+20161215 12:30:14 remove wifi conenct
+20161215 12:30:14 remove wifi sucess
+20161215 12:30:17 svc disable wifi conenct
+20161215 12:30:22 disable wifi sucess
+20161215 12:30:28 already enable wifi
+20161215 12:30:48 connect wifi roobo_test1234
+20161215 12:31:09 connect wifi sucess
+20161215 12:31:42 download size: 188644854 , total size: 289382033
+20161215 12:31:42 remove wifi conenct
+20161215 12:31:43 remove wifi sucess
+20161215 12:31:46 svc disable wifi conenct
+20161215 12:31:50 disable wifi sucess
+20161215 12:31:57 already enable wifi
+20161215 12:32:17 connect wifi roobo_test1234
+20161215 12:32:38 connect wifi sucess
+20161215 12:33:11 download size: 194980830 , total size: 289382033
+20161215 12:33:11 remove wifi conenct
+20161215 12:33:11 remove wifi sucess
+20161215 12:33:14 svc disable wifi conenct
+20161215 12:33:19 disable wifi sucess
+20161215 12:33:25 already enable wifi
+20161215 12:33:45 connect wifi roobo_test1234
+20161215 12:34:07 connect wifi sucess
+20161215 12:34:40 download size: 248666433 , total size: 289382033
+20161215 12:34:45 download size: 255640977 , total size: 289382033
+20161215 12:34:50 download size: 260986097 , total size: 289382033
+20161215 12:34:55 download size: 268043649 , total size: 289382033
+20161215 12:35:00 download size: 276167369 , total size: 289382033
+20161215 12:35:05 download size: 281172585 , total size: 289382033
+20161215 12:35:10 download size: 289382033 , total size: 289382033
+20161215 12:35:31 6e9994cf1427826d72919c75fe86a103  /sdcard/Download/update-423b1a76-0f61-4873-b.zip
+20161215 12:35:31 default md5 is: FDFF8E3F25ACDFC47F55E22627F969D0 , download file md5 is: 6e9994cf1427826d72919c75fe86a103
+20161215 12:37:01 device not upgrade...
+20161215 12:37:01 md5 is fail

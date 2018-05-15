@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Conditions sn="101100000011101A" phonenum="18310609887" passwd="123456" pid="ps:62828a1e8eee7af9eff219a223bdc031">
+
+    <task name="pudding1s"  branch="Pudding2.0" buildnum="0" url="http://jenkins.365jiating.com:8080/job" />
+	<task name="puddingve" branch="VoiceEngin_Voice" buildnum="0" url="http://jenkins.365jiating.com:8080/job" />
+	<file >
+		<doc >D:/doc/oldnumber.conf</doc>
+		<build >D:/build/</build >
+		<server>D:/www/report/Pudding1sreport/</server>
+		<pcm>D:/pcm/</pcm>
+		<memoryscript>D:\memoryscript</memoryscript>
+		<report>http://172.17.242.19:80/report/Pudding1sreport/</report>
+		<host>http://pd1s.roobo.net</host>
+	</file>
+	
+        
+</Conditions>

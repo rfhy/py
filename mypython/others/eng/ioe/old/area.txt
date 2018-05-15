@@ -1,0 +1,2 @@
+01-07 11:15:40.287 D/roobosmart( 5773):  head[1-0] x:448, y:212, width:141, height:141, area:3 
+01-07 11:15:45.397 D/roobosmart( 5773):  head[1-0] x:618, y:24, width:100, height:100, area:3 

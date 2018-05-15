@@ -1,0 +1,118 @@
+#encoding: utf-8
+import urllib2
+import urllib
+import cookielib
+import json
+import os
+import sys
+import string
+import time
+
+# Get new build number
+Uri = "http://172.16.244.143:8080/job/pudding2.0/lastSuccessfulBuild/buildNumber";
+reqs = urllib2.Request(Uri)
+ress = urllib2.urlopen(reqs)
+stringnumber = ress.read()
+newnumber = int(stringnumber)
+print "newnumber", newnumber
+
+
+#Get old build number
+f = open("d:\\doc\oldnumber.txt","r")
+lines =f.readlines()
+old = [int(i) for i in lines]
+oldnumber=old[0]
+print "oldnumber",oldnumber
+
+#check new build status
+jsonurl="http://172.16.244.143:8080/job/pudding2.0/lastSuccessfulBuild/api/json?depth=1"
+reqs = urllib2.Request(jsonurl)
+ress = urllib2.urlopen(reqs)
+try:
+       response = ress.read();
+       if 'SUCCESS' in response:
+                print 'New build status is successful';
+                pass;
+       else:
+                print 'New build status is failed';
+                exit(1);
+
+except urllib2.HTTPError,e:
+       print 'error resultcode:',e.code;
+       print 'error msg:',(e.read().decode('utf-8'));
+
+#compare with new build number and old build number
+if (newnumber > oldnumber):
+	print newnumber, ">", oldnumber
+	print "Download New APK Package"
+	dir ="mkdir \"../build/" + stringnumber + "\""
+	print "dir",dir
+	os.system(dir)
+	print "Create report mulu"
+	reportpath="mkdir \"../www/report/Pudding1sreport/" + stringnumber + "\""
+	print "reportpath",reportpath
+	os.system(reportpath)
+	jsonurl="http://172.16.244.143:8080/job/pudding2.0/lastSuccessfulBuild/api/json?depth=1"
+	reqs = urllib2.Request(jsonurl)
+	ress = urllib2.urlopen(reqs)
+	response = ress.read()
+	sessionlist = []
+	sessionlist = response.split(',')
+	strname = "apk"
+	strname1 = "relativePath"
+	templist = []
+	myuserid = ''
+	for i in range(0,len(sessionlist)):
+		if strname in sessionlist[i] and strname1 in sessionlist[i]:
+			templist= sessionlist[i].split(':')
+			apkpath =templist[1]
+			apkpath = apkpath.strip('\"')
+			apkpath = apkpath.strip('\"}]')
+			downloadurl="http://172.16.244.143:8080/job/pudding2.0/lastSuccessfulBuild/artifact/"
+			test = downloadurl + apkpath
+			testline = "curl -O " + test
+			os.system(testline)
+			apk="mv *online*.apk ../build/" + stringnumber
+			os.system(apk)
+			os.system("rm -fr *.apk")
+			
+else:
+		print newnumber, "<", oldnumber
+		print "Wait for 30 mins"
+		sys.exit(1)
+	
+rebuidnumber = "echo " + stringnumber + " > ../doc/oldnumber.txt"
+print "Modify build number", rebuidnumber
+os.system(rebuidnumber)
+
+path= "D://build/" + stringnumber
+os.chdir(path)
+listfile=os.listdir(os.getcwd())
+apk0 = "adb install -r " + listfile[0]
+print apk0
+apk1 = "adb install -r " + listfile[1]
+print apk1
+apk2 = "adb install -r " + listfile[2]
+print apk2
+apk3 = "adb install -r " + listfile[3]
+print apk3
+apk4 = "adb install -r " + listfile[4]
+print apk4
+os.system(apk0)
+time.sleep(60)
+os.system(apk1)
+time.sleep(60)
+os.system(apk2)
+time.sleep(60)
+os.system(apk3)
+time.sleep(60)
+os.system(apk4)
+time.sleep(120)
+os.system("adb devices")
+
+
+
+
+
+
+	  

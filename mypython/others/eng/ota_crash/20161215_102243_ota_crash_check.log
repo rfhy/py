@@ -1,0 +1,17 @@
+20161215 10:22:44 already connect wifi
+20161215 10:23:14 =================== testtimes : 1 ===================
+20161215 10:23:17 download size: 289382033 , total size: 289382033
+20161215 10:23:33 8e5bcc8cfd12b0e1381d1cbc6bd72a06  /sdcard/Download/update-0760d375-6092-47d9-b.zip
+20161215 10:23:33 default md5 is: FDFF8E3F25ACDFC47F55E22627F969D0 , download file md5 is: 8e5bcc8cfd12b0e1381d1cbc6bd72a06
+20161215 10:25:03 device not upgrade...
+20161215 10:25:03 md5 is fail
+20161215 10:25:03 may be battery is low
+
+20161215 10:25:03 reboot device and sleep 20s
+20161215 10:25:24 adb connect sucess
+20161215 10:25:24 =================== testtimes : 2 ===================
+20161215 10:25:54 already connect wifi
+20161215 10:26:27 download size: 289382033 , total size: 289382033
+20161215 10:27:00 8e5bcc8cfd12b0e1381d1cbc6bd72a06  /sdcard/Download/update-0760d375-6092-47d9-b.zip
+089b47b0cb9a4d64cf77ba01ea956d29  /sdcard/Download/update-60350bd6-a7be-43c8-a.zip
+20161215 10:27:00 default md5 is: FDFF8E3F25ACDFC47F55E22627F969D0 , download file md5 is: 8e5bcc8cfd12b0e1381d1cbc6bd72a06

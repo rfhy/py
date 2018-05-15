@@ -1,0 +1,7 @@
+2017-06-06 15:36:02 com.roobo.ioe.smartac.gree:  44%    /system/bin/mm-qcamera-daemon:  9%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  44%    System:  26%    total cpu is : 70%
+2017-06-06 15:36:07 com.roobo.ioe.smartac.gree:  46%    /system/bin/mm-qcamera-daemon:  9%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  47%    System:  27%    total cpu is : 74%
+2017-06-06 15:36:12 com.roobo.ioe.smartac.gree:  48%    /system/bin/mm-qcamera-daemon:  9%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  42%    System:  31%    total cpu is : 73%
+2017-06-06 15:36:17 com.roobo.ioe.smartac.gree:  42%    /system/bin/mm-qcamera-daemon:  9%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  54%    System:  28%    total cpu is : 82%
+2017-06-06 15:36:22 com.roobo.ioe.smartac.gree:  45%    /system/bin/mm-qcamera-daemon:  9%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  38%    System:  29%    total cpu is : 67%
+2017-06-06 15:36:28 com.roobo.ioe.smartac.gree:  48%    /system/bin/mm-qcamera-daemon:  9%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  5%    User:  42%    System:  31%    total cpu is : 73%
+2017-06-06 15:36:33 com.roobo.ioe.smartac.gree:  40%    /system/bin/mm-qcamera-daemon:  9%    /system/bin/mediaserver:  4%    /system/bin/surfaceflinger:  4%    User:  39%    System:  26%    total cpu is : 65%

@@ -1,0 +1,133 @@
+20161229 17:20:27 adb connect sucess
+20161229 17:20:27 ====================== testtimes: 1 ====================
+
+20161229 17:20:27 ********** reset to default status **********
+20161229 17:20:30 adb connect sucess
+20161229 17:20:30 root succeeded
+20161229 17:20:33 remount succeeded
+20161229 17:20:35 no mvcore.ap and already have CoreServer.apk
+20161229 17:20:35 no bot.ap and already have Boot.apk
+20161229 17:20:35 remove wifi conenct
+20161229 17:20:35 remove wifi sucess
+20161229 17:20:35 ********** reboot without wifi **********
+20161229 17:20:35 reboot device and sleep 20s
+20161229 17:20:58 adb connect sucess
+20161229 17:22:17 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:22:17 find ota process
+20161229 17:22:17 coreserver start ota
+20161229 17:22:17 pass
+
+20161229 17:22:17 ********** no wifi , kill ota **********
+20161229 17:22:18 com.android.ota pid is: 1084
+20161229 17:22:18 kill ota
+20161229 17:23:37 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:23:37 find ota process
+20161229 17:23:37 can't find which process start ota in log
+20161229 17:23:37 fail
+20161229 17:23:37 mv /sdcard/logcat.txt to /sdcard/20161229_172218_logcat.txt
+
+20161229 17:23:37 ********** connect wifi **********
+20161229 17:23:45 connect wifi roobo_test1234
+20161229 17:24:07 connect wifi sucess
+20161229 17:25:37 find ota process
+20161229 17:25:37 can't find which process start ota in log
+20161229 17:25:37 pass
+
+20161229 17:25:37 ********** after connect wifi , kill ota **********
+20161229 17:25:37 com.android.ota pid is: 1731
+20161229 17:25:37 kill ota
+20161229 17:26:54 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:26:54 find ota process
+20161229 17:26:54 can't find which process start ota in log
+20161229 17:26:54 fail
+20161229 17:26:54 mv /sdcard/logcat.txt to /sdcard/20161229_172537_logcat.txt
+
+20161229 17:26:54 ********** reboot with wifi connected **********
+20161229 17:26:54 reboot device and sleep 20s
+20161229 17:27:18 adb connect sucess
+20161229 17:28:45 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:28:45 find ota process
+20161229 17:28:45 coreserver start ota
+20161229 17:28:45 pass
+
+20161229 17:28:45 ====================== testtimes: 2 ====================
+
+20161229 17:28:45 ********** reset to default status **********
+20161229 17:28:48 adb connect sucess
+20161229 17:28:48 root succeeded
+20161229 17:28:50 remount succeeded
+20161229 17:28:52 no mvcore.ap and already have CoreServer.apk
+20161229 17:28:52 no bot.ap and already have Boot.apk
+20161229 17:28:52 remove wifi conenct
+20161229 17:28:52 remove wifi sucess
+20161229 17:28:52 ********** reboot without wifi **********
+20161229 17:28:52 reboot device and sleep 20s
+20161229 17:29:16 adb connect sucess
+20161229 17:30:42 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:30:42 find ota process
+20161229 17:30:42 coreserver start ota
+20161229 17:30:42 pass
+
+20161229 17:30:42 ********** no wifi , kill ota **********
+20161229 17:30:43 com.android.ota pid is: 1088
+20161229 17:30:43 kill ota
+20161229 17:32:10 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:32:10 find ota process
+20161229 17:32:10 can't find which process start ota in log
+20161229 17:32:10 fail
+20161229 17:32:10 mv /sdcard/logcat.txt to /sdcard/20161229_173043_logcat.txt
+
+20161229 17:32:10 ********** connect wifi **********
+20161229 17:32:18 connect wifi roobo_test1234
+20161229 17:32:40 connect wifi sucess
+20161229 17:34:39 find ota process
+20161229 17:34:39 can't find which process start ota in log
+20161229 17:34:39 pass
+
+20161229 17:34:39 ********** after connect wifi , kill ota **********
+20161229 17:34:39 com.android.ota pid is: 1633
+20161229 17:34:39 kill ota
+20161229 17:36:05 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:36:05 find ota process
+20161229 17:36:05 can't find which process start ota in log
+20161229 17:36:05 fail
+20161229 17:36:05 mv /sdcard/logcat.txt to /sdcard/20161229_173439_logcat.txt
+
+20161229 17:36:05 ********** reboot with wifi connected **********
+20161229 17:36:05 reboot device and sleep 20s
+20161229 17:36:30 adb connect sucess
+20161229 17:37:57 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:37:57 find ota process
+20161229 17:37:57 coreserver start ota
+20161229 17:37:57 pass
+
+20161229 17:37:57 ====================== testtimes: 3 ====================
+
+20161229 17:37:57 ********** reset to default status **********
+20161229 17:38:00 adb connect sucess
+20161229 17:38:00 root succeeded
+20161229 17:38:02 remount succeeded
+20161229 17:38:04 no mvcore.ap and already have CoreServer.apk
+20161229 17:38:04 no bot.ap and already have Boot.apk
+20161229 17:38:04 remove wifi conenct
+20161229 17:38:05 remove wifi sucess
+20161229 17:38:05 ********** reboot without wifi **********
+20161229 17:38:05 reboot device and sleep 20s
+20161229 17:38:29 adb connect sucess
+20161229 17:39:56 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:39:56 find ota process
+20161229 17:39:56 coreserver start ota
+20161229 17:39:56 pass
+
+20161229 17:39:56 ********** no wifi , kill ota **********
+20161229 17:39:56 com.android.ota pid is: 1079
+20161229 17:39:56 kill ota
+20161229 17:41:28 Start proc com.android.ota for service com.android.ota/.PullUpService
+20161229 17:41:28 find ota process
+20161229 17:41:28 can't find which process start ota in log
+20161229 17:41:28 fail
+20161229 17:41:28 mv /sdcard/logcat.txt to /sdcard/20161229_173956_logcat.txt
+
+20161229 17:41:28 ********** connect wifi **********
+20161229 17:41:36 connect wifi roobo_test1234
+20161229 17:41:59 connect wifi sucess

@@ -1,0 +1,8 @@
+2017-05-31 11:51:54 com.roobo.ioe.smartac.gree:  38%    /system/bin/mm-qcamera-daemon:  8%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  35%    System:  30%    total cpu is : 65%
+2017-05-31 11:52:00 com.roobo.ioe.smartac.gree:  38%    /system/bin/mm-qcamera-daemon:  8%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  5%    User:  56%    System:  33%    total cpu is : 89%
+2017-05-31 11:52:05 com.roobo.ioe.smartac.gree:  38%    /system/bin/mm-qcamera-daemon:  8%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  43%    System:  30%    total cpu is : 73%
+2017-05-31 11:52:11 com.roobo.ioe.smartac.gree:  40%    /system/bin/mm-qcamera-daemon:  7%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  36%    System:  27%    total cpu is : 63%
+com.roobo.ioe.smartac.gree:  error    /system/bin/mm-qcamera-daemon:  11%    /system/bin/mediaserver:  5%    /system/bin/surfaceflinger:  4%    User:  45%    System:  42%    total cpu is : 87%
+com.roobo.ioe.smartac.gree:  error    /system/bin/mm-qcamera-daemon:  0%    /system/bin/mediaserver:  0%    /system/bin/surfaceflinger:  2%    User:  26%    System:  11%    total cpu is : 37%
+com.roobo.ioe.smartac.gree:  error    /system/bin/mm-qcamera-daemon:  0%    /system/bin/mediaserver:  0%    /system/bin/surfaceflinger:  0%    User:  2%    System:  3%    total cpu is : 5%
+can't find top files, sleep 10s and then try again.

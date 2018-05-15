@@ -1,0 +1,148 @@
+20161214 14:43:15 already connect wifi
+20161214 14:43:45 =================== testtimes : 1 ===================
+20161214 14:43:48 download size: 98187318 , total size: 289382043
+20161214 14:43:48 reboot device and sleep 20s
+20161214 14:44:14 adb connect sucess
+20161214 14:44:44 already connect wifi
+20161214 14:45:12 download size: 123162969 , total size: 289382043
+20161214 14:45:12 remove wifi conenct
+20161214 14:45:12 remove wifi sucess
+20161214 14:45:15 svc disable wifi conenct
+20161214 14:45:21 disable wifi sucess
+20161214 14:45:24 already enable wifi sucess
+20161214 14:45:44 connect wifi roobo_test1234
+20161214 14:46:06 connect wifi sucess
+20161214 14:46:39 download size: 176303291 , total size: 289382043
+20161214 14:46:39 remove wifi conenct
+20161214 14:46:39 remove wifi sucess
+20161214 14:46:42 svc disable wifi conenct
+20161214 14:46:47 disable wifi sucess
+20161214 14:46:50 already enable wifi sucess
+20161214 14:47:10 connect wifi roobo_test1234
+20161214 14:47:32 connect wifi sucess
+20161214 14:48:05 download size: 230960555 , total size: 289382043
+20161214 14:48:10 download size: 237335643 , total size: 289382043
+20161214 14:48:15 download size: 243509499 , total size: 289382043
+20161214 14:48:20 download size: 249796923 , total size: 289382043
+20161214 14:48:26 download size: 255736123 , total size: 289382043
+20161214 14:48:31 download size: 264577595 , total size: 289382043
+20161214 14:48:36 download size: 270672971 , total size: 289382043
+20161214 14:48:41 download size: 276787187 , total size: 289382043
+20161214 14:48:46 download size: 282241851 , total size: 289382043
+20161214 14:48:51 download size: 288555331 , total size: 289382043
+20161214 14:48:56 download size: 289382043 , total size: 289382043
+20161214 14:49:31 77964e8f74832bc253945fa2c030f882  /sdcard/Download/update-3b5e954e-0055-4c0f-9.zip
+
+20161214 14:51:41 device start upgrade...
+20161214 14:54:18 adb connect sucess
+20161214 14:54:18 rom update success
+
+20161214 14:54:18 =================== testtimes : 2 ===================
+20161214 14:54:48 already connect wifi
+20161214 14:54:52 not start download
+20161214 14:55:00 not start download
+20161214 14:55:08 not start download
+20161214 14:55:28 download size: 21208547 , total size: 289382043
+20161214 14:55:28 reboot device and sleep 20s
+20161214 14:55:54 adb connect sucess
+20161214 14:56:24 already connect wifi
+20161214 14:56:52 download size: 46628299 , total size: 289382043
+20161214 14:56:52 reboot device and sleep 20s
+20161214 14:57:21 adb connect sucess
+20161214 14:57:51 already connect wifi
+20161214 14:58:19 download size: 69620582 , total size: 289382043
+20161214 14:58:19 reboot device and sleep 20s
+20161214 14:58:44 adb connect sucess
+20161214 14:59:14 already connect wifi
+20161214 14:59:43 download size: 91612105 , total size: 289382043
+20161214 14:59:43 reboot device and sleep 20s
+20161214 15:00:08 adb connect sucess
+20161214 15:00:38 already connect wifi
+20161214 15:01:06 download size: 115851820 , total size: 289382043
+20161214 15:01:06 remove wifi conenct
+20161214 15:01:07 remove wifi sucess
+20161214 15:01:10 svc disable wifi conenct
+20161214 15:01:15 disable wifi sucess
+20161214 15:01:18 already enable wifi sucess
+20161214 15:01:38 connect wifi roobo_test1234
+20161214 15:02:00 connect wifi sucess
+20161214 15:02:33 download size: 173498582 , total size: 289382043
+20161214 15:02:33 remove wifi conenct
+20161214 15:02:33 remove wifi sucess
+20161214 15:02:36 svc disable wifi conenct
+20161214 15:02:42 disable wifi sucess
+20161214 15:02:45 already enable wifi sucess
+20161214 15:03:05 connect wifi roobo_test1234
+20161214 15:03:27 connect wifi sucess
+20161214 15:04:01 download size: 227143936 , total size: 289382043
+20161214 15:04:07 download size: 233447424 , total size: 289382043
+20161214 15:04:12 download size: 240169208 , total size: 289382043
+20161214 15:04:17 download size: 246395128 , total size: 289382043
+20161214 15:04:22 download size: 252492384 , total size: 289382043
+20161214 15:04:27 download size: 256469600 , total size: 289382043
+20161214 15:04:33 download size: 261499016 , total size: 289382043
+20161214 15:04:38 download size: 265278240 , total size: 289382043
+20161214 15:04:43 download size: 269064120 , total size: 289382043
+20161214 15:04:48 download size: 271715616 , total size: 289382043
+20161214 15:04:54 download size: 275849216 , total size: 289382043
+20161214 15:04:59 download size: 280672736 , total size: 289382043
+20161214 15:05:04 download size: 287454968 , total size: 289382043
+20161214 15:05:09 download size: 289382043 , total size: 289382043
+20161214 15:05:28 0502eb7532642f6630f2f91443747810  /sdcard/Download/update-9c51b671-4ae2-4061-8.zip
+
+20161214 15:07:15 device not upgrade...
+20161214 15:07:15 default md5 is: 77964E8F74832BC253945FA2C030F882 , download file md5 is : none
+20161214 15:07:15 download file is delete , may be md5 check fail
+
+20161214 15:07:15 reboot device and sleep 20s
+20161214 15:07:36 adb connect sucess
+20161214 15:07:36 =================== testtimes : 3 ===================
+20161214 15:08:06 already connect wifi
+20161214 15:08:48 download size: 20373504 , total size: 289382043
+20161214 15:08:48 reboot device and sleep 20s
+20161214 15:09:09 adb connect sucess
+20161214 15:09:39 already connect wifi
+20161214 15:10:07 download size: 45103238 , total size: 289382043
+20161214 15:10:07 reboot device and sleep 20s
+20161214 15:10:28 adb connect sucess
+20161214 15:10:58 already connect wifi
+20161214 15:11:26 download size: 70529024 , total size: 289382043
+20161214 15:11:26 reboot device and sleep 20s
+20161214 15:11:51 adb connect sucess
+20161214 15:12:22 already connect wifi
+20161214 15:12:50 download size: 91145627 , total size: 289382043
+20161214 15:12:50 reboot device and sleep 20s
+20161214 15:13:10 adb connect sucess
+20161214 15:13:40 already connect wifi
+20161214 15:14:08 download size: 116448670 , total size: 289382043
+20161214 15:14:08 remove wifi conenct
+20161214 15:14:09 remove wifi sucess
+20161214 15:14:12 svc disable wifi conenct
+20161214 15:14:17 disable wifi sucess
+20161214 15:14:20 already enable wifi sucess
+20161214 15:14:40 connect wifi roobo_test1234
+20161214 15:15:02 connect wifi sucess
+20161214 15:15:35 download size: 162387432 , total size: 289382043
+20161214 15:15:35 remove wifi conenct
+20161214 15:15:35 remove wifi sucess
+20161214 15:15:38 svc disable wifi conenct
+20161214 15:15:43 disable wifi sucess
+20161214 15:15:46 already enable wifi sucess
+20161214 15:16:07 connect wifi roobo_test1234
+20161214 15:16:28 connect wifi sucess
+20161214 15:17:01 download size: 209644002 , total size: 289382043
+20161214 15:17:07 download size: 216127970 , total size: 289382043
+20161214 15:17:13 download size: 223128034 , total size: 289382043
+20161214 15:17:18 download size: 229738978 , total size: 289382043
+20161214 15:17:23 download size: 235190754 , total size: 289382043
+20161214 15:17:28 download size: 241986018 , total size: 289382043
+20161214 15:17:34 download size: 248994274 , total size: 289382043
+20161214 15:17:39 download size: 254179810 , total size: 289382043
+20161214 15:17:44 download size: 259086818 , total size: 289382043
+20161214 15:17:49 download size: 266123746 , total size: 289382043
+20161214 15:17:54 download size: 270797282 , total size: 289382043
+20161214 15:17:59 download size: 276719322 , total size: 289382043
+20161214 15:18:05 download size: 282835162 , total size: 289382043
+20161214 15:18:10 download size: 289382043 , total size: 289382043
+20161214 15:18:29 77964e8f74832bc253945fa2c030f882  /sdcard/Download/update-4bb8994b-842f-40bb-8.zip
+

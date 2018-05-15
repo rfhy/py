@@ -1,0 +1,153 @@
+Applications Memory Usage (kB):
+Uptime: 5815676 Realtime: 5815676
+
+Total PSS by process:
+    34234 kB: com.android.systemui (pid 855)
+    31959 kB: system (pid 751)
+    23240 kB: com.example.android.home (pid 1205 / activities)
+    18649 kB: com.alensw.PicFolder (pid 1318)
+    16266 kB: surfaceflinger (pid 272)
+    16000 kB: app_process32 (pid 1648)
+    15921 kB: com.koushikdutta.vysor (pid 1681)
+    11080 kB: mediaserver (pid 291)
+    10160 kB: zygote (pid 320)
+     8763 kB: com.android.inputmethod.latin (pid 960)
+     8099 kB: com.alensw.PicFolder:core (pid 1429)
+     6604 kB: com.roobo.systemupdater (pid 1085)
+     6422 kB: android.process.media (pid 877)
+     6176 kB: com.alensw.PicFolder:service (pid 1356)
+     5848 kB: mm-qcamera-daemon (pid 328)
+     5280 kB: com.android.settings (pid 1239)
+     4430 kB: com.roobo.watchdog (pid 1140)
+     3923 kB: android.process.acore (pid 1282)
+     3736 kB: com.qti.diagservices (pid 1522)
+     1424 kB: wpa_supplicant (pid 1016)
+     1077 kB: logd (pid 267)
+      606 kB: qcom-system-daemon (pid 296)
+      578 kB: keystore (pid 724)
+      577 kB: vold (pid 271)
+      486 kB: /init (pid 1)
+      486 kB: thermal-engine (pid 316)
+      474 kB: sdcard (pid 326)
+      465 kB: netd (pid 287)
+      335 kB: audiod (pid 329)
+      321 kB: dhcpcd (pid 1551)
+      300 kB: dumpsys (pid 28344)
+      285 kB: perfd (pid 1495)
+      270 kB: sh (pid 1643)
+      270 kB: sh (pid 1645)
+      249 kB: adbd (pid 833)
+      245 kB: ptt_socket_app (pid 302)
+      226 kB: daemon (pid 1507)
+      192 kB: ueventd (pid 221)
+      188 kB: healthd (pid 268)
+      172 kB: qseecomd (pid 336)
+      153 kB: lmkd (pid 269)
+      153 kB: mm-pp-daemon (pid 364)
+      132 kB: servicemanager (pid 270)
+      124 kB: sdcard (pid 239)
+      110 kB: sdcard (pid 327)
+       99 kB: vm_bms (pid 367)
+       87 kB: installd (pid 292)
+       74 kB: pm-service (pid 277)
+       70 kB: sh (pid 286)
+       61 kB: mcu_server (pid 318)
+       45 kB: rmt_storage (pid 278)
+       42 kB: wcnss_service (pid 317)
+       38 kB: cnss-daemon (pid 321)
+       29 kB: debuggerd (pid 289)
+       28 kB: qseecomd (pid 276)
+
+Total PSS by OOM adjustment:
+    69825 kB: Native
+               16266 kB: surfaceflinger (pid 272)
+               16000 kB: app_process32 (pid 1648)
+               11080 kB: mediaserver (pid 291)
+               10160 kB: zygote (pid 320)
+                5848 kB: mm-qcamera-daemon (pid 328)
+                1424 kB: wpa_supplicant (pid 1016)
+                1077 kB: logd (pid 267)
+                 606 kB: qcom-system-daemon (pid 296)
+                 578 kB: keystore (pid 724)
+                 577 kB: vold (pid 271)
+                 486 kB: /init (pid 1)
+                 486 kB: thermal-engine (pid 316)
+                 474 kB: sdcard (pid 326)
+                 465 kB: netd (pid 287)
+                 335 kB: audiod (pid 329)
+                 321 kB: dhcpcd (pid 1551)
+                 300 kB: dumpsys (pid 28344)
+                 285 kB: perfd (pid 1495)
+                 270 kB: sh (pid 1643)
+                 270 kB: sh (pid 1645)
+                 249 kB: adbd (pid 833)
+                 245 kB: ptt_socket_app (pid 302)
+                 226 kB: daemon (pid 1507)
+                 192 kB: ueventd (pid 221)
+                 188 kB: healthd (pid 268)
+                 172 kB: qseecomd (pid 336)
+                 153 kB: lmkd (pid 269)
+                 153 kB: mm-pp-daemon (pid 364)
+                 132 kB: servicemanager (pid 270)
+                 124 kB: sdcard (pid 239)
+                 110 kB: sdcard (pid 327)
+                  99 kB: vm_bms (pid 367)
+                  87 kB: installd (pid 292)
+                  74 kB: pm-service (pid 277)
+                  70 kB: sh (pid 286)
+                  61 kB: mcu_server (pid 318)
+                  45 kB: rmt_storage (pid 278)
+                  42 kB: wcnss_service (pid 317)
+                  38 kB: cnss-daemon (pid 321)
+                  29 kB: debuggerd (pid 289)
+                  28 kB: qseecomd (pid 276)
+    31959 kB: System
+               31959 kB: system (pid 751)
+    45268 kB: Persistent
+               34234 kB: com.android.systemui (pid 855)
+                6604 kB: com.roobo.systemupdater (pid 1085)
+                4430 kB: com.roobo.watchdog (pid 1140)
+    23240 kB: Foreground
+               23240 kB: com.example.android.home (pid 1205 / activities)
+    16862 kB: Perceptible
+                8763 kB: com.android.inputmethod.latin (pid 960)
+                8099 kB: com.alensw.PicFolder:core (pid 1429)
+    15921 kB: A Services
+               15921 kB: com.koushikdutta.vysor (pid 1681)
+     9912 kB: B Services
+                6176 kB: com.alensw.PicFolder:service (pid 1356)
+                3736 kB: com.qti.diagservices (pid 1522)
+    34274 kB: Cached
+               18649 kB: com.alensw.PicFolder (pid 1318)
+                6422 kB: android.process.media (pid 877)
+                5280 kB: com.android.settings (pid 1239)
+                3923 kB: android.process.acore (pid 1282)
+
+Total PSS by category:
+    64301 kB: Dalvik
+    37160 kB: Native
+    36327 kB: .so mmap
+    26088 kB: .art mmap
+    19552 kB: EGL mtrack
+    15594 kB: .oat mmap
+    13409 kB: .dex mmap
+    10292 kB: Gfx dev
+     7008 kB: Stack
+     4480 kB: .apk mmap
+     4212 kB: Dalvik Other
+     3627 kB: Other mmap
+     2765 kB: Unknown
+     2039 kB: .ttf mmap
+      284 kB: Ashmem
+      115 kB: Other dev
+        4 kB: Cursor
+        4 kB: .jar mmap
+        0 kB: GL mtrack
+        0 kB: Other mtrack
+
+Total RAM: 958368 kB (status low)
+ Free RAM: 600230 kB (34274 cached pss + 111896 cached kernel + 454060 free)
+ Used RAM: 305883 kB (212987 used pss + 92896 kernel)
+ Lost RAM: 52255 kB
+     ZRAM: 3084 kB physical used for 7920 kB in swap (524284 kB total swap)
+   Tuning: 96 (large 256), oom 174948 kB, restore limit 58316 kB (high-end-gfx)

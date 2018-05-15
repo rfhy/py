@@ -1,0 +1,119 @@
+{
+  "items": [
+    {
+      "key": "time_gesture_openAC",
+      "value": "100",
+      "comment": "手势打开空调时间"
+    },
+    {
+      "key": "time_gesture_closeAC",
+      "value": "100",
+      "comment": "手势关闭空调时间"
+    },
+    {
+      "key": "time_gesture_start",
+      "value": "10",
+      "comment": "手势控制开启时间"
+    },
+    {
+      "key": "time_gesture_auto_close",
+      "value": "30000",
+      "comment": "手势识别自动关闭时间"
+    },
+    {
+      "key": "time_auto_closeAC",
+      "value": "30000",
+      "comment": "空调自动关机时间"
+    },
+    {
+      "key": "time_nobody_energy",
+      "value": "30000",
+      "comment": "在智能送风状态下，检测到无人时，进入无人节能状态时间"
+    },
+    {
+      "key": "time_area_switch",
+      "value": "5000",
+      "comment": "扫风区间切换时间"
+    },
+    {
+      "key": "time_depth_interval",
+      "value": "28800000",
+      "comment": "深度线程唤醒时间"
+    },
+    {
+      "key": "depth_server_host",
+      "value": "http:\/\/pd1s.roobo.net\/mainctrls\/upload",
+      "comment": "深度图上传服务器地址"
+    },
+    {
+      "key": "query_client_state_host",
+      "value": "http:\/\/pd1s.roobo.net\/mainctrls\/settings",
+      "comment": "查询客户端状态服务器地址"
+    },
+    {
+      "key": "area_list",
+      "value": "5, 4, 3, 2, 1",
+      "comment": "空调区间顺序"
+    },
+    {
+      "key": "wind_level_distance_list",
+      "value": "1, 2, 3, 4, 5, 6",
+      "comment": "风力距离映射表，共七级风力，距离(米)小于等于第i位对应值，则风力为等级i，值越大风力越大"
+    },
+    {
+      "key": "wind_level_head_width_list",
+      "value": "128, 180, 250, 330, 420, 512",
+      "comment": "人距离空调远近(头肩宽度)和风力等级表，宽度小于等于第i位对应值时，则风力为i,共七级风，i越大风力越大"
+    },
+    {
+      "key": "wind_level_head_distance_list",
+      "value": "1, 3, 6",
+      "comment": "手势算法库返回的距离值有三档-近(0)中(1)远(2),此表为近中远分别对应的风力值"
+    },
+    {
+      "key": "temp_event_min_interval_time",
+      "value": "150",
+      "comment": "相同温度事件最小时间间隔, 小于这个值的后期事件会被忽略"
+    },
+    {
+      "key": "wind_event_min_interval_time",
+      "value": "250",
+      "comment": "相同风力事件最小时间间隔, 小于这个值的后期事件会被忽略"
+    },
+    {
+      "key": "camera_preview_width",
+      "value": "1280",
+      "comment": "摄像头预览宽度"
+    },
+    {
+      "key": "camera_preview_height",
+      "value": "720",
+      "comment": "摄像头预览高度"
+    },
+    {
+      "key": "image_src",
+      "value": "0",
+      "comment": "图像来源 0-摄像头实时采集 1-指定MP4视频文件"
+    },
+    {
+      "key": "video_dir",
+      "value": "\/mnt\/sdcard\/test\/video",
+      "comment": "视频文件目录，\/mnt\/sdcard\/ 内置sd卡根目录 \/mnt\/extsd\/外置sd卡根目录"
+    },
+    {
+      "key": "loop_back",
+      "value": "1",
+      "comment": "自动化测试时，循环测试次数 0-循环测试不退出 n-测试n次"
+    },
+    {
+      "key": "enable_fault_detect",
+      "value": "0",
+      "comment": "误检使能 0-关闭 1-开启, 开启后，会保存误检的第一张图片到视频文件目录下的yuv目录中"
+    },
+    {
+      "key": "enable_simulate_uart",
+      "value": "1",
+      "comment": "是否打开模拟串口 0-关闭 1-打开，打开后不需要连接空调控制板，使用内部模拟的空调串口回应"
+    }
+  ]
+}

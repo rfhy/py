@@ -1,0 +1,248 @@
+20161214 09:44:20 already connect wifi
+20161214 09:44:50 =================== testtimes : 1 ===================
+20161214 09:44:53 download size: 35398939 , total size: 289381775
+20161214 09:44:53 reboot device and sleep 20s
+20161214 09:45:20 adb connect sucess
+20161214 09:45:50 already connect wifi
+20161214 09:46:18 download size: 67561723 , total size: 289381775
+20161214 09:46:18 reboot device and sleep 20s
+20161214 09:46:48 adb connect sucess
+20161214 09:47:18 already connect wifi
+20161214 09:47:46 download size: 115019776 , total size: 289381775
+20161214 09:47:46 remove wifi conenct
+20161214 09:47:46 remove wifi sucess
+20161214 09:47:49 svc disable wifi conenct
+20161214 09:47:55 disable wifi sucess
+20161214 09:47:58 already enable wifi sucess
+20161214 09:48:18 connect wifi roobo_test1234
+20161214 09:48:40 connect wifi sucess
+20161214 09:49:13 download size: 182652952 , total size: 289381775
+20161214 09:49:13 remove wifi conenct
+20161214 09:49:14 remove wifi sucess
+20161214 09:49:17 svc disable wifi conenct
+20161214 09:49:23 disable wifi sucess
+20161214 09:49:26 already enable wifi sucess
+20161214 09:49:46 connect wifi roobo_test1234
+20161214 09:50:08 connect wifi sucess
+20161214 09:50:41 download size: 237910243 , total size: 289381775
+20161214 09:50:51 download size: 248680419 , total size: 289381775
+20161214 09:51:01 download size: 262509571 , total size: 289381775
+20161214 09:51:11 download size: 271303859 , total size: 289381775
+20161214 09:51:21 download size: 286825731 , total size: 289381775
+20161214 09:51:32 download size: 289381775 , total size: 289381775
+20161214 09:53:02 device not upgrade...
+20161214 09:53:02 may be md5 check fail
+20161214 09:53:02 reboot device and sleep 20s
+20161214 09:53:23 adb connect sucess
+20161214 09:53:23 =================== testtimes : 2 ===================
+20161214 09:53:53 already connect wifi
+20161214 09:54:29 download size: 25623011 , total size: 289381775
+20161214 09:54:29 reboot device and sleep 20s
+20161214 09:55:03 adb connect sucess
+20161214 09:55:33 already connect wifi
+20161214 09:56:01 download size: 59845054 , total size: 289381775
+20161214 09:56:01 reboot device and sleep 20s
+20161214 09:56:23 adb connect sucess
+20161214 09:56:53 already connect wifi
+20161214 09:57:22 download size: 91841073 , total size: 289381775
+20161214 09:57:22 reboot device and sleep 20s
+20161214 09:57:43 adb connect sucess
+20161214 09:58:13 already connect wifi
+20161214 09:58:41 download size: 128446460 , total size: 289381775
+20161214 09:58:41 remove wifi conenct
+20161214 09:58:42 remove wifi sucess
+20161214 09:58:45 svc disable wifi conenct
+20161214 09:58:50 disable wifi sucess
+20161214 09:58:53 already enable wifi sucess
+20161214 09:59:14 connect wifi roobo_test1234
+20161214 09:59:35 connect wifi sucess
+20161214 10:00:09 download size: 184879166 , total size: 289381775
+20161214 10:00:09 remove wifi conenct
+20161214 10:00:09 remove wifi sucess
+20161214 10:00:12 svc disable wifi conenct
+20161214 10:00:19 disable wifi sucess
+20161214 10:00:22 already enable wifi sucess
+20161214 10:00:42 connect wifi roobo_test1234
+20161214 10:01:03 connect wifi sucess
+20161214 10:01:37 download size: 237405193 , total size: 289381775
+20161214 10:01:47 download size: 245984249 , total size: 289381775
+20161214 10:01:57 download size: 259869689 , total size: 289381775
+20161214 10:02:07 download size: 271305489 , total size: 289381775
+20161214 10:02:17 download size: 284097297 , total size: 289381775
+20161214 10:02:27 download size: 289381775 , total size: 289381775
+20161214 10:03:58 device start upgrade...
+20161214 10:06:11 adb connect sucess
+20161214 10:06:11 rom update success
+
+20161214 10:06:11 =================== testtimes : 3 ===================
+20161214 10:06:41 already connect wifi
+20161214 10:06:44 not start download
+20161214 10:06:53 not start download
+20161214 10:07:13 download size: 25275179 , total size: 289381775
+20161214 10:07:13 reboot device and sleep 20s
+20161214 10:07:56 adb connect sucess
+20161214 10:08:26 already connect wifi
+20161214 10:08:54 download size: 82393310 , total size: 289381775
+20161214 10:08:54 reboot device and sleep 20s
+20161214 10:09:22 adb connect sucess
+20161214 10:09:52 already connect wifi
+20161214 10:10:20 download size: 120093505 , total size: 289381775
+20161214 10:10:20 remove wifi conenct
+20161214 10:10:21 remove wifi sucess
+20161214 10:10:24 svc disable wifi conenct
+20161214 10:10:29 disable wifi sucess
+20161214 10:10:32 already enable wifi sucess
+20161214 10:10:52 connect wifi roobo_test1234
+20161214 10:11:14 connect wifi sucess
+20161214 10:11:47 download size: 150189811 , total size: 289381775
+20161214 10:11:47 remove wifi conenct
+20161214 10:11:47 remove wifi sucess
+20161214 10:11:50 svc disable wifi conenct
+20161214 10:11:55 disable wifi sucess
+20161214 10:11:58 already enable wifi sucess
+20161214 10:12:18 connect wifi roobo_test1234
+20161214 10:12:40 connect wifi sucess
+20161214 10:13:13 download size: 207081485 , total size: 289381775
+20161214 10:13:23 download size: 218299245 , total size: 289381775
+20161214 10:13:34 download size: 234014165 , total size: 289381775
+20161214 10:13:44 download size: 246326741 , total size: 289381775
+20161214 10:13:55 download size: 259560373 , total size: 289381775
+20161214 10:14:05 download size: 271393717 , total size: 289381775
+20161214 10:14:15 download size: 285790208 , total size: 289381775
+20161214 10:14:25 download size: 289381775 , total size: 289381775
+20161214 10:15:55 device not upgrade...
+20161214 10:15:56 may be md5 check fail
+20161214 10:15:56 reboot device and sleep 20s
+20161214 10:16:17 adb connect sucess
+20161214 10:16:17 =================== testtimes : 4 ===================
+20161214 10:16:47 already connect wifi
+20161214 10:17:24 download size: 21232171 , total size: 289381775
+20161214 10:17:24 reboot device and sleep 20s
+20161214 10:17:59 adb connect sucess
+20161214 10:18:29 already connect wifi
+20161214 10:18:57 download size: 59888574 , total size: 289381775
+20161214 10:18:57 reboot device and sleep 20s
+20161214 10:19:27 adb connect sucess
+20161214 10:19:57 already connect wifi
+20161214 10:20:25 download size: 95003950 , total size: 289381775
+20161214 10:20:25 reboot device and sleep 20s
+20161214 10:20:55 adb connect sucess
+20161214 10:21:25 already connect wifi
+20161214 10:21:53 download size: 103846041 , total size: 289381775
+20161214 10:21:53 remove wifi conenct
+20161214 10:21:53 remove wifi sucess
+20161214 10:21:56 svc disable wifi conenct
+20161214 10:22:01 disable wifi sucess
+20161214 10:22:05 already enable wifi sucess
+20161214 10:22:25 connect wifi roobo_test1234
+20161214 10:22:46 connect wifi sucess
+20161214 10:23:19 download size: 151783371 , total size: 289381775
+20161214 10:23:19 remove wifi conenct
+20161214 10:23:20 remove wifi sucess
+20161214 10:23:23 svc disable wifi conenct
+20161214 10:23:28 disable wifi sucess
+20161214 10:23:31 already enable wifi sucess
+20161214 10:23:51 connect wifi roobo_test1234
+20161214 10:24:13 connect wifi sucess
+20161214 10:24:46 download size: 204009472 , total size: 289381775
+20161214 10:24:56 download size: 215288173 , total size: 289381775
+20161214 10:25:06 download size: 229525869 , total size: 289381775
+20161214 10:25:16 download size: 240483029 , total size: 289381775
+20161214 10:25:27 download size: 253840085 , total size: 289381775
+20161214 10:25:37 download size: 267682021 , total size: 289381775
+20161214 10:25:47 download size: 283535629 , total size: 289381775
+20161214 10:25:57 download size: 289381775 , total size: 289381775
+20161214 10:27:27 device not upgrade...
+20161214 10:27:27 may be md5 check fail
+20161214 10:27:27 reboot device and sleep 20s
+20161214 10:27:49 adb connect sucess
+20161214 10:27:49 =================== testtimes : 5 ===================
+20161214 10:28:19 already connect wifi
+20161214 10:28:58 download size: 20050211 , total size: 289381775
+20161214 10:28:58 reboot device and sleep 20s
+20161214 10:29:33 adb connect sucess
+20161214 10:30:03 already connect wifi
+20161214 10:30:32 download size: 45099862 , total size: 289381775
+20161214 10:30:32 reboot device and sleep 20s
+20161214 10:31:01 adb connect sucess
+20161214 10:31:31 already connect wifi
+20161214 10:31:59 download size: 76139321 , total size: 289381775
+20161214 10:31:59 reboot device and sleep 20s
+20161214 10:32:28 adb connect sucess
+20161214 10:32:58 already connect wifi
+20161214 10:33:26 download size: 115654868 , total size: 289381775
+20161214 10:33:26 remove wifi conenct
+20161214 10:33:26 remove wifi sucess
+20161214 10:33:29 svc disable wifi conenct
+20161214 10:33:36 disable wifi sucess
+20161214 10:33:39 already enable wifi sucess
+20161214 10:33:59 connect wifi roobo_test1234
+20161214 10:34:21 connect wifi sucess
+20161214 10:34:54 download size: 173907540 , total size: 289381775
+20161214 10:34:54 remove wifi conenct
+20161214 10:34:54 remove wifi sucess
+20161214 10:34:57 svc disable wifi conenct
+20161214 10:35:04 disable wifi sucess
+20161214 10:35:07 already enable wifi sucess
+20161214 10:35:27 connect wifi roobo_test1234
+20161214 10:35:48 connect wifi sucess
+20161214 10:36:22 download size: 224863854 , total size: 289381775
+20161214 10:36:32 download size: 240345550 , total size: 289381775
+20161214 10:36:42 download size: 252345790 , total size: 289381775
+20161214 10:36:52 download size: 264828750 , total size: 289381775
+20161214 10:37:02 download size: 276570782 , total size: 289381775
+20161214 10:37:12 download size: 287244958 , total size: 289381775
+20161214 10:37:23 download size: 289381775 , total size: 289381775
+20161214 10:38:53 device not upgrade...
+20161214 10:38:53 may be md5 check fail
+20161214 10:38:53 reboot device and sleep 20s
+20161214 10:39:15 adb connect sucess
+20161214 10:39:15 =================== testtimes : 6 ===================
+20161214 10:39:45 already connect wifi
+20161214 10:40:34 download size: 22986219 , total size: 289381775
+20161214 10:40:34 reboot device and sleep 20s
+20161214 10:40:58 adb connect sucess
+20161214 10:41:28 already connect wifi
+20161214 10:41:56 download size: 53097678 , total size: 289381775
+20161214 10:41:56 reboot device and sleep 20s
+20161214 10:42:25 adb connect sucess
+20161214 10:42:55 already connect wifi
+20161214 10:43:24 download size: 84674697 , total size: 289381775
+20161214 10:43:24 reboot device and sleep 20s
+20161214 10:43:47 adb connect sucess
+20161214 10:44:17 already connect wifi
+20161214 10:44:45 download size: 85518775 , total size: 289381775
+20161214 10:44:45 reboot device and sleep 20s
+20161214 10:45:06 adb connect sucess
+20161214 10:45:37 already connect wifi
+20161214 10:46:05 download size: 118020218 , total size: 289381775
+20161214 10:46:05 remove wifi conenct
+20161214 10:46:05 remove wifi sucess
+20161214 10:46:08 svc disable wifi conenct
+20161214 10:46:14 disable wifi sucess
+20161214 10:46:17 already enable wifi sucess
+20161214 10:46:37 connect wifi roobo_test1234
+20161214 10:46:59 connect wifi sucess
+20161214 10:47:32 download size: 174339244 , total size: 289381775
+20161214 10:47:32 remove wifi conenct
+20161214 10:47:32 remove wifi sucess
+20161214 10:47:35 svc disable wifi conenct
+20161214 10:47:43 disable wifi sucess
+20161214 10:47:46 already enable wifi sucess
+20161214 10:48:06 connect wifi roobo_test1234
+20161214 10:48:28 connect wifi sucess
+20161214 10:49:01 download size: 232313254 , total size: 289381775
+20161214 10:49:11 download size: 243576694 , total size: 289381775
+20161214 10:49:22 download size: 257288910 , total size: 289381775
+20161214 10:49:32 download size: 271067910 , total size: 289381775
+20161214 10:49:42 download size: 285250710 , total size: 289381775
+20161214 10:49:52 download size: 289381775 , total size: 289381775
+20161214 10:51:22 device not upgrade...
+20161214 10:51:23 may be md5 check fail
+20161214 10:51:23 reboot device and sleep 20s
+20161214 10:51:45 adb connect sucess
+20161214 10:51:45 =================== testtimes : 7 ===================
+20161214 10:52:15 already connect wifi
+20161214 10:52:55 download size: 21472547 , total size: 289381775
+20161214 10:52:55 reboot device and sleep 20s
+20161214 10:53:27 adb connect sucess

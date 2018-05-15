@@ -1,0 +1,95 @@
+20161214 18:51:05 already connect wifi
+20161214 18:51:35 =================== testtimes : 1 ===================
+20161214 18:52:00 download size: 23775859 , total size: 289382033
+20161214 18:52:00 reboot device and sleep 20s
+20161214 18:52:28 adb connect sucess
+20161214 18:52:58 connect wifi roobo_test1234
+20161214 18:53:19 connect wifi sucess
+20161214 18:53:47 not start download
+20161214 18:53:56 not start download
+20161214 18:54:04 download size: 69058555 , total size: 289382033
+20161214 18:54:04 reboot device and sleep 20s
+20161214 18:54:24 adb connect sucess
+20161214 18:54:54 connect wifi roobo_test1234
+20161214 18:55:16 connect wifi sucess
+20161214 18:55:44 download size: 77788182 , total size: 289382033
+20161214 18:55:44 reboot device and sleep 20s
+20161214 18:56:04 adb connect sucess
+20161214 18:56:34 already connect wifi
+20161214 18:57:02 download size: 112513489 , total size: 289382033
+20161214 18:57:02 remove wifi conenct
+20161214 18:57:02 remove wifi sucess
+20161214 18:57:05 svc disable wifi conenct
+20161214 18:57:10 disable wifi sucess
+20161214 18:57:13 already enable wifi sucess
+20161214 18:57:33 connect wifi roobo_test1234
+20161214 18:57:55 connect wifi sucess
+20161214 18:58:28 download size: 165389809 , total size: 289382033
+20161214 18:58:28 remove wifi conenct
+20161214 18:58:28 remove wifi sucess
+20161214 18:58:31 svc disable wifi conenct
+20161214 18:58:36 disable wifi sucess
+20161214 18:58:39 already enable wifi sucess
+20161214 18:58:59 connect wifi roobo_test1234
+20161214 18:59:21 connect wifi sucess
+20161214 18:59:54 download size: 235650289 , total size: 289382033
+20161214 18:59:59 download size: 244393753 , total size: 289382033
+20161214 19:00:04 download size: 251029849 , total size: 289382033
+20161214 19:00:11 download size: 257796441 , total size: 289382033
+20161214 19:00:16 download size: 266631209 , total size: 289382033
+20161214 19:00:21 download size: 274247680 , total size: 289382033
+20161214 19:00:26 download size: 279300873 , total size: 289382033
+20161214 19:00:31 download size: 284037281 , total size: 289382033
+20161214 19:00:37 download size: 287801705 , total size: 289382033
+20161214 19:00:42 download size: 289382033 , total size: 289382033
+20161214 19:01:01 fdff8e3f25acdfc47f55e22627f969d0  /sdcard/Download/update-61dd715a-cabd-4a6b-9.zip
+20161214 19:01:01 default md5 is: FDFF8E3F25ACDFC47F55E22627F969D0 , download file md5 is: fdff8e3f25acdfc47f55e22627f969d0
+20161214 19:02:31 device start upgrade...
+20161214 19:04:00 adb connect sucess
+20161214 19:04:00 rom update success
+
+20161214 19:04:00 =================== testtimes : 2 ===================
+20161214 19:04:30 already connect wifi
+20161214 19:04:34 not start download
+20161214 19:04:42 not start download
+20161214 19:04:50 not start download
+20161214 19:04:58 not start download
+20161214 19:05:06 not start download
+20161214 19:05:14 not start download
+20161214 19:05:22 not start download
+20161214 19:05:30 not start download
+20161214 19:05:38 not start download
+20161214 19:05:46 not start download
+20161214 19:05:55 not start download
+20161214 19:06:03 not start download
+20161214 19:06:11 not start download
+20161214 19:06:19 not start download
+20161214 19:06:27 not start download
+20161214 19:06:35 not start download
+20161214 19:06:43 not start download
+20161214 19:06:51 not start download
+20161214 19:06:59 not start download
+20161214 19:07:08 not start download
+20161214 19:07:16 not start download
+20161214 19:07:24 not start download
+20161214 19:07:32 not start download
+20161214 19:07:40 not start download
+20161214 19:07:48 not start download
+20161214 19:07:56 not start download
+20161214 19:08:04 not start download
+20161214 19:08:12 not start download
+20161214 19:08:21 not start download
+20161214 19:08:29 not start download
+20161214 19:08:37 not start download
+20161214 19:08:45 not start download
+20161214 19:08:53 not start download
+20161214 19:09:02 not start download
+20161214 19:09:10 not start download
+20161214 19:09:18 not start download
+20161214 19:09:26 not start download
+20161214 19:09:34 not start download
+20161214 19:09:42 not start download
+20161214 19:09:50 not start download
+20161214 19:09:59 not start download
+20161214 19:10:07 not start download
+20161214 19:10:15 not start download

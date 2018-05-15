@@ -1,0 +1,153 @@
+Applications Memory Usage (kB):
+Uptime: 5184847 Realtime: 5184847
+
+Total PSS by process:
+    75789 kB: com.roobo.asr (pid 686)
+    27780 kB: com.roobo.rooboui:face (pid 959)
+    22348 kB: com.roobo.rooboui (pid 602 / activities)
+    20497 kB: com.roobo.musicplayer (pid 2876)
+    20465 kB: system (pid 443)
+    16916 kB: com.ijourney.noviceguide (pid 839 / activities)
+    11559 kB: zygote (pid 141)
+    10454 kB: com.roobo.systemscene (pid 722)
+    10444 kB: com.roobo.settings (pid 1183 / activities)
+    10106 kB: com.ijourney.newmenu (pid 1466 / activities)
+     9789 kB: mediaserver (pid 143)
+     9540 kB: com.hhmedic.app.patient:core (pid 1123)
+     9477 kB: com.ijourney.healthprefecture (pid 2240)
+     9020 kB: com.roobo.tts.iflytek (pid 696)
+     8570 kB: com.ijourney.childrenarea (pid 1616 / activities)
+     7622 kB: com.roobo.core (pid 623)
+     6357 kB: com.roobo.rooboui:mini (pid 822)
+     5900 kB: com.roobo.location (pid 756)
+     5626 kB: android.process.media (pid 571)
+     5159 kB: com.roobo.systemupdater (pid 913)
+     4303 kB: com.roobo.configure (pid 637)
+     4296 kB: com.roobo.alarm (pid 809)
+     3961 kB: com.roobo.pushservice (pid 782)
+     3937 kB: com.android.inputmethod.pinyin (pid 588)
+     3773 kB: com.ijourney.bindrobot (pid 649)
+     3704 kB: com.roobo.persona (pid 712)
+     3482 kB: com.roobo.nouiscene (pid 1521)
+     3091 kB: com.android.systemui (pid 496)
+     2836 kB: com.roobo.touch (pid 734)
+     2570 kB: com.ijourney.videocall (pid 793)
+     2316 kB: com.roobo.mediaplayer (pid 768)
+     2229 kB: com.roobo.led (pid 745)
+     1595 kB: logcat (pid 672)
+     1510 kB: surfaceflinger (pid 140)
+     1338 kB: logcat (pid 2496)
+     1001 kB: wpa_supplicant (pid 792)
+      944 kB: drmserver (pid 142)
+      589 kB: vold (pid 137)
+      575 kB: netd (pid 138)
+      445 kB: /init (pid 1)
+      433 kB: keystore (pid 145)
+      246 kB: ueventd (pid 120)
+      224 kB: adbd (pid 154)
+      213 kB: dhcpcd (pid 1014)
+      191 kB: sh (pid 153)
+      185 kB: getevent (pid 1366)
+      179 kB: dumpsys (pid 3364)
+      159 kB: sh (pid 2498)
+      156 kB: installd (pid 144)
+      148 kB: debuggerd (pid 139)
+      144 kB: healthd (pid 135)
+      115 kB: servicemanager (pid 136)
+      112 kB: bmd (pid 147)
+      108 kB: JuanDaemon (pid 1344)
+
+Total PSS by OOM adjustment:
+    31958 kB: Native
+               11559 kB: zygote (pid 141)
+                9789 kB: mediaserver (pid 143)
+                1595 kB: logcat (pid 672)
+                1510 kB: surfaceflinger (pid 140)
+                1338 kB: logcat (pid 2496)
+                1001 kB: wpa_supplicant (pid 792)
+                 944 kB: drmserver (pid 142)
+                 589 kB: vold (pid 137)
+                 575 kB: netd (pid 138)
+                 445 kB: /init (pid 1)
+                 433 kB: keystore (pid 145)
+                 246 kB: ueventd (pid 120)
+                 224 kB: adbd (pid 154)
+                 213 kB: dhcpcd (pid 1014)
+                 191 kB: sh (pid 153)
+                 185 kB: getevent (pid 1366)
+                 179 kB: dumpsys (pid 3364)
+                 159 kB: sh (pid 2498)
+                 156 kB: installd (pid 144)
+                 148 kB: debuggerd (pid 139)
+                 144 kB: healthd (pid 135)
+                 115 kB: servicemanager (pid 136)
+                 112 kB: bmd (pid 147)
+                 108 kB: JuanDaemon (pid 1344)
+    20465 kB: System
+               20465 kB: system (pid 443)
+    25439 kB: Persistent
+               22348 kB: com.roobo.rooboui (pid 602 / activities)
+                3091 kB: com.android.systemui (pid 496)
+    27780 kB: Visible
+               27780 kB: com.roobo.rooboui:face (pid 959)
+    34316 kB: Perceptible
+               10454 kB: com.roobo.systemscene (pid 722)
+                7622 kB: com.roobo.core (pid 623)
+                4303 kB: com.roobo.configure (pid 637)
+                4296 kB: com.roobo.alarm (pid 809)
+                3937 kB: com.android.inputmethod.pinyin (pid 588)
+                3704 kB: com.roobo.persona (pid 712)
+     3961 kB: A Services
+                3961 kB: com.roobo.pushservice (pid 782)
+    10444 kB: Previous
+               10444 kB: com.roobo.settings (pid 1183 / activities)
+   164308 kB: B Services
+               75789 kB: com.roobo.asr (pid 686)
+               20497 kB: com.roobo.musicplayer (pid 2876)
+               10106 kB: com.ijourney.newmenu (pid 1466 / activities)
+                9477 kB: com.ijourney.healthprefecture (pid 2240)
+                9020 kB: com.roobo.tts.iflytek (pid 696)
+                8570 kB: com.ijourney.childrenarea (pid 1616 / activities)
+                6357 kB: com.roobo.rooboui:mini (pid 822)
+                5900 kB: com.roobo.location (pid 756)
+                5159 kB: com.roobo.systemupdater (pid 913)
+                3482 kB: com.roobo.nouiscene (pid 1521)
+                2836 kB: com.roobo.touch (pid 734)
+                2570 kB: com.ijourney.videocall (pid 793)
+                2316 kB: com.roobo.mediaplayer (pid 768)
+                2229 kB: com.roobo.led (pid 745)
+    35855 kB: Cached
+               16916 kB: com.ijourney.noviceguide (pid 839 / activities)
+                9540 kB: com.hhmedic.app.patient:core (pid 1123)
+                5626 kB: android.process.media (pid 571)
+                3773 kB: com.ijourney.bindrobot (pid 649)
+
+Total PSS by category:
+   112892 kB: Dalvik
+   107882 kB: Native
+    43845 kB: .so mmap
+    34540 kB: Dalvik Other
+    26465 kB: .dex mmap
+    15647 kB: Unknown
+     3791 kB: Stack
+     3072 kB: Ashmem
+     2721 kB: Other mmap
+     2399 kB: .apk mmap
+      894 kB: .ttf mmap
+      250 kB: Other dev
+      124 kB: .jar mmap
+        4 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 1023776 kB
+ Free RAM: 600507 kB (35855 cached pss + 491512 cached + 73140 free)
+ Used RAM: 373255 kB (318671 used pss + 4824 buffers + 15564 shmem + 34196 slab)
+ Lost RAM: 50014 kB
+     ZRAM: 4 kB physical used for 0 kB in swap (65532 kB total swap)
+      KSM: 37988 kB saved from shared 3856 kB
+           168396 kB unshared; 346708 kB volatile
+   Tuning: 48 (large 256), oom 122880 kB, restore limit 40960 kB (low-ram)

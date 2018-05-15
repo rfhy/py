@@ -1,0 +1,44 @@
+20161206 18:54:50 adb connect sucess
+20161206 18:54:50 remove wifi conenct
+20161206 18:54:50 remove wifi sucess
+20161206 18:54:50 ====================== testtimes: 1 ====================
+
+20161206 18:54:50 ********** disconnect wifi and reboot devices **********
+20161206 18:54:50 reboot device and sleep 23s
+20161206 18:55:17 adb connect sucess
+20161206 18:56:24 can't find ota process
+20161206 18:56:24 ********** after power on device , connect wifi **********
+20161206 18:56:34 connect wifi roobo_test1234
+20161206 18:56:55 connect wifi sucess
+20161206 18:58:25 coreserver start ota
+20161206 18:58:25 ********** after connect wifi , kill ota **********
+20161206 18:58:25 com.android.ota pid is: 1828
+20161206 18:58:25 kill ota
+20161206 18:59:30 watchdog pull up ota
+20161206 18:59:30 ********** disconnect wifi , remove coreserver and reboot **********
+20161206 18:59:30 remove wifi conenct
+20161206 18:59:30 remove wifi sucess
+20161206 18:59:30 root succeeded
+20161206 18:59:32 remount succeeded
+20161206 18:59:34 mv CoreServer.apk to mvcore.ap sucess
+20161206 18:59:34 reboot device and sleep 23s
+20161206 19:00:02 adb connect sucess
+20161206 19:03:20 boot start ota
+20161206 19:03:21 ********** connect wifi , no coreserver **********
+20161206 19:03:21 svc connect wifi roobo_test1234
+20161206 19:03:42 connect wifi sucess
+20161206 19:04:44 boot start ota
+20161206 19:04:44 ********** no coreserver and kill ota **********
+20161206 19:04:44 com.android.ota pid is: 1281
+20161206 19:04:44 kill ota
+20161206 19:06:00 boot start ota
+20161206 19:06:00 ********** reset to default status **********
+20161206 19:06:00 root succeeded
+20161206 19:06:02 remount succeeded
+20161206 19:06:05 mv mvcore.ap to CoreServer.apk sucess
+20161206 19:06:05 remove wifi conenct
+20161206 19:06:05 remove wifi sucess
+20161206 19:06:05 ====================== testtimes: 2 ====================
+
+20161206 19:06:05 ********** disconnect wifi and reboot devices **********
+20161206 19:06:05 reboot device and sleep 23s

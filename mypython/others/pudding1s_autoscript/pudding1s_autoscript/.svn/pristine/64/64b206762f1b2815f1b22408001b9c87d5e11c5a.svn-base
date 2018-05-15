@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<yuyincase>
+    <case id="1" name="向左转"  >
+	<data>
+	{\"service\":\"roate\",\"sid\":\"iatff45a7fc@ch03a40b7e21123de300\",\"operation\":\"TURNLEFT\",\"semantic\":{},\"text\":\"\u5411\u5de6\u8f6c\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mTTSText=布丁没有连接电源，无法转动","tag":"onCommandComplete"}
+	</result>
+	</case>
+
+	<case id="2" name="向右转"  >
+	<data>
+	{\"service\":\"roate\",\"sid\":\"iataba0a57f@ch03390b7e212d3de300\",\"operation\":\"TURNRIGHT\",\"semantic\":{},\"text\":\"\u5411\u53f3\u8f6c\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mTTSText=布丁没有连接电源，无法转动","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="3" name="唱首歌" >
+	<data>
+	{\"service\":\"custom_music\",\"sid\":\"iat36f635ff@ch01500b7e21383de300\",\"semantic\":{},\"text\":\"\u5531\u9996\u6b4c\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"log","tomatch":"start","tag":"MediaPlayerService"}
+	</result>
+	</case>
+	
+	 <case id="4" name="大点声" >
+	 <data>
+	 {\"service\":\"volume\",\"sid\":\"iat4a8f18ff@ch03660b7e213c3de300\",\"operation\":\"UP\",\"semantic\":{},\"text\":\"\u5927\u70b9\u58f0\",\"rc\":0}
+	 </data>
+	<result>
+	{"type":"volume","tomatch":"service call audio 15 i32 3","operation":"up","tag":"onCommandComplete"}
+	</result>
+	 </case>
+	 
+	<case id="5" name="小点声" >
+	<data>
+	{\"service\":\"volume\",\"sid\":\"iat0797117f@ch00fc0b7e214b3de300\",\"operation\":\"LOW\",\"semantic\":{},\"text\":\"\u5c0f\u70b9\u58f0\",\"rc\":0}
+	 </data>
+	<result>
+	{"type":"volume","tomatch":"service call audio 15 i32 3","operation":"low","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="6" name="最大声" >
+	<data>
+	{\"service\":\"volume\",\"sid\":\"iat0797127f@ch02200b7e21643de300\",\"operation\":\"MAX\",\"semantic\":{},\"text\":\"\u6700\u5927\u58f0\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"volume","tomatch":"service call audio 15 i32 3","operation":"max","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="7" name="静音" >
+	<data>
+	{\"service\":\"volume\",\"sid\":\"iat36f65d7f@ch037f0b7e217e3de300\",\"operation\":\"SILENT\",\"semantic\":{},\"text\":\"\u9759\u97f3\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"volume","tomatch":"service call audio 15 i32 3","operation":"silent","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="8" name="摩羯座星座运势"   >
+    <data>{\"service\":\"sign\",\"sid\":\"iat307adb7f@ch01900b7e21ac3de300\",\"semantic\":{\"slots\":{\"horoscope\":\"\u6469\u7faf\"}},\"text\":\"\u6469\u7faf\u5ea7\u661f\u5ea7\u8fd0\u52bf\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mStateLEDAction=com.juan.ledcontrol.ACTION_CONSTELLATION","tag":"onCommandComplete"}
+	</result>
+	</case>
+	<case id="9" name="一小时后提醒我测试"  >
+	<data>{\"service\":\"schedule\",\"sid\":\"iat46e11fff@ch00600b7e21b43de300\",\"operation\":\"CREATE\",\"semantic\":{\"slots\":{\"content\":\"\u6d4b\u8bd5\",\"datetime\":{\"type\":\"DT_BASIC\",\"date\":\"2016-11-16\",\"timeOrig\":\"\u4e09\u5341\u5206\u949f\u540e\",\"time\":\"14:00:00\"},\"name\":\"reminder\"}},\"text\":\"\u4e09\u5341\u5206\u949f\u540e\u63d0\u9192\u6211\u6d4b\u8bd5\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.juan.voiceservice/databases/user_alarm2.db","tomatch":"select * from user_alarm where TTSText like '%测试%'","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="10" name="现在几点了" >
+	<data> {\"service\":\"when\",\"sid\":\"iat0797cf7f@ch00160b7e21c33de300\",\"operation\":\"0\",\"semantic\":{},\"text\":\"\u73b0\u5728\u51e0\u70b9\u4e86\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mEventLedAction=com.juan.ledcontrol.ACTION_TIME","tag":"onCommandComplete"}
+	</result>
+	 </case>
+	 
+	<case id="11" name="空气质量"  >
+	<data>
+	{\"service\":\"pm\",\"sid\":\"iat2760997f@ch01cc0b7e21cb3de300\",\"semantic\":{},\"text\":\"\u7a7a\u6c14\u8d28\u91cf\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mStateLEDAction=com.juan.ledcontrol.ACTION_PM25","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="12" name="天气预报" >
+	<data>
+     {\"service\":\"weather\",\"sid\":\"iat8730a17f@ch02d20b876dbb3de300\",\"semantic\":{},\"text\":\"\u5929\u6c14\u9884\u62a5\",\"rc\":0}
+	 </data>
+	<result>
+	{"type":"log","tomatch":"mStateLEDAction=com.juan.ledcontrol.ACTION_SNOW;mStateLEDAction=com.juan.ledcontrol.ACTION_RAIN;mStateLEDAction=com.juan.ledcontrol.ACTION_FINE;mStateLEDAction=com.juan.ledcontrol.ACTION_CLOUD;mStateLEDAction=com.juan.ledcontrol.ACTION_WIND","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="13" name="最小声" >
+	<data>
+	{\"service\":\"volume\",\"sid\":\"iataba0ea7f@ch01570b7e3d8c3de300\",\"operation\":\"MIN\",\"semantic\":{},\"text\":\"\u6700\u5c0f\u58f0\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"volume","tomatch":"service call audio 15 i32 3","operation":"min","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="14" name="再见" >
+	<data>
+	{\"service\":\"sleep\",\"sid\":\"iatc5b19fff@ch00ae0b7f66323de300\",\"semantic\":{},\"text\":\"\u518d\u89c1\",\"rc\":0}
+	</data>
+	<result>
+	{"type":"sleep","tomatch":"default","tag":"onCommandComplete"}
+	</result>
+	</case>
+</yuyincase>

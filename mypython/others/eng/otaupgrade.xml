@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="base_hour" value="0" />
+    <int name="eng_debug_enable" value="1" />
+    <int name="base_minute" value="0" />
+    <int name="repeat_udisk_enable" value="1" />
+    <int name="interval_minutes" value="5" />
+    <int name="range_minutes" value="2" />
+    <int name="logto_file_enable" value="1" />
+    <string name="HOST_KEY">http://update.roobo.net</string>
+</map>

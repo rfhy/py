@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<longcnncase>
+    <case id="1" name="textToSpeech_chinese"  >
+	<data>
+	{"action":"VoiceServer/textToSpeech","data":{"mainctl":%sn%,"text":"测试测试"},"id":20823}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mTTSText=测试测试","tag":"onCommandComplete"}
+	</result>
+	</case>
+
+	<case id="2" name="textToSpeech_english"  >
+	<data>
+	{"action":"VoiceServer/textToSpeech","data":{"mainctl":%sn%,"text":"test"},"id":20823}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mTTSText=test","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="3" name="soundinteresting" >
+	<data>
+	{"action":"VoiceServer/aiActions","data":{"file":"file","mainctl":%sn%,"todo":"{\"data\":{\"services\":[\"music\"],\"wakeup\":true,\"actions\":[{\"data\":{\"type\":1,\"content\":\"http:\\/\\/media.roobo.net\\/voices\\/chat\\/20160927_4633f292869766f3dd0e0203fdcf1bb7.amr\",\"startTimes\":0,\"endTimes\":0},\"cmdseq\":1,\"action\":\"VoiceServer\\/speak\"}],\"minlen\":2,\"waittime\":10}}"},"id":20827}
+	</data>
+	<result>
+	{"type":"log","tomatch":"setDataSource(http://media.roobo.net/voices/chat/20160927_4633f292869766f3dd0e0203fdcf1bb7.amr)","tag":"MediaPlayerService"}
+	</result>
+	</case>
+	
+	 <case id="4" name="changeMasterVolume" >
+	 <data>
+	{"action":"VoiceServer/changeMasterVolume","data":{"mainctl":%sn%,"volume":3},"id":20829}
+	 </data>
+	<result>
+	{"type":"volume","tomatch":"service call audio 15 i32 3","operation":"3","tag":"onCommandComplete"}
+	</result>
+	 </case>
+	 
+	<case id="5" name="nightModeEnableopen" >
+	<data>
+	{"action":"VoiceServer/nightModeEnable","data":{"enable":True,"mainctl":%sn%},"id":20830}
+	 </data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='NIGHT_MODE_ENABLE' and value='true'","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="6" name="nightModeEnableclose" >
+	<data>
+	{"action":"VoiceServer/nightModeEnable","data":{"enable":False,"mainctl":%sn%},"id":20830}
+	</data>
+	<result>
+    {"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='NIGHT_MODE_ENABLE' and value='false'","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="7" name="defenceStateclose" >
+	<data>
+	{"action":"AlarmCenter/defenceState","data":{"isauto":False,"mainctl":%sn%,"state":False},"id":20832}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='defenceState'   and value='0' ","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="8" name="defenceStatecloseopen"   >
+    <data>
+	{"action":"AlarmCenter/defenceState","data":{"isauto":True,"mainctl":%sn%,"state":True},"id":20832}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='defenceState'   and value='1' ","tag":"onCommandComplete"}
+	</result>
+	</case>
+	<case id="9" name="userEnterRemindopen"  >
+	<data>
+	{"action":"VideoMaster/userEnterRemind","data":{"mainctl":%sn%,"status":1},"id":20835}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='user_reminder'  and value='1' ","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="10" name="userEnterRemindclose" >
+	<data> 
+	{"action":"VideoMaster/userEnterRemind","data":{"mainctl":%sn%,"status":0},"id":20835}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='user_reminder'  and value='0' ","tag":"onCommandComplete"}
+	</result>
+	 </case>
+	 
+	<case id="11" name="changeSpeakernannan"  >
+	<data>
+	{"action":"VoiceServer/changeSpeaker","data":{"mainctl":%sn%,"speaker":"NANNAN"},"id":20837}
+	</data>
+	<result>
+	{"type":"xml","xmlpath":"/data/data/com.roobo.voice/shared_prefs/tts.xml","tomatch":"NANNAN","linetag":"Speaker","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="12" name="changeSpeakerrooboboy" >
+	<data>
+     {"action":"VoiceServer/changeSpeaker","data":{"mainctl":%sn%,"speaker":"ROOBO_BOY"},"id":20838}
+	 </data>
+	<result>
+	{"type":"xml","xmlpath":"/data/data/com.roobo.voice/shared_prefs/tts.xml","tomatch":"ROOBO_BOY","linetag":"Speaker","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="13" name="FaceTrackStateclose" >
+	<data>
+	{"action":"VideoMaster/FaceTrackState","data":{"mainctl":%sn%,"state":"0"},"id":20843}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='faceTrackState' and value='0' ","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="14" name="FaceTrackStateopen" >
+	<data>
+	{"action":"VideoMaster/FaceTrackState","data":{"mainctl":%sn%,"state":"1"},"id":20843}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.android.providers.settings/databases/settings.db","tomatch":" select * from system where name='faceTrackState' and value='1' ","tag":"onCommandComplete"}
+	</result>
+	</case>
+	
+	<case id="15" name="showExpression" >
+	<data>
+	{"action":"LedControl/showExpression","data":{"mainctl":%sn%,"type":13,"voice_content":"老稀罕了","voice_type":0},"id":20825}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mEventLedAction=com.juan.ledcontrol.ACTION_EXP_HEART","tag":"onCommandComplete"}
+	</result>
+	</case> 
+	
+	<case id="16" name="weather" >
+	<data>	
+	{"action":"VoiceServer/aiActions","id":0,"data":{"actid":"8002","myid":"ps:62828a1e8eee7af9eff219a223bdc031","mainctl":%sn%,"question":"**APP\u70b9\u64ad\u5929\u6c14**","todo":"{\"data\":{\"id\":0,\"session\":\"08sn8qcb8rpws-1bqqrc1-000ekgc7uh5qt\",\"services\":[\"weather\"],\"wakeup\":true,\"minlen\":2,\"waittime\":10,\"actions\":[{\"cmdseq\":0,\"action\":\"VoiceServer\\/speak\",\"data\":{\"type\":0,\"content\":\"\\u5317\\u4eac \\u4eca\\u5929\\u6674\\u8f6c\\u5c0f\\u96e8,3\\u5ea6\\u523014\\u5ea6,\\u548c\\u6628\\u5929\\u5dee\\u4e0d\\u591a,\\u592a\\u9633\\u6652\\u8d77\\u6765\\u597d\\u8212\\u670d.\",\"sid\":\"1360481015-1479542013978\",\"lang\":\"zh-CN\"}},{\"cmdseq\":0,\"action\":\"LedControl\\/showExpression\",\"data\":{\"type\":\"ACTION_FINE\",\"stoptm\":6}}],\"events\":[]}}"},"id":20841}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mEventLedAction=com.juan.ledcontrol.ACTION_FINE","tag":"onCommandComplete"}
+	</result>
+	</case>  
+	<case id="17" name="song" >
+	<data>	
+	{"action":"VoiceServer/aiActions","id":0,"data":{"mainctl":%sn%,"todo":"{\"data\":{\"id\":0,\"session\":\"08sn8qcb8rpws-1bqqrc1-000ekgd0wup0f\",\"services\":[\"playresouce\"],\"wakeup\":true,\"minlen\":2,\"waittime\":10,\"actions\":[{\"cmdseq\":0,\"action\":\"VoiceServer\\/speak\",\"data\":{\"type\":0,\"content\":\"\\u51c6\\u5907\\u64ad\\u653e\\u5c0f\\u6c34\\u679c\",\"sid\":\"849557677-1479543771491\",\"lang\":\"zh-CN\"}},{\"cmdseq\":1,\"action\":\"VoiceServer\\/speak\",\"data\":{\"type\":3,\"content\":\"http:\\/\\/dwn.roo.bo\\/resource\\/20160928\\/xiao_shui_guo_.mp3\",\"sid\":\"3242600969-1479543771492\",\"startTimes\":0,\"endTimes\":0,\"lang\":\"zh-CN\"}},{\"cmdseq\":1,\"action\":\"LedControl\\/showExpression\",\"data\":{\"type\":\"ACTION_LOAD\",\"stoptm\":-1}},{\"cmdseq\":1,\"action\":\"VoiceServer\\/saveState\",\"data\":{\"playing\":\"playresouce\",\"content\":{\"now\":{\"id\":516008,\"catid\":22,\"img_large\":\"http:\\/\\/media.roobo.net\\/appimg\\/20160425_f35742475598f6573f9859c0bb9fc8b1.png\",\"cname\":\"\\u5e7c\\u513f\\u56ed\\u513f\\u6b4c\",\"type\":1,\"title\":\"\\u5c0f\\u6c34\\u679c\",\"url\":\"http:\\/\\/dwn.roo.bo\\/resource\\/20160928\\/xiao_shui_guo_.mp3\",\"length\":197,\"ressrc\":null,\"fid\":0,\"uid\":414}}}}],\"events\":[{\"conditions\":[\"loaded\"],\"actions\":[{\"cmdseq\":1,\"action\":\"LedControl\\/showExpression\",\"data\":{\"type\":\"ACTION_MUSIC\",\"stoptm\":0}},{\"cmdseq\":1,\"action\":\"VoiceServer\\/updatePlayState\",\"data\":{}}]},{\"conditions\":[\"stoped\"],\"actions\":[{\"cmdseq\":1,\"action\":\"LedControl\\/showExpression\",\"data\":{\"type\":\"ACTION_LOAD\",\"stoptm\":-1}},{\"cmdseq\":1,\"action\":\"VoiceServer\\/updateState\",\"data\":{}},{\"cmdseq\":1,\"action\":\"VoiceServer\\/updatePlayState\",\"data\":{}}]},{\"conditions\":[\"paused\"],\"actions\":[{\"cmdseq\":1,\"action\":\"LedControl\\/showExpression\",\"data\":{\"type\":\"ACTION_LOAD\",\"stoptm\":-1}},{\"cmdseq\":1,\"action\":\"VoiceServer\\/updateState\",\"data\":{}},{\"cmdseq\":1,\"action\":\"VoiceServer\\/updatePlayState\",\"data\":{}}]}]}}"},"id":20841}
+	</data>
+	<result>
+	{"type":"log","tomatch":"start","tag":"MediaPlayerService"}
+	</result>
+	</case>  
+	
+	<case id="18" name="stopsong" >
+	<data>	
+	{"action":"VoiceServer/stop","id":0,"data":{"id":516008,"myid":"ps:62828a1e8eee7af9eff219a223bdc031","from":"ios","mainctl":%sn%,"sid":"3242600969-1479543771492"}}
+	</data>
+	<result>
+	{"type":"log","tomatch":"pause","tag":"MediaPlayerService"}
+	</result>
+	</case> 
+
+    <case id="19" name="startSoundWaveMode" >
+	<data>	
+	{"action":"VoiceServer/startSoundWaveMode","data":{"mainctl":%sn%},"id":20842}
+	</data>
+	<result>
+	{"type":"log","tomatch":"action:start_voice_wifi_config_by_cmd","tag":"ConfigService"}
+	</result>
+	</case> 
+   <case id="20" name="updateApp" >
+	<data>	
+	{"action":"AppUpdater/updateApp", "data":{"mainctl":%sn%,"production" : "pudding1s.appupdate","isforce" : False,"modules" : "","extras" : "{\"from\":\"ps:eff7a1ba637c85691b685410041b199c\",\"skipfilter\":false}"},"id":20842}
+	</data>
+	<result>
+	{"type":"log","tomatch":"common\/updateinfo","tag":"NetSender"}
+	</result>
+	</case>   
+    <case id="21" name="motorRotate" >
+	<data>	
+	{  "action":"DeviceManage/motorRotate",  "data": {  "mainctl" : %sn%,"angle" : 180},"id":20842 }
+	</data>
+	<result>
+	{"type":"result","tomatch":"-10001","tag":"onCommandComplete"}
+	</result>
+	</case>  
+   <case id="22" name="delremind" >
+	<data>	
+	{  "action":"VoiceServer/Delremind",  "data": {"mainctl":%sn%,"id" : 0} ,"id":20842 }
+	</data>
+	<result>
+	{"type":"deldb","dbpath":"/data/data/com.juan.voiceservice/databases/user_alarm2.db","tomatch":"select * from user_alarm where alarmId=0","tag":"onCommandComplete"}
+	</result>
+	</case>  
+   <case id="23" name="closeRangeTTSHeartbeat" >
+	<data>	
+	{"action":"VoiceServer/closeRangeTTSHeartbeat","data":{"uid":"ps:62828a1e8eee7af9eff219a223bdc031","mainctl":%sn%},"id":20842}
+	</data>
+	<result>
+	{"type":"log","tomatch":"action = VoiceServer/closeRangeTTSHeartbeat","tag":"executeCallback"}
+	</result>
+	</case>   
+   <case id="24" name="exitCloseRangeTTS" >
+	<data>	
+    {"action":"VoiceServer/exitCloseRangeTTS","id":0,"data":{"myid":"ps:62828a1e8eee7af9eff219a223bdc031","uid":"ps:62828a1e8eee7af9eff219a223bdc031","mainctl":%sn%},"id":20842}
+	</data>
+	<result>
+	{"type":"log","tomatch":"action = VoiceServer/exitCloseRangeTTS","tag":"executeCallback"}
+	</result>
+	</case>   
+    <case id="25" name="ceremony" >
+	<data>	
+    {"action":"VoiceServer/ceremony","id":0,"data":{"uid":"ps:62828a1e8eee7af9eff219a223bdc031","mainctl":%sn%,"myid":"ps:62828a1e8eee7af9eff219a223bdc031"},"id":20842}
+	</data>
+	<result>
+	{"type":"log","tomatch":"action = VoiceServer/ceremony","tag":"executeCallback"}
+	</result>
+	</case>  
+   <case id="26" name="setVoiceParams" >
+	<data>	
+    { "action": "VoiceServer/setVoiceParams","data": {"mainctl": sn, "wakeup_threshold_at_night_day":"1400-1500", "interrupt_threshold":"-15","skyvoice_threshold":"0.7","wakeup_threshold":"25"} }
+	</data>
+	<result>
+	{"type":"xml","xmlpath":"/data/data/com.juan.voiceservice/shared_prefs/com.juan.voiceservice_preferences.xml","tomatch":"value=\"25\"","linetag":"voice_wakeup_threshold","tag":"onCommandComplete"}
+	</result>
+	</case> 
+   <case id="27" name="AddEngAlarm" >
+	<data>	
+   {"action":"VoiceServer/AddEngAlarm","id":1,"data":{"mainctl":%sn%,"id":2557},"id":20842}
+	</data>
+	<result>
+	{"type":"database","dbpath":"/data/data/com.juan.voiceservice/databases/user_alarm2.db","tomatch":"select * from user_alarm where alarmId=2801;select * from user_alarm where alarmId=2802","tag":"onCommandComplete"}
+	</result>
+	</case> 
+  	<case id="27" name="PM" >
+	<data>	
+	{"action":"VoiceServer/aiActions","id":0,"data":{"actid":"8001","myid":"ps:62828a1e8eee7af9eff219a223bdc031","mainctl":%sn%,"question":"**APP\u70b9\u64adPM2.5**","todo":"{\"data\":{\"id\":0,\"session\":\"08sn8qcb8rpws-1bqqrc1-000ekgchdsdg6\",\"services\":[\"weather\"],\"wakeup\":true,\"minlen\":2,\"waittime\":10,\"actions\":[{\"cmdseq\":0,\"action\":\"VoiceServer\\/speak\",\"data\":{\"type\":0,\"content\":\"\\u5317\\u4eac \\u4eca\\u5929 PM2.5\\u662f42,\\u4f18,\\u554a,\\u7a7a\\u6c14\\u597d\\u65b0\\u9c9c,\\u53ef\\u4ee5\\u51fa\\u53bb\\u73a9.\",\"sid\":\"3918644250-1479542590634\",\"lang\":\"zh-CN\"}},{\"cmdseq\":0,\"action\":\"LedControl\\/showExpression\",\"data\":{\"type\":\"ACTION_PM25\",\"stoptm\":6}}],\"events\":[]}}"}}
+	</data>
+	<result>
+	{"type":"log","tomatch":"mEventLedAction=com.juan.ledcontrol.ACTION_PM25","tag":"onCommandComplete"}
+	</result>
+	</case> 
+	<case id="28" name="StartTinyVideoState" >
+	<data>	
+	{"action":"VideoMaster/StartTinyVideoState","id":1,"data":{"mainctl":sn,"state":1}}
+	</data>
+	<result>
+	{"type":"log","tomatch":"action = VideoMaster/StartTinyVideoState","tag":"executeCallback"}
+	</result>
+	</case>    	  		
+</longcnncase>

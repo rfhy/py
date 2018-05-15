@@ -1,0 +1,316 @@
+# -*- coding: utf-8 -*-
+import StringIO
+import sys
+import os
+import unittest
+import HTMLTestRunner
+import time
+import datetime
+import urllib2
+import urllib
+import cljttswenzi
+import cljttsbiaoqing
+import cljrotate
+import cljmodifyvolume
+import cljdetection
+import cljvideoenter
+import cljshutdown
+import yuyinchangshouge
+import yuyinxiangzuozhuan
+import yuyinxiangyouzhuan
+import yuyinzuidasheng
+import yuyinzuixiaosheng
+import yuyindadiansheng
+import yuyinjidian
+import yuyinjintiantianqi
+import yuyinpm25
+import yuyinclock
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
+Uri = "http://172.16.244.143:8080/job/pudding2.0/lastSuccessfulBuild/buildNumber";
+reqs = urllib2.Request(Uri)
+ress = urllib2.urlopen(reqs)
+stringnumber = ress.read()
+
+# ----------------------------------------------------------------------
+fail_num=0
+def safe_unicode(obj, *args):
+    """ return the unicode representation of obj """
+    try:
+        ascii_text = str(obj).encode('string_escape')
+        return unicode(obj, *args)
+    except UnicodeDecodeError:
+        # obj is byte string
+        return unicode(ascii_text)
+
+def safe_str(obj):
+    """ return the byte string representation of obj """
+    try:
+        return str(obj)
+    except UnicodeEncodeError:
+        # obj is unicode
+        return unicode(obj).encode('unicode_escape')
+
+# ----------------------------------------------------------------------
+# SDB tests to drive the HTMLTestRunner
+
+class Pudding1sTest(unittest.TestCase):
+    """ Pudding1s test case1
+
+    """
+    def __init__(self, methodName):
+        unittest.TestCase.__init__(self, methodName)
+
+    def test_ttstext(self):
+        """    clj tts text test
+        """
+        time.sleep(5)
+        result = cljttswenzi.cljttstext()
+        if(result == True):
+           print "send  tts text successful"
+        else:
+           print "send tts text failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("tts text FAILURE")
+		   
+    def test_ttsbiaoqing(self):
+        """    clj tts biaoqing test
+        """
+        time.sleep(5)
+        result = cljttsbiaoqing.cljttsbiaoqing()
+        if(result == True):
+           print "send  tts biaoqing successful"
+        else:
+           print "send tts biaoqing failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("TTS biaoqing FAILURE")
+
+    def test_rotate(self):
+        """    clj rotate test
+        """
+        time.sleep(5)
+        result = cljrotate.cljrotate()
+        if(result == True):
+           print "Set  rotate  status successful"
+        else:
+           print "set rotate status failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Set Rotate status FAILURE")
+		   
+    def test_modifyvolume(self):
+        """    clj modify volume test
+        """
+        time.sleep(5)
+        result = cljmodifyvolume.cljmodifyvolume()
+        if(result == True):
+           print "Modifyvolume successful"
+        else:
+           print "Modify modifyvolume failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("ModifyVolume FAILURE")
+
+    def test_detection(self):
+        """    clj Dynamic Detection test
+        """
+        time.sleep(5)
+        result = cljdetection.cljdetection()
+        if(result == True):
+           print "Set Dynamic Detection status successful"
+        else:
+           print "Set Dynamic Detection status failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Set Dynamic Detection FAILURE")
+		   
+    def test_videoenter(self):
+        """    clj Video Enter Remind test
+        """
+        time.sleep(5)
+        result = cljvideoenter.cljvideoenter()
+        if(result == True):
+           print "set Video Enter Remind status  successful"
+        else:
+           print "Set Video Enter Remind status failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Set Video Enter Remind FAILURE")	
+		   
+    def test_yuyinxiangyouzhuan(self):
+        """  pudding yuyin turn right test
+        """
+        time.sleep(5)
+        result = yuyinxiangyouzhuan.yuyinxiangyouzhuan()
+        if(result == True):
+           print "Pudding yuyin turn right  successful"
+        else:
+           print "Pudding yuyin turn right failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding turn right FAILURE")	
+		   
+    def test_yuyinxiangzuozhuan(self):
+        """  pudding yuyin turn left  test
+        """
+        time.sleep(5)
+        result = yuyinxiangzuozhuan.yuyinxiangzuozhuan()
+        if(result == True):
+           print "Pudding turn left  successful"
+        else:
+           print "Pudding turn left failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding turn left FAILURE")
+		   
+    def test_yuyinzuidasheng(self):
+        """   pudding yuyin zuidasheng test
+        """
+        time.sleep(5)
+        result = yuyinzuidasheng.yuyinzuidasheng()
+        if(result == True):
+           print "Pudding yuyin zuidasheng  successful"
+        else:
+           print "Pudding yuyin zuidasheng failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyinzuidasheng FAILURE")	
+		   
+    def test_yuyinzuixiaosheng(self):
+        """    pudding yuyin zuixiaosheng test
+        """
+        time.sleep(5)
+        result = yuyinzuixiaosheng.yuyinzuixiaosheng()
+        if(result == True):
+           print "Pudding yuyin zuixiaosheng  successful"
+        else:
+           print "Pudding yuyin zuixiaosheng failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyin zuixiaosheng FAILURE")	
+		   
+    def test_yuyindadiansheng(self):
+        """   pudding yuyin dadiansheng test
+        """
+        time.sleep(5)
+        result = yuyindadiansheng.yuyindadiansheng()
+        if(result == True):
+           print "Pudding yuyin dadiansheng  successful"
+        else:
+           print "Pudding yuyin dadiansheng failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyin dadiansheng FAILURE")
+		   
+    def test_yuyinchangshouge(self):
+        """   pudding yuyin changshouge test
+        """
+        time.sleep(5)
+        result = yuyinchangshouge.yuyinchangshouge()
+        if(result == True):
+           print "Pudding yuyin changshouge  successful"
+        else:
+           print "Pudding yuyin changshouge failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyin changshouge FAILURE")	
+		  
+    def test_yuyinjidian(self):
+        """   pudding yuyin jidian test
+        """
+        time.sleep(5)
+        result = yuyinjidian.yuyinjidian()
+        if(result == True):
+           print "Pudding yuyin jidian  successful"
+        else:
+           print "Pudding yuyin jidian failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyin jidian FAILURE")	
+		   
+    def test_yuyinjintiantianqi(self):
+        """   pudding yuyin jintiantianqi test
+        """
+        time.sleep(5)
+        result = yuyinjintiantianqi.yuyinjintiantianqi()
+        if(result == True):
+           print "Pudding yuyin jintiantianqi  successful"
+        else:
+           print "Pudding yuyin jintiantianqi failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyin jintiantianqi FAILURE")	
+		   
+    def test_yuyinpm25(self):
+        """   pudding yuyin pm25 test
+        """
+        time.sleep(5)
+        result = yuyinpm25.yuyinpm25()
+        if(result == True):
+           print "Pudding yuyin pm25  successful"
+        else:
+           print "Pudding yuyin pm25 failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyin pm25 FAILURE")	
+		   
+    def test_yuyinclock(self):
+        """   pudding yuyin clock test
+        """
+        time.sleep(5)
+        result = yuyinclock.yuyinclock()
+        if(result == True):
+           print "Pudding yuyin clock  successful"
+        else:
+           print "Pudding yuyin clock failure"
+           global fail_num
+           fail_num=fail_num+1
+           self.fail("Pudding yuyin clock FAILURE")	
+		   
+ 	
+		   
+# This is the main test on HTMLTestRunner
+
+class Test_HTMLTestRunner(unittest.TestCase):
+
+    def test0(self):
+        self.suite = unittest.TestSuite()
+        buf = StringIO.StringIO()
+        runner = HTMLTestRunner.HTMLTestRunner(buf)
+        runner.run(self.suite)
+        # didn't blow up? ok.
+        self.assert_('</html>' in buf.getvalue())
+
+    def test_main(self):
+        # Run HTMLTestRunner. Verify the HTML report.
+
+        # suite of TestCases
+        self.suite = unittest.TestSuite()
+        self.suite.addTests([
+            unittest.defaultTestLoader.loadTestsFromTestCase(Pudding1sTest),
+            ])
+
+        # Invoke TestRunner
+        fp=file(r'd:\www\report\Pudding1sreport\testreport.html','wb')
+        print "Testreport website:http://192.168.1.100/report/Pudding1sreport/"+stringnumber+"/testreport.html"
+        runner = HTMLTestRunner.HTMLTestRunner(
+                    stream=fp,
+                    title='<Pudding1s Test>',
+                    description='Pudding1s test report'
+                    )
+        runner.run(self.suite)
+        global fail_num
+        if(fail_num>0):
+           exit(1)
+
+import unittest
+if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        argv = sys.argv
+    else:
+        argv=['test_HTMLTestRunner.py', 'Test_HTMLTestRunner']
+    unittest.main(argv=argv)
+    
