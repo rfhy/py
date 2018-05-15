@@ -1,5 +1,0 @@
-git status
-git add . or git add xxx
-git commit -m "add you change description"
-git pull origin master
-git push origin master
